@@ -1,0 +1,25 @@
+,Description##OTHER##,Lamp##OTHER##,Initial Color Temperature##COLOR_TEMPERATURE##KELVIN,Wattage Comments##OTHER##,Wattage##ELECTRICAL_WATTAGE##WATTS,Luminous Flux##ELECTRICAL_LUMINOUS_FLUX##LUMENS,Voltage##ELECTRICAL_POTENTIAL##VOLTS,Model##OTHER##,Product Documentation Link##OTHER##,Photometric Web File##OTHER##,Square Diffuser##OTHER##,Junction Box Cover##OTHER##
+OW2400-L30K-MVOLT,"22"" Rectilinear Diffuser",L30K,3000,13W,13,410,120,OW2400-L30K-MVOLT,http://www.visalighting.com/sites/default/files/OW2400%20Sass_SPEC.pdf,OW2400-L35K.ies,1,0
+OW2400-L30K-MVOLT-RMB,"22"" Rectilinear Diffuser",L30K,3000,13W,13,410,120,OW2400-L30K-MVOLT-RMB,http://www.visalighting.com/sites/default/files/OW2400%20Sass_SPEC.pdf,OW2400-L35K.ies,1,0
+OW2400-L30K-MVOLT-JBC,"22"" Rectilinear Diffuser",L30K,3000,13W,13,410,120,OW2400-L30K-MVOLT-JBC,http://www.visalighting.com/sites/default/files/OW2400%20Sass_SPEC.pdf,OW2400-L35K.ies,1,1
+OW2400-L30K-MVOLT-JBC-RMB,"22"" Rectilinear Diffuser",L30K,3000,13W,13,410,120,OW2400-L30K-MVOLT-JBC-RMB,http://www.visalighting.com/sites/default/files/OW2400%20Sass_SPEC.pdf,OW2400-L35K.ies,1,1
+OW2400-L35K-MVOLT,"22"" Rectilinear Diffuser",L35K,3500,13W,13,410,120,OW2400-L35K-MVOLT,http://www.visalighting.com/sites/default/files/OW2400%20Sass_SPEC.pdf,OW2400-L35K.ies,1,0
+OW2400-L35K-MVOLT-RMB,"22"" Rectilinear Diffuser",L35K,3500,13W,13,410,120,OW2400-L35K-MVOLT-RMB,http://www.visalighting.com/sites/default/files/OW2400%20Sass_SPEC.pdf,OW2400-L35K.ies,1,0
+OW2400-L35K-MVOLT-JBC,"22"" Rectilinear Diffuser",L35K,3500,13W,13,410,120,OW2400-L35K-MVOLT-JBC,http://www.visalighting.com/sites/default/files/OW2400%20Sass_SPEC.pdf,OW2400-L35K.ies,1,1
+OW2400-L35K-MVOLT-JBC-RMB,"22"" Rectilinear Diffuser",L35K,3500,13W,13,410,120,OW2400-L35K-MVOLT-JBC-RMB,http://www.visalighting.com/sites/default/files/OW2400%20Sass_SPEC.pdf,OW2400-L35K.ies,1,1
+OW2400-L40K-MVOLT,"22"" Rectilinear Diffuser",L40K,4000,13W,13,410,120,OW2400-L40K-MVOLT,http://www.visalighting.com/sites/default/files/OW2400%20Sass_SPEC.pdf,OW2400-L35K.ies,1,0
+OW2400-L40K-MVOLT-RMB,"22"" Rectilinear Diffuser",L40K,4000,13W,13,410,120,OW2400-L40K-MVOLT-RMB,http://www.visalighting.com/sites/default/files/OW2400%20Sass_SPEC.pdf,OW2400-L35K.ies,1,0
+OW2400-L40K-MVOLT-JBC,"22"" Rectilinear Diffuser",L40K,4000,13W,13,410,120,OW2400-L40K-MVOLT-JBC,http://www.visalighting.com/sites/default/files/OW2400%20Sass_SPEC.pdf,OW2400-L35K.ies,1,1
+OW2400-L40K-MVOLT-JBC-RMB,"22"" Rectilinear Diffuser",L40K,4000,13W,13,410,120,OW2400-L40K-MVOLT-JBC-RMB,http://www.visalighting.com/sites/default/files/OW2400%20Sass_SPEC.pdf,OW2400-L35K.ies,1,1
+OW2402-L30K-MVOLT,"22"" Cylindrical Diffuser",L30K,3000,13W,13,410,120,OW2402-L30K-MVOLT,http://www.visalighting.com/sites/default/files/OW2402%20Sass_SPEC.pdf,OW2402-L35K.ies,0,0
+OW2402-L30K-MVOLT-RMB,"22"" Cylindrical Diffuser",L30K,3000,13W,13,410,120,OW2402-L30K-MVOLT-RMB,http://www.visalighting.com/sites/default/files/OW2402%20Sass_SPEC.pdf,OW2402-L35K.ies,0,0
+OW2402-L30K-MVOLT-JBC,"22"" Cylindrical Diffuser",L30K,3000,13W,13,410,120,OW2402-L30K-MVOLT-JBC,http://www.visalighting.com/sites/default/files/OW2402%20Sass_SPEC.pdf,OW2402-L35K.ies,0,1
+OW2402-L30K-MVOLT-JBC-RMB,"22"" Cylindrical Diffuser",L30K,3000,13W,13,410,120,OW2402-L30K-MVOLT-JBC-RMB,http://www.visalighting.com/sites/default/files/OW2402%20Sass_SPEC.pdf,OW2402-L35K.ies,0,1
+OW2402-L35K-MVOLT,"22"" Cylindrical Diffuser",L35K,3500,13W,13,410,120,OW2402-L35K-MVOLT,http://www.visalighting.com/sites/default/files/OW2402%20Sass_SPEC.pdf,OW2402-L35K.ies,0,0
+OW2402-L35K-MVOLT-RMB,"22"" Cylindrical Diffuser",L35K,3500,13W,13,410,120,OW2402-L35K-MVOLT-RMB,http://www.visalighting.com/sites/default/files/OW2402%20Sass_SPEC.pdf,OW2402-L35K.ies,0,0
+OW2402-L35K-MVOLT-JBC,"22"" Cylindrical Diffuser",L35K,3500,13W,13,410,120,OW2402-L35K-MVOLT-JBC,http://www.visalighting.com/sites/default/files/OW2402%20Sass_SPEC.pdf,OW2402-L35K.ies,0,1
+OW2402-L35K-MVOLT-JBC-RMB,"22"" Cylindrical Diffuser",L35K,3500,13W,13,410,120,OW2402-L35K-MVOLT-JBC-RMB,http://www.visalighting.com/sites/default/files/OW2402%20Sass_SPEC.pdf,OW2402-L35K.ies,0,1
+OW2402-L40K-MVOLT,"22"" Cylindrical Diffuser",L40K,4000,13W,13,410,120,OW2402-L40K-MVOLT,http://www.visalighting.com/sites/default/files/OW2402%20Sass_SPEC.pdf,OW2402-L35K.ies,0,0
+OW2402-L40K-MVOLT-RMB,"22"" Cylindrical Diffuser",L40K,4000,13W,13,410,120,OW2402-L40K-MVOLT-RMB,http://www.visalighting.com/sites/default/files/OW2402%20Sass_SPEC.pdf,OW2402-L35K.ies,0,0
+OW2402-L40K-MVOLT-JBC,"22"" Cylindrical Diffuser",L40K,4000,13W,13,410,120,OW2402-L40K-MVOLT-JBC,http://www.visalighting.com/sites/default/files/OW2402%20Sass_SPEC.pdf,OW2402-L35K.ies,0,1
+OW2402-L40K-MVOLT-JBC-RMB,"22"" Cylindrical Diffuser",L40K,4000,13W,13,410,120,OW2402-L40K-MVOLT-JBC-RMB,http://www.visalighting.com/sites/default/files/OW2402%20Sass_SPEC.pdf,OW2402-L35K.ies,0,1
