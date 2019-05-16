@@ -1,0 +1,70 @@
+*.*.rvt
+*.*.rte
+*.*.rfa
+*.ifc.log
+*.bak
+*.ifc.log.html
+Ryan_Random_Tests/
+Videos and Photos (added to gitignore)/
+_CLOSED/
+*.backup
+
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must ends with two \r.
+Icon
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+*.log
+
+# FreeCAD and Blender backup files
+*.FcStd1
+*.FcStd2
+*.fcstd1
+*.fcstd2
+*.blend1
+*.blend2
+
+#Excel temporary files
+~$*.xlsx
+
+#AutoCAD temporary files
+*.dwl*
+/_CLOSED_Cannery District - Eau Claire/Transfer/_Open/20181009 - to owner - meeting with city/Cannery.rvt
+/_CLOSED_Cannery District - Eau Claire/Transfer/_Open/20190421 - to city - animation/Enscape_2019-04-21-22-15-09.mp4
+/_CLOSED_Cannery District - Eau Claire/Transfer/_Open/20190412 - to structural engineer - model/20190412 - CTR.zip
+/_CLOSED_Cannery District - Eau Claire/Models & CAD/BIM/Archive/20190324/1750 Ox - 1st Phase - Common Walls.rvt
+/_CLOSED_Cannery District - Eau Claire/Models & CAD/BIM/Archive/20190324/1750 Ox - 1st Phase - Shell.rvt
+/_CLOSED_Cannery District - Eau Claire/Transfer/_Open/20190228 - video animination/20190228 - Cannery.mp4
+/Existing Conditions & Code Research/Existing Conditions/09002 - 1720 N Oxford/Photos and Videos/2018-11-13 15.55.43.mp4
