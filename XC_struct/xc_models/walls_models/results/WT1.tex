@@ -1,0 +1,126 @@
+\begin{table}
+\begin{center}
+\begin{tabular}[H]{|l|}
+\hline
+\multicolumn{1}{|c|}{\textsc{WT1}}\\
+\hline
+\begin{tabular}{c|l}
+\begin{minipage}{85mm}
+\vspace{2mm}
+\begin{center}
+\includegraphics[width=80mm]{WT1}
+\end{center}
+\vspace{1pt}
+\end{minipage} & 
+\begin{tabular}{l}
+\textsc{Géométrie mur}\\
+Épaisseur couronnement: \\
+$b_{couronn}= 0.25\ m$\\
+Hauteur voile: \\
+$h_{voile}= 4.27\ m$\\
+Épaisseur encastrement: \\
+$b_{encast.}= 0.25\ m$\\
+Épaisseur semelle: \\
+$b_{semelle.}= 0.36\ m$\\
+\end{tabular} \\
+\end{tabular} \\
+\hline
+\begin{tabular}{llll}
+\multicolumn{3}{c}{\textsc{Matériels}}\\
+  Béton: C3500 &   Acier: A615G60 &   ConcreteCover: 55 mm\\
+\end{tabular} \\
+\hline
+\end{tabular}
+\caption{Matériels et dimensions mur WT1} \label{tb_def_WT1}
+\end{center}
+\end{table}
+\begin{center}
+\begin{tabular}[H]{|l|c|c|c|}
+\hline
+\multicolumn{4}{|c|}{\textsc{Verification stabilité mur: WT1}}\\
+\hline
+Vérification:  & $F_{disp}$ & $F_{req}$ & Combinaison\\
+\hline
+Renversement:  & 3.34 & 1.00 & SR7B\\
+Glissement:  & 0.86 & 1.00 & SR7B\\
+Poinçonnement:  & 0.76 & 1.00 & SR5B\\
+\hline
+\multicolumn{4}{|l|}{$F_{disp}$: sécurité disponible.}\\
+\multicolumn{4}{|l|}{$F_{req}$: sécurité requise.}\\
+\hline
+\end{tabular}
+\end{center}
+\begin{center}
+\begin{tabular}[H]{|l|c|c|c|}
+\hline
+\multicolumn{3}{|c|}{\textsc{Verification rotation mur: WT1}}\\
+\hline
+$\beta_{disp} (\permil)$ & $\beta_{req}(\permil)$ & Combinaison\\
+\hline
+-0.19 & 2.00 & ELS01\\
+\hline
+\multicolumn{3}{|l|}{$\beta_{disp}$: rotation maximale calculée du mur.}\\
+\multicolumn{3}{|l|}{$\beta_{req}$: rotation maximale autorisée du mur.}\\
+\hline
+\end{tabular}
+\end{center}
+\bottomcaption{Calcul armatures mur WT1} \label{tb_WT1}
+\tablefirsthead{\hline
+\multicolumn{1}{|c|}{\textsc{Armatures mur WT1}}\\\hline
+}
+\tablehead{\hline
+\multicolumn{1}{|c|}{\textsc{WT1 (suite)}}\\\hline
+}
+\tabletail{\hline \multicolumn{1}{|r|}{../..}\\\hline}
+\tablelasttail{\hline}
+\begin{center}
+\begin{supertabular}[H]{|l|}
+\hline
+\textbf{Armature 1 (armature extérieure en attente) :} \\
+  Dimensions coupe; b= 1.00m, h= 0.25m\\
+  diam: 16 mm, spacing: 300 mm  l. ancrage L=0.37 m (23 diamètres).\\
+  diam: 19 mm, spacing: 300 mm  l. ancrage L=0.65 m (34 diamètres).\\
+  area: As=  16.13 cm2/m areaMin:   4.56 cm2/m  F(As)= 3.54 OK!\\
+  Verif. en flexion: Md=  19.70 kN m, MR=  99.62kN m  F(M)= 5.06 OK!\\
+  Vérif. eff. tranchant: Vd= 102.31kN,  VR= 186.49kN  F(V)= 1.82 OK!\\
+  Verif. contraintes: M=  19.70 kN m, $\sigma_s$=  53.41 MPa\\
+    $\sigma_{lim}$= 230.00 MPa  F($\sigma_s$)= 4.31 OK!\\
+\textbf{Armature 4 (armature intérieure en attente):}\\
+  diam: 10 mm, spacing: 150 mm  l. ancrage L=0.30 m (32 diamètres).\\
+  area: As=   4.73 cm2/m areaMin:   1.72 cm2/m  F(As)= 2.75 OK!\\
+\textbf{Armature 5 (armature intérieure en voile):}\\
+  Dimensions coupe; b= 1.00m, h= 0.25m\\
+  diam: 16 mm, spacing: 150 mm  l. ancrage L=0.37 m (23 diamètres).\\
+  area: As=  13.33 cm2/m areaMin:   4.56 cm2/m  F(As)= 2.93 OK!\\
+  Verif. en flexion: Md=  83.20 kN m, MR=  82.72kN m  F(M)= 0.99 $\sim$ OK!\\
+  Vérif. eff. tranchant: Vd=   5.44kN,  VR= 186.49kN  F(V)= 34.29 OK!\\
+  Verif. contraintes: M=  83.20 kN m, $\sigma_s$= 272.95 MPa\\
+    $\sigma_{lim}$= 230.00 MPa  F($\sigma_s$)= 0.84 Error!\\
+\textbf{Armature 6 (armature couronnement):}\\
+  Dimensions coupe; b= 1.00m, h= 0.25m\\
+  diam: 13 mm, spacing: 150 mm  l. ancrage L=0.30 m (24 diamètres).\\
+  area: As=   8.60 cm2/m areaMin:   4.56 cm2/m  F(As)= 1.89 OK!\\
+\textbf{Armature 7 (armature trsv. inférieure semelle):}\\
+  diam: 10 mm, spacing: 150 mm  l. ancrage L=0.30 m (32 diamètres).\\
+  area: As=   4.73 cm2/m areaMin:   3.23 cm2/m  F(As)= 1.47 OK!\\
+\textbf{Armature 8 (armature long. inférieure semelle):}\\
+  diam: 16 mm, spacing: 300 mm  l. ancrage L=0.37 m (23 diamètres).\\
+  diam: 19 mm, spacing: 300 mm  l. ancrage L=0.65 m (34 diamètres).\\
+  area: As=  16.13 cm2/m areaMin:   6.38 cm2/m  F(As)= 2.53 OK!\\
+\textbf{Armature 9 (armature long. supérieure semelle):}\\
+  diam: 16 mm, spacing: 300 mm  l. ancrage L=0.37 m (23 diamètres).\\
+  diam: 19 mm, spacing: 300 mm  l. ancrage L=0.65 m (34 diamètres).\\
+  area: As=  16.13 cm2/m areaMin:   6.38 cm2/m  F(As)= 2.53 OK!\\
+\textbf{Armature 10 (armature de peau semelle):}\\
+  --\\
+\textbf{Armature 11 (armature long. extérieure voile):}\\
+  diam: 13 mm, spacing: 150 mm  l. ancrage L=0.30 m (24 diamètres).\\
+  area: As=   8.60 cm2/m areaMin:   4.56 cm2/m  F(As)= 1.89 OK!\\
+\textbf{Armature 12 (armature long. intérieure voile):}\\
+  diam: 13 mm, spacing: 150 mm  l. ancrage L=0.30 m (24 diamètres).\\
+  area: As=   8.60 cm2/m areaMin:   4.56 cm2/m  F(As)= 1.89 OK!\\
+\textbf{Armature 13 (armature long. couronnement):}\\
+  --\\
+\hline
+\end{supertabular}
+\end{center}
