@@ -1,0 +1,81 @@
+The load combinations shown in tables \ref{ULS} and \ref{SLS} follow the strength design load combinations listed in IBC, section 1605.
+\begin{table}[h]
+  \begin{center}
+   \caption{\textbf{Combinations Ultimate Limit States}} \label{ULS}
+   \begin{tabular}{lll}
+    \textbf{Identifier} && \textbf{Load Combination}\\
+      \hlineB{2}
+    ULS01: && 1.4*D \\
+      \arrayrulecolor{gray}\hline
+    ULS02\_a: && 1.2*D + 1.6*Lru + Lpu + 0.5*S\\
+      \arrayrulecolor{gray}\hline
+    ULS02\_b: && 1.2*D + 1.6*Lrs + Lps + 0.5*S \\
+      \arrayrulecolor{gray}\hline
+    ULS03\_a: && 1.2*D + 1.6*S + 0.5*Lru + Lpu \\
+      \arrayrulecolor{gray}\hline
+    ULS03\_b: && 1.2*D + 1.6*S + 0.5*Lrs + Lps \\
+      \arrayrulecolor{gray}\hline
+    ULS04\_b: && 1.2*D + 1.6*S + 0.5*W\_NS \\
+      \arrayrulecolor{gray}\hline
+    ULS04\_a: && 1.2*D + 1.6*S + 0.5*W\_WE \\
+      \arrayrulecolor{gray}\hline
+    ULS05\_a: && 1.2*D + W\_WE + 0.5*Lru + Lpu \\
+      \arrayrulecolor{gray}\hline
+    ULS05\_b: && 1.2*D + W\_NS + 0.5*Lru + Lpu \\
+      \arrayrulecolor{gray}\hline
+    ULS05\_c: && 1.2*D + W\_WE + 0.5*Lrs + Lps \\
+      \arrayrulecolor{gray}\hline
+    ULS05\_d: && 1.2*D + W\_NS + 0.5*Lrs + Lps \\
+       \arrayrulecolor{gray}\hline
+    ULS06\_a: && 1.2*D + 0.5*Lru + Lpu + 0.2*S \\
+      \arrayrulecolor{gray}\hline
+    ULS06\_b: && 1.2*D + 0.5*Lrs + Lps + 0.2*S \\
+      \arrayrulecolor{gray}\hline
+    ULS07\_a: && 0.9*D + W\_WE \\
+      \arrayrulecolor{gray}\hline
+    ULS07\_b: && 0.9*D + W\_NS \\
+    \hlineB{2}
+    Where: & \multicolumn{2}{l}{} \\
+    & \multicolumn{2}{l}{ D =  dead load} \\
+    & \multicolumn{2}{l}{ Lru =  live load (uniform on rooms)} \\
+    & \multicolumn{2}{l}{ Lrs =  live load (staggered pattern on rooms)}\\
+    & \multicolumn{2}{l}{ Lpu =  live load (uniform on patios)} \\
+    & \multicolumn{2}{l}{ Lps =  live load (staggered pattern on patios)}\\
+    & \multicolumn{2}{l}{ S =  snow load} \\
+    & \multicolumn{2}{l}{ W\_WE =  Wind West-East} \\
+    & \multicolumn{2}{l}{ W\_NS =  Wind North-South} \\
+  \end{tabular}
+  \end{center}
+\end{table}
+
+
+\begin{table}[h]
+  \begin{center}
+   \caption{\textbf{Combinations Serviceability Limit States}} \label{SLS}
+   \begin{tabular}{lll}
+    \textbf{Identifier} && \textbf{Load Combination}\\
+      \hlineB{2}
+    SLS01: && 1.0*D \\
+    SLS02\_a: && 1.0*D + 1.0*Lru + Lpu + 0.3*S \\
+    SLS02\_b: && 1.0*D + 1.0*Lrs + Lps + 0.3*S \\
+    SLS03\_a: && 1.0*D + 1.0*S + 0.3*Lru + 0.3*Lpu \\
+    SLS03\_b: && 1.0*D + 1.0*S + 0.3*Lrs + 0.3*Lps \\
+    SLS04\_a: && 1.0*D + W\_WE + 1.0*Lru + Lpu \\
+    SLS04\_b: && 1.0*D + W\_NS + 1.0*Lru + Lpu \\
+    SLS04\_c: && 1.0*D + W\_WE + 1.0*Lrs + Lps \\
+    SLS04\_d: && 1.0*D + W\_NS + 1.0*Lrs + Lps \\
+    SLS05\_a: && 1.0*D + W\_WE \\
+    SLS05\_b: && 1.0*D + W\_NS \\
+    \hlineB{2}
+    Where: & \multicolumn{2}{l}{} \\
+    & \multicolumn{2}{l}{ D =  dead load} \\
+    & \multicolumn{2}{l}{ Lru =  live load (uniform on rooms)} \\
+    & \multicolumn{2}{l}{ Lrs =  live load (staggered pattern on rooms)}\\
+    & \multicolumn{2}{l}{ Lpu =  live load (uniform on patios)} \\
+    & \multicolumn{2}{l}{ Lps =  live load (staggered pattern on patios)}\\
+    & \multicolumn{2}{l}{ S =  snow load} \\
+    & \multicolumn{2}{l}{ W\_WE =  Wind West-East} \\
+    & \multicolumn{2}{l}{ W\_NS =  Wind North-South} \\
+  \end{tabular}
+  \end{center}
+\end{table}

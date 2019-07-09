@@ -1,0 +1,102 @@
+
+\subsubsection{Dead loads}
+\begin{table}[h!]
+\begin{tabular}{lp{8cm}p{10cm}}
+\multicolumn{3}{l}{Materials}\\
+\input{loads_annex/dead_loads_01.tex}
+
+\multicolumn{3}{l}{Frame partitions}\\
+& Wood or steel studs, $\frac{1}{2}$in gypsum board inside & $8\ \mathrm{psf}= 383 \ \mathrm{pascal}$ \\
+& Wood studs, 2x4 unplastered & $4\ \mathrm{psf}=192 \ \mathrm{pascal}$\\
+& Wood studs, 2x4 plastered one side & $12\ \mathrm{psf}= 575\ \mathrm{pascal}$\\
+& Wood studs, 2x4 plastered two sides & $20\ \mathrm{psf}=958 \ \mathrm{pascal}$\\
+& Movable steel partitions &  $4\ \mathrm{psf}=192 \ \mathrm{pascal}$\\
+\multicolumn{3}{l}{Frame walls}\\
+& Exterior stud wall 2x4 @ 16in, $\frac{5}{8}$ gypsum insulated, $\cfrac{3}{8}$ in siding &  $11\ \mathrm{psf}=526 \ \mathrm{pascal}$\\
+& Exterior stud wall 2x6 @ 16in, $\frac{5}{8}$ gypsum insulated, $\cfrac{3}{8}$ in siding &  $12\ \mathrm{psf}=575 \ \mathrm{pascal}$\\
+& Exterior stud wall with brick veneer &   $48\ \mathrm{psf}=2298 \ \mathrm{pascal}$\\
+& CMU wall 8in &   $60\ \mathrm{psf}=9425 \ \mathrm{pascal}$\\
+& Window, glass, frame and sash & $8\ \mathrm{psf}=383 \ \mathrm{pascal}$\\
+\multicolumn{3}{l}{Cladding}\\
+& Fiber cement panels, large format $38.4\text{in} \times 102\text{in}$ & $3.2\ \mathrm{psf} = 153\ \mathrm{pascal}$ \\
+& Fiber cement panels, small scale $9.6\text{in} \times 102\text{in}$ & $3.2\ \mathrm{psf} = 153\ \mathrm{pascal}$ \\
+& Perforated metal panel at exterior HVAC location & \\
+\multicolumn{3}{l}{Floor truss}\\
+& Single chord @ 24in o.c. spacing & $3.2\ \mathrm{psf} = 153\ \mathrm{pascal}$ \\
+& Double chord @ 24in o.c. spacing & $4.25\ \mathrm{psf} = 203\ \mathrm{pascal}$ \\
+\multicolumn{3}{l}{Sheating}\\
+& Roof sheating & $ 3.5\ \mathrm{psf} = 167\ \mathrm{pascal}$ \\
+& Floor sheating & $ 2.5\ \mathrm{psf} = 120\ \mathrm{pascal}$ \\
+& Ceilings & $ 2.5\ \mathrm{psf} = 120\ \mathrm{pascal}$ \\
+& Deck composite sleeperes (3in) &  $9.00\ \mathrm{psf} = 431\ \mathrm{pascal}$ \\
+\end{tabular}
+\end{table}
+
+\subsubsection{Live loads}
+\begin{tabular}{p{5cm}p{2.5cm}|p{2.5cm}|p{4cm}}
+\textbf{Occupancy or use} & \textbf{Uniform} & \textbf{Concentrated} & \textbf{Notes}\\
+\hline
+\input{loads_annex/live_loads.tex}
+\end{tabular}
+
+\subsubsection{Snow loads}
+\begin{tabular}{p{5cm}p{5cm}|p{5cm}}
+Ground snow load & $p_g = 60.0\ \mathrm{psf} = 2873 \ \mathrm{pascal}$ & \emph{ASCE 7. Figure 7.1}\\
+Exposure factor & $C_e = 1.0$ &  \emph{ASCE 7. Table 7-2. Terrain category B, roof partially exposed} \\
+Thermal factor &  $C_t = 1.0$ & \emph{ASCE 7. Table 7-3.}\\
+Snow load importance factor & $I_s = 1.0$ & \emph{ASCE 7. Table 7-4. Structure risk category II}\\
+\textbf{Snow load flat roof} & $p_f = 0.7 \times C_e \times C_t \times  I_s\times p_g = 0.7 \times 1.0 \times 1.0 \times 1.0 \times 60.0 = 42.0\ \mathrm{psf} = 2873 \ \mathrm{pascal}$ & \emph{ASCE 7. Sect. 7.3}\\
+\end{tabular}
+
+\subsubsection{Wind loads}
+\begin{tabular}{p{5cm}l|p{5cm}}
+\multicolumn{2}{l|}{Alternate all-heights method.} & \emph{IBC-2018, sect. 1609.6.  Regularly shaped building, less than 75 feet in height, not sensitive to dynamic effects, not channeling effects or buffeting, simple diaphragm building} \\
+Ultimate design wind speed & $V_{ult} = 115 \frac{\mathrm{miles}}{\mathrm{hour}} = 51 \frac{\mathrm{meters}}{\mathrm{second}} $& \emph{IBC-2018, figure 1609.3(1). Risk category II building}\\
+Velocity pressure exposure coefficient & $K_z = 0.72$ & \emph{ASCE 7, table 27.3.1. Exposure B, height above ground level z $\approx$ 33 feet} \\
+Topographic factor & $K_{zt} = 1.0 $ & \emph{ASCE 7, sect. 26.8} \\
+\end{tabular}
+
+\vspace{5mm}
+
+\begin{tabular}{lcc|p{5cm}}
+\multicolumn{3}{p{8cm}|}{\textbf{Net pressure coefficients $C_{net}$}. Main windforce-resisting frames and systems} & \emph{IBC-2018, Table 1609.6.2, enclosed} \\
+Description & $C_{net}$ + Internal & $C_{net}$ - Internal & \\
+ & pressure &  presure & \\
+ \cline{1-3}
+Windward wall & 0.43 & 0.73 & \\
+Leeward wall & -0.51 & -0.21 & \\
+Sidewall & -0.66 & -0.35 & \\
+Parapet windward wall & \multicolumn{2}{c|}{1.28} & \\
+Parapet leeward wall & \multicolumn{2}{c|}{-0.85} & \\
+Flat roof & -1.09 & -0.79 & \\
+\end{tabular}
+
+\vspace{5mm}
+
+\begin{tabular}{lp{4cm}p{4cm}|p{2cm}}
+\multicolumn{3}{l|}{\textbf{Design wind pressures $P_{net}$}. Main windforce-resisting frames and systems} & \emph{IBC-2018, sect. 1609.6.3} \\
+\multicolumn{3}{p{8cm}|}{$P_{net} = 0.00256 \times V^2 \times K_z \times C_{net} \times K_{zt}$} & \\
+Description & $P_{net}$ + Internal & $P_{net}$ - Internal & \\
+ & pressure &  presure & \\
+ \cline{1-3}
+Windward wall & $10.5\ \mathrm{psf} =  501\ \mathrm{pascal}$ & $17.8\ \mathrm{psf} =  852\ \mathrm{pascal}$  & \\
+Leeward wall & $-12.4\ \mathrm{psf} =  -595\ \mathrm{pascal}$  & $-5.1\ \mathrm{psf} =  -245\ \mathrm{pascal}$  & \\
+Sidewall & $-16.1\ \mathrm{psf} =  -770\ \mathrm{pascal}$  & $-8.5\ \mathrm{psf} =  -409\ \mathrm{pascal}$  & \\
+Parapet windward wall & \multicolumn{2}{c|}{$31.2\ \mathrm{psf} =  1494\ \mathrm{pascal}$ } & \\
+Parapet leeward wall & \multicolumn{2}{c|}{$-20.7\ \mathrm{psf} =  -992\ \mathrm{pascal}$ } & \\
+Flat roof & $-26.6\ \mathrm{psf} =  -1272\ \mathrm{pascal}$  & $-19.3\ \mathrm{psf} =  -992\ \mathrm{pascal}$  & \\
+\end{tabular}
+
+\subsubsection{Earthquake loads}
+\begin{tabular}{p{4cm}l|p{4cm}}
+Parameter 0.2-second spectral response acceleration & $S_s = 0.045$ &  \emph{IBC-2018, figure 1613.3.1(1). Site class B} \\
+Parameter 1-second spectral response acceleration & $S_1 = 0.038$ &  \emph{IBC-2018, figure 1613.3.1(2). Site class B} \\
+Seismic design category & $S_1 \le 0.04\ and\  S_s \le 0.15 \rightarrow $ SDS A & \emph{IBC-2018, sect. 1613.3.1} \\
+Site coefficients & $F_a$ = 1.0, $F_v$ = 1.0 & \emph{IBC-2018, tables 1613.3.3(1) and 1613.3.3(2). Site class  B} \\
+Maximum considered earthquake spectral response acceleration for short periods & $S_{MS} = F_a\cdot S_s = 0.045$ &  \emph{IBC-2018, sect. 163.3.3} \\
+& $S_{M1} = F_a\cdot S_1 = 0.038$ &  \emph{IBC-2018, sect. 163.3.3} \\
+Design spectral response acceleration parameters & $S_{DS} = \cfrac{2}{3} S_{MS} = 0.03$ & \emph{IBC-2018, sect. 163.3.4} \\
+& $S_{D1} = \cfrac{2}{3} S_{M1} = 0.025$ & \emph{IBC-2018, sect. 163.3.4} \\
+\end{tabular}
+
+

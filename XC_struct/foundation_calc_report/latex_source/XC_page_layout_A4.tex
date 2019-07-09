@@ -1,0 +1,40 @@
+%%Geometría de la página.
+
+
+\pagestyle{fancy}
+\fancypagestyle{plain}{
+\fancyhf{} %anula los valores de fancy por defecto 
+
+\fancyfoot[LE]{page \thepage\ of \pageref{LastPage}}
+%\fancyfoot[CE]{\includegraphics[height=4.5mm]{anagrama/anagrama_XC_memorias}}
+\fancyfoot[RE]{\emph{rev. \revision}}
+
+\fancyfoot[LO]{\emph{\date}}
+%\fancyfoot[CO]{\includegraphics[height=4.5mm]{anagrama/anagrama_XC_memorias}}
+\fancyfoot[RO]{page \thepage\ of \pageref{LastPage}}
+\renewcommand{\headrulewidth}{0pt} %Dibuja una raya debajo de la cabecera
+\renewcommand{\footrulewidth}{0pt}
+}
+
+\renewcommand{\headrulewidth}{0.1pt} %Dibuja una raya debajo de la cabecera
+\renewcommand{\footrulewidth}{0pt}
+\geometry{a4paper}
+\textheight= 22cm %%Espacio vertical para el texto.
+%\textwidth=16cm
+\marginparwidth=0mm
+
+\fancyhf{} %anula los valores de fancy por defecto 
+
+\fancyhead[LE]{\textsc{\titdocum}}
+%\fancyhead[RO]{\textsc{\leftmark}}
+\fancyhead[RO]{\textsc{\rightmark}}
+
+\fancyfoot[LE]{page \thepage\ of \pageref{LastPage}}
+%\fancyfoot[CE]{\includegraphics[height=4.5mm]{anagrama/anagrama_XC_memorias}}
+\fancyfoot[RE]{\emph{rev. \revision}}
+
+\fancyfoot[LO]{\emph{\date}}
+%\fancyfoot[CO]{\includegraphics[height=4.5mm]{anagrama/anagrama_XC_memorias}}
+\fancyfoot[RO]{page \thepage\ of \pageref{LastPage}}
+
+
