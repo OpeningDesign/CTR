@@ -96,9 +96,9 @@ for fs in footingSetList:
 prep.getMultiBlockTopology.getSurfaces.conciliaNDivs()
 
 # Mesh generation.
-nodos= prep.getNodeHandler
-modelSpace= predefined_spaces.StructuralMechanics3D(nodos)
-nodos.newSeedNode()
+nodes= prep.getNodeHandler
+modelSpace= predefined_spaces.StructuralMechanics3D(nodes)
+nodes.newSeedNode()
 seedElemHandler= prep.getElementHandler.seedElemHandler
 
 for fs in footingSetList:
