@@ -115,7 +115,7 @@
 			- Use TPO membrane instead of EPDM.
 			- Wasn't discussed in the meetings, but I'm sure if the roof overhang was remove, it would lower costs.
 		- Stairs
-			- CMU cores throughout the 4 floors, most likely more cost effective than wood and CMU in the basement.
+			- [ ] - CMU cores throughout the 4 floors, most likely more cost effective than wood and CMU in the basement.
 			- Use a ship's ladder and roof hatch verses extending the stair to the roof.
 			- We can also eliminate the middle stair, next to the elevator, all together.  It is not required code-wise.
 	- B20 Ext. Vert Enclosure
@@ -156,11 +156,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTMyOTUyLDk5NDQ0MDIzMyw2OTc0Mz
-UyNjgsNjY3Njk1NDA0LDEzNDkxNjUxNTcsLTcyNTY3NjM0OCwt
-NzEzNDExNDAyLC00NTQzOTkxNzksLTE1NDY2NDYxMTQsLTEyOT
-U2MzMwNTksLTI4NDgxMDM4MCwtNTAwMTE4NDk5LC02NDE4NzI3
-NzIsMTQ2OTYwNzU3NSwtNjgzMjk1Nzg5LDE2NDc3ODE3NzQsOT
-k5MzU1NTQzLC04NDkxOTczODMsMTU0MTc5MDE2LDIxMTE5NjQx
-NzNdfQ==
+eyJoaXN0b3J5IjpbLTE4Mjk5Mjk3NDEsMTY0OTMyOTUyLDk5ND
+Q0MDIzMyw2OTc0MzUyNjgsNjY3Njk1NDA0LDEzNDkxNjUxNTcs
+LTcyNTY3NjM0OCwtNzEzNDExNDAyLC00NTQzOTkxNzksLTE1ND
+Y2NDYxMTQsLTEyOTU2MzMwNTksLTI4NDgxMDM4MCwtNTAwMTE4
+NDk5LC02NDE4NzI3NzIsMTQ2OTYwNzU3NSwtNjgzMjk1Nzg5LD
+E2NDc3ODE3NzQsOTk5MzU1NTQzLC04NDkxOTczODMsMTU0MTc5
+MDE2XX0=
 -->
