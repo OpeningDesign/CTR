@@ -98,12 +98,12 @@ for p in [pt1,pt2,pt3,pt4]:
     n= p.getNode()
     modelSpace.fixNode00F(n.tag)
 
-for n in midSet.getNodes:
+for n in midSet.nodes:
     pos= n.getInitialPos3d
     nInf= infSet.getNearestNode(pos)
     modelSpace.constraints.newEqualDOF(nInf.tag,n.tag,xc.ID([1]))
 
-for n in supSet.getNodes:
+for n in supSet.nodes:
     pos= n.getInitialPos3d
     nMid= midSet.getNearestNode(pos)
     modelSpace.constraints.newEqualDOF(nMid.tag,n.tag,xc.ID([1]))
@@ -131,17 +131,17 @@ loadCaseManager.defineSimpleLoadCases(loadCaseNames)
 
 # Dead load.
 cLC= loadCaseManager.setCurrentLoadCase('deadLoad')
-for e in supSet.getElements:
+for e in supSet.elements:
     e.vector2dUniformLoadGlobal(xc.Vector([0.0,-D]))
 
 # Live load.
 cLC= loadCaseManager.setCurrentLoadCase('liveLoad')
-for e in supSet.getElements:
+for e in supSet.elements:
     e.vector2dUniformLoadGlobal(xc.Vector([0.0,-L]))
 
 # Total load.
 cLC= loadCaseManager.setCurrentLoadCase('totalLoad')
-for e in supSet.getElements:
+for e in supSet.elements:
     e.vector2dUniformLoadGlobal(xc.Vector([0.0,-W]))
 
 #We add the load case to domain.
@@ -153,7 +153,7 @@ analisis= predefined_solutions.simple_static_linear(sheathingBeam)
 result= analisis.analyze(1)
 
 uYMax= -1e6
-for n in infSet.getNodes:
+for n in infSet.nodes:
     uY= -n.getDisp[1]
     uYMax= max(uY,uYMax)
 
@@ -174,7 +174,7 @@ Fv= CD*215*4.44822/0.3048/structuralPanelGeom.h
 
 sgMax= -1e6
 tauMax= -1e6
-for e in supSet.getElements:
+for e in supSet.elements:
     e.getResistingForce()
     m1= e.getM1
     sg1= abs(m1/section.sectionProperties.I*structuralPanelGeom.h/2)

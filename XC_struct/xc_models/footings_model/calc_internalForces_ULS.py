@@ -21,7 +21,7 @@ execfile(model_path+'sectionsDef.py')
 for fs in footingSetList:
     key= fs.name[0:2]
     fs.fillDownwards()
-    reinfConcreteSectionDistribution.assign(elemSet= fs.getElements, setRCSects= rcSects[key])
+    reinfConcreteSectionDistribution.assign(elemSet= fs.elements, setRCSects= rcSects[key])
 
 
 reinfConcreteSectionDistribution.dump()

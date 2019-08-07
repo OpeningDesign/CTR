@@ -30,7 +30,7 @@ for secRec in lstOfSectRecords:
 #FE model, assigning to each element the section-group that corresponds to it
 for secRec in lstOfSectRecords:
     elset=prep.getSets.getSet(secRec.elemSetName)
-    reinfConcreteSectionDistribution.assign(elemSet=elset.getElements,setRCSects=secRec)
+    reinfConcreteSectionDistribution.assign(elemSet=elset.elements,setRCSects=secRec)
 reinfConcreteSectionDistribution.mapSectionsFileName='./mapSectionsReinforcementTenStiff.pkl'
 reinfConcreteSectionDistribution.dump()
 

@@ -117,7 +117,7 @@ linWall0_rg=gm.IJKRange((0,j,lastZpos),(lastXpos,j,lastZpos))
 aux1=gridGeom.getSetPntRange(linWall0_rg,'aux1')
 linWall0=sets.get_lines_on_points(aux1,'linWall0')
 for l in  linWall0.getLines:
-    for n in l.getNodes():
+    for n in l.nodes:
         modelSpace.fixNode('000_FFF',n.tag)
 
 j=yList.index(yWalls[0])
@@ -125,7 +125,7 @@ linWall1_rg=gm.IJKRange((0,j,lastZpos),(lastXpos,j,lastZpos))
 aux2=gridGeom.getSetPntRange(linWall1_rg,'aux2')
 linWall1=sets.get_lines_on_points(aux2,'linWall1')
 for l in  linWall1.getLines:
-    for n in l.getNodes():
+    for n in l.nodes:
         modelSpace.fixNode('FF0_FFF',n.tag)
 
 j=yList.index(yWalls[1])
@@ -133,7 +133,7 @@ linWall2_rg=gm.IJKRange((0,j,lastZpos),(lastXpos,j,lastZpos))
 aux3=gridGeom.getSetPntRange(linWall2_rg,'aux3')
 linWall2=sets.get_lines_on_points(aux3,'linWall2')
 for l in  linWall2.getLines:
-    for n in l.getNodes():
+    for n in l.nodes:
         modelSpace.fixNode('FF0_FFF',n.tag)
 
 j=yList.index(yWalls[2])
@@ -141,7 +141,7 @@ linWall3_rg=gm.IJKRange((0,j,lastZpos),(lastXpos,j,lastZpos))
 aux4=gridGeom.getSetPntRange(linWall3_rg,'aux4')
 linWall3=sets.get_lines_on_points(aux4,'linWall3')
 for l in  linWall3.getLines:
-    for n in l.getNodes():
+    for n in l.nodes:
         modelSpace.fixNode('FF0_FFF',n.tag)
 
 j=lastYpos
@@ -149,7 +149,7 @@ linWall4_rg=gm.IJKRange((0,j,lastZpos),(lastXpos,j,lastZpos))
 aux5=gridGeom.getSetPntRange(linWall4_rg,'aux5')
 linWall4=sets.get_lines_on_points(aux5,'linWall4')
 for l in  linWall4.getLines:
-    for n in l.getNodes():
+    for n in l.nodes:
         modelSpace.fixNode('000_FFF',n.tag)
 
 #                       ***ACTIONS***

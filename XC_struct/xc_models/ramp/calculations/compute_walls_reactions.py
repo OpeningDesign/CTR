@@ -27,17 +27,17 @@ for lc in loadCases:
     #Reaction on column bases
     nodes.calculateNodalReactions(False,1e-7)
     for l in  linWall1.getLines:
-        for n in l.getNodes():
+        for n in l.nodes:
             reac= n.getReaction
             row= [n.tag, lc.loadCaseName, reac[2]]
             writerWall1.writerow(row)
     for l in  linWall2.getLines:
-        for n in l.getNodes():
+        for n in l.nodes:
             reac= n.getReaction
             row= [n.tag, lc.loadCaseName, reac[2]]
             writerWall2.writerow(row)
     for l in  linWall3.getLines:
-        for n in l.getNodes():
+        for n in l.nodes:
             reac= n.getReaction
             row= [n.tag, lc.loadCaseName, reac[2]]
             writerWall3.writerow(row)

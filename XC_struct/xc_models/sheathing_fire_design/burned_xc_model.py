@@ -88,17 +88,17 @@ loadCaseManager.defineSimpleLoadCases(loadCaseNames)
 
 # Dead load.
 cLC= loadCaseManager.setCurrentLoadCase('deadLoad')
-for e in supSet.getElements:
+for e in supSet.elements:
     e.vector2dUniformLoadGlobal(xc.Vector([0.0,-D]))
 
 # Live load.
 cLC= loadCaseManager.setCurrentLoadCase('liveLoad')
-for e in supSet.getElements:
+for e in supSet.elements:
     e.vector2dUniformLoadGlobal(xc.Vector([0.0,-L]))
 
 # Total load.
 cLC= loadCaseManager.setCurrentLoadCase('totalLoad')
-for e in supSet.getElements:
+for e in supSet.elements:
     e.vector2dUniformLoadGlobal(xc.Vector([0.0,-W]))
 
 #We add the load case to domain.
@@ -118,7 +118,7 @@ Fv= CD*215*4.44822/0.3048/structuralPanelGeom.h
 
 sgMax= -1e6
 tauMax= -1e6
-for e in supSet.getElements:
+for e in supSet.elements:
     e.getResistingForce()
     m1= e.getM1
     sg1= abs(m1/section.sectionProperties.I*structuralPanelGeom.h/2)

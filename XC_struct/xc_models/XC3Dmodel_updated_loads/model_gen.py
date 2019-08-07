@@ -511,9 +511,9 @@ for x in xCols:
 z=zCol
 for x in xCols[2:6]:
     for y in yCols[0:5]:
-        nCol=columns.getNodes.getNearestNode(geom.Pos3d(x,y,z))
-        nBeam1=beams.getNodes.getNearestNode(geom.Pos3d(x-gap/2.0,y,z))
-        nBeam2=beams.getNodes.getNearestNode(geom.Pos3d(x+gap/2.0,y,z))
+        nCol=columns.nodes.getNearestNode(geom.Pos3d(x,y,z))
+        nBeam1=beams.nodes.getNearestNode(geom.Pos3d(x-gap/2.0,y,z))
+        nBeam2=beams.nodes.getNearestNode(geom.Pos3d(x+gap/2.0,y,z))
         modelSpace.setFulcrumBetweenNodes(nCol.tag,nBeam1.tag)
         modelSpace.setFulcrumBetweenNodes(nCol.tag,nBeam2.tag)
         #torsion
@@ -523,8 +523,8 @@ for x in xCols[2:6]:
         
 for x in xCols[2:6]:
     for y in yCols[4:5]:
-        nCol=columns.getNodes.getNearestNode(geom.Pos3d(x,y,z))
-        nBeam1=beams.getNodes.getNearestNode(geom.Pos3d(x,y+gap/2.0,z))
+        nCol=columns.nodes.getNearestNode(geom.Pos3d(x,y,z))
+        nBeam1=beams.nodes.getNearestNode(geom.Pos3d(x,y+gap/2.0,z))
         modelSpace.setFulcrumBetweenNodes(nCol.tag,nBeam1.tag)
         #torsion
         modelSpace.fixNode('FFF_FF0',nCol.tag)
@@ -532,8 +532,8 @@ for x in xCols[2:6]:
 
 for x in xCols[1:2]:
     for y in yCols[0:5]:
-        nCol=columns.getNodes.getNearestNode(geom.Pos3d(x,y,z))
-        nBeam1=beams.getNodes.getNearestNode(geom.Pos3d(x+gap/2.0,y,z))
+        nCol=columns.nodes.getNearestNode(geom.Pos3d(x,y,z))
+        nBeam1=beams.nodes.getNearestNode(geom.Pos3d(x+gap/2.0,y,z))
         modelSpace.setFulcrumBetweenNodes(nCol.tag,nBeam1.tag)
         #torsion
         modelSpace.fixNode('FFF_FF0',nCol.tag)
@@ -541,8 +541,8 @@ for x in xCols[1:2]:
 
 for x in xCols[1:2]:
     for y in yCols[1:2]:
-        nCol=columns.getNodes.getNearestNode(geom.Pos3d(x,y,z))
-        nBeam1=beams.getNodes.getNearestNode(geom.Pos3d(x,y+gap/2.0,z))
+        nCol=columns.nodes.getNearestNode(geom.Pos3d(x,y,z))
+        nBeam1=beams.nodes.getNearestNode(geom.Pos3d(x,y+gap/2.0,z))
         modelSpace.setFulcrumBetweenNodes(nCol.tag,nBeam1.tag)
         #torsion
         modelSpace.fixNode('FFF_FF0',nCol.tag)
@@ -550,9 +550,9 @@ for x in xCols[1:2]:
         
 for x in xCols[1:2]:
     for y in yCols[2:5]:
-        nCol=columns.getNodes.getNearestNode(geom.Pos3d(x,y,z))
-        nBeam1=beams.getNodes.getNearestNode(geom.Pos3d(x,y-gap/2.0,z))
-        nBeam2=beams.getNodes.getNearestNode(geom.Pos3d(x,y+gap/2.0,z))
+        nCol=columns.nodes.getNearestNode(geom.Pos3d(x,y,z))
+        nBeam1=beams.nodes.getNearestNode(geom.Pos3d(x,y-gap/2.0,z))
+        nBeam2=beams.nodes.getNearestNode(geom.Pos3d(x,y+gap/2.0,z))
         modelSpace.setFulcrumBetweenNodes(nCol.tag,nBeam1.tag)
         modelSpace.setFulcrumBetweenNodes(nCol.tag,nBeam2.tag)
         #torsion
@@ -562,9 +562,9 @@ for x in xCols[1:2]:
         
 for x in xCols[0:1]:
     for y in yCols[0:5]:
-        nCol=columns.getNodes.getNearestNode(geom.Pos3d(x,y,z))
-        nBeam1=beams.getNodes.getNearestNode(geom.Pos3d(x,y-gap/2.0,z))
-        nBeam2=beams.getNodes.getNearestNode(geom.Pos3d(x,y+gap/2.0,z))
+        nCol=columns.nodes.getNearestNode(geom.Pos3d(x,y,z))
+        nBeam1=beams.nodes.getNearestNode(geom.Pos3d(x,y-gap/2.0,z))
+        nBeam2=beams.nodes.getNearestNode(geom.Pos3d(x,y+gap/2.0,z))
         modelSpace.setFulcrumBetweenNodes(nCol.tag,nBeam1.tag)
         modelSpace.setFulcrumBetweenNodes(nCol.tag,nBeam2.tag)
         #torsion
@@ -633,8 +633,8 @@ stbeams=beam1+beam2+beam3+beam4+beam5
 stslabs=slabBC+slabCD_L+slabDG+slabGF+slabFW+slabsF_L
 stbeams.fillDownwards()
 stslabs.fillDownwards()
-nod_stbeams=stbeams.getNodes
-nod_stslabs=stslabs.getNodes
+nod_stbeams=stbeams.nodes
+nod_stslabs=stslabs.nodes
 for n in nod_stbeams:
     n1=nod_stslabs.getNearestNode(n.getCurrentPos3d(0))
     modelSpace.constraints.newEqualDOF(n.tag,n1.tag,xc.ID(gluedDOFs))
@@ -643,8 +643,8 @@ stbeams=beam1
 stslabs=slabCD_H
 stbeams.fillDownwards()
 stslabs.fillDownwards()
-nod_stbeams=stbeams.getNodes
-nod_stslabs=stslabs.getNodes
+nod_stbeams=stbeams.nodes
+nod_stslabs=stslabs.nodes
 for n in nod_stbeams:
     n1=nod_stslabs.getNearestNode(n.getCurrentPos3d(0))
     modelSpace.constraints.newEqualDOF(n.tag,n1.tag,xc.ID(gluedDOFs))
@@ -653,8 +653,8 @@ stbeams=beamA+beamB
 stslabs=slabW1+slab12+slab23+slab34+slab45
 stbeams.fillDownwards()
 stslabs.fillDownwards()
-nod_stbeams=stbeams.getNodes
-nod_stslabs=stslabs.getNodes
+nod_stbeams=stbeams.nodes
+nod_stslabs=stslabs.nodes
 for n in nod_stbeams:
     n1=nod_stslabs.getNearestNode(n.getCurrentPos3d(0))
     modelSpace.constraints.newEqualDOF(n.tag,n1.tag,xc.ID(gluedDOFs))
@@ -663,8 +663,8 @@ stbeams=beamA+beamB+beamC
 stslabs=slab5W+slabs5_L
 stbeams.fillDownwards()
 stslabs.fillDownwards()
-nod_stbeams=stbeams.getNodes
-nod_stslabs=stslabs.getNodes
+nod_stbeams=stbeams.nodes
+nod_stslabs=stslabs.nodes
 for n in nod_stbeams:
     n1=nod_stslabs.getNearestNode(n.getCurrentPos3d(0))
     modelSpace.constraints.newEqualDOF(n.tag,n1.tag,xc.ID(gluedDOFs))
@@ -674,8 +674,8 @@ stbeams=beamD+beamG+beamF
 stslabs=slab5W+slabs5_L
 stbeams.fillDownwards()
 stslabs.fillDownwards()
-nod_stbeams=stbeams.getNodes
-nod_stslabs=stslabs.getNodes
+nod_stbeams=stbeams.nodes
+nod_stslabs=stslabs.nodes
 for n in nod_stbeams:
     n1=nod_stslabs.getNearestNode(n.getCurrentPos3d(0))
     modelSpace.constraints.newEqualDOF(n.tag,n1.tag,xc.ID(gluedDOFs))
@@ -687,8 +687,8 @@ j1=yList.index(yCols[0])
 j2=yList.index(yFac[1])
 k=zList.index(zBeamHigh)
 st1=gridGeom.getSetSurfOneRegion(gm.IJKRange((i1,j1,k),(i2,j2,k)),'st1')
-nod_st1=st1.getNodes
-nod_st2=slabCD_L.getNodes
+nod_st1=st1.nodes
+nod_st2=slabCD_L.nodes
 for n in nod_st1:
     n1=nod_st2.getNearestNode(n.getCurrentPos3d(0))
     modelSpace.constraints.newEqualDOF(n.tag,n1.tag,xc.ID(gluedDOFs))
@@ -939,7 +939,7 @@ overallSet=colA+colB+colC+colD+colG+colF+beamA+beamB+beam1+beam2H+beam2L+beam3H+
 
 preprocessor.getDomain.getMesh.getNumFreeNodes()
 '''
-for n in slabs.getNodes:
+for n in slabs.nodes:
     print n.getCurrentPos3d(0).z
 '''
 slabs.fillDownwards()

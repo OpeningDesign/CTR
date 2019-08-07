@@ -121,7 +121,7 @@ kV= typical_materials.defElasticMaterial(prep, "kV",kS)
 kH= typical_materials.defElasticMaterial(prep, "kH",kS/10.0)
 xcTotalSet.computeTributaryAreas(False)
 # Springs on nodes.
-elasticBearingNodes= footingsSet.getNodes
+elasticBearingNodes= footingsSet.nodes
 
 for n in elasticBearingNodes:
     tA= n.getTributaryArea()
