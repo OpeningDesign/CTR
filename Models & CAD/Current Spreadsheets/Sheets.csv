@@ -1,0 +1,73 @@
+Number,Sheet_Name,Sheet_File
+A000,COVER SHEET,OD_Revit_Template.rte
+A010,VICINITY MAP,CTR - 1st Phase - Common Walls
+A020,LIFE SAFETY,CTR - 1st Phase - Common Walls
+A100,FLOOR PLANS - BASEMENT,CTR - 1st Phase - Common Walls
+A101,FLOOR PLANS - 1ST FLOOR,CTR - 1st Phase - Common Walls
+A102,FLOOR PLANS - 2ND FLOOR,CTR - 1st Phase - Common Walls
+A103,FLOOR PLANS - 3RD FLOOR,CTR - 1st Phase - Common Walls
+A104,FLOOR PLANS - ROOF PLAN,CTR - 1st Phase - Shell
+A200,ELEVATIONS - BUILDING,CTR - 1st Phase - Shell
+A201,ELEVATIONS - BUILDING,CTR - 1st Phase - Shell
+A202,ELEVATIONS - BUILDING,CTR - 1st Phase - Shell
+A300,SECTIONS - BUILDING,CTR - 1st Phase - Shell
+A301,SECTIONS - BUILDING,CTR - 1st Phase - Shell
+A302,SECTIONS - BUILDING,CTR - 1st Phase - Shell
+A400,SECTIONS - WALL,CTR - 1st Phase - Shell
+A401,SECTIONS - WALL,CTR - 1st Phase - Shell
+A402,SECTIONS - WALL,CTR - 1st Phase - Shell
+A403,SECTIONS - WALL,CTR - 1st Phase - Shell
+A404,SECTIONS - WALL,CTR - 1st Phase - Shell
+A405,SECTIONS - WALL,CTR - 1st Phase - Shell
+A410.A,ENLARGED FLOOR PLAN – BASEMENT EAST SIDE,CTR - 1st Phase - Common Walls
+A410.B,ENLARGED FLOOR PLAN – BASEMENT WEST SIDE,CTR - 1st Phase - Common Walls
+A411.A,ENLARGED FLOOR PLAN - 1ST FLOOR EAST SIDE,CTR - 1st Phase - Common Walls
+A411.B,ENLARGED FLOOR PLAN - 1ST FLOOR WEST SIDE,CTR - 1st Phase - Common Walls
+A412.A,ENLARGED FLOOR PLAN - 2ND FLOOR EAST SIDE,CTR - 1st Phase - Common Walls
+A412.B,ENLARGED FLOOR PLAN - 2ND FLOOR WEST SIDE,CTR - 1st Phase - Common Walls
+A413.A,ENLARGED FLOOR PLAN - 3RD FLOOR EAST SIDE,CTR - 1st Phase - Common Walls
+A413.B,ENLARGED FLOOR PLAN - 3RD FLOOR WEST SIDE,CTR - 1st Phase - Common Walls
+A420,RCP PLANS - BASEMENT,CTR - 1st Phase - Common Walls
+A421.A,RCP PLANS - 1ST FLOOR EAST SIDE,CTR - 1st Phase - Common Walls
+A421.B,RCP PLANS - 1ST FLOOR WEST SIDE,CTR - 1st Phase - Common Walls
+A422.A,RCP PLANS - 2ND FLOOR EAST SIDE,CTR - 1st Phase - Common Walls
+A422.B,RCP PLANS - 2ND FLOOR WEST SIDE,CTR - 1st Phase - Common Walls
+A423.A,RCP PLAN - 3RD FLOOR EAST SIDE,CTR - 1st Phase - Common Walls
+A423.B,RCP PLAN - 3RD FLOOR WEST SIDE,CTR - 1st Phase - Common Walls
+A450,ELEVATIONS - INTERIOR,CTR - 1st Phase - Common Walls
+A451,ELEVATIONS - INTERIOR,CTR - 1st Phase - Common Walls
+A452,ELEVATIONS - INTERIOR,CTR - 1st Phase - Common Walls
+A453,ELEVATIONS - INTERIOR,CTR - 1st Phase - Common Walls
+A454,ELEVATIONS - INTERIOR,CTR - 1st Phase - Common Walls
+A455,ELEVATIONS - INTERIOR,CTR - 1st Phase - Common Walls
+A460,STAIRS - EAST,CTR - 1st Phase -Stairs & Elevators
+A461,STAIRS - WEST,CTR - 1st Phase -Stairs & Elevators
+A462,STAIRS - ELEVATOR NORTH,CTR - 1st Phase -Stairs & Elevators
+A463,STAIRS - ELEVATOR NORTH & SECTIONS,CTR - 1st Phase -Stairs & Elevators
+A470,1ST FLOOR STUDIO UNITS,CTR - 1st Phase - Unit Layouts
+A471,1ST FLOOR 1BD UNITS,CTR - 1st Phase - Unit Layouts
+A472,1ST FLOOR 1BD UNITS,CTR - 1st Phase - Unit Layouts
+A473,1ST FLOOR 2BD UNITS,CTR - 1st Phase - Unit Layouts
+A474,1ST FLOOR 2BD UNITS,CTR - 1st Phase - Unit Layouts
+A475,2ND FLOOR STUDIO UNITS,CTR - 1st Phase - Unit Layouts
+A476,2ND FLOOR 1BD UNITS,CTR - 1st Phase - Unit Layouts
+A477,2ND FLOOR 1BD UNITS,CTR - 1st Phase - Unit Layouts
+A478,2ND FLOOR 2BD UNITS,CTR - 1st Phase - Unit Layouts
+A479,2ND FLOOR 2BD UNITS,CTR - 1st Phase - Unit Layouts
+A501,DETAILS - BALCONY,CTR - 1st Phase - Details - A
+A502,DETAILS - EXT CLADDING,CTR - 1st Phase - Details - A
+A700,DOOR & FINISH SCHEDULE,CTR - 1st Phase - Common Walls
+A800,WALL PARTITION DETAILS,OD_Revit_Template.rte
+A801,WALL PARTITION DETAILS,OD_Revit_Template.rte
+A900,3D VIEWS,CTR - 1st Phase - Shell
+S000,STRUCTURAL NOTES,CTR - 1st Phase - Structure
+S100,FOUNDATION PLAN,CTR - 1st Phase - Structure
+S200,STRUCTURAL DETAILS,CTR - 1st Phase - Structure
+S201,STRUCTURAL DETAILS rev01,CTR - 1st Phase - Structure
+S211,FRAMING PLAN - 2ND FLOOR,CTR - 1st Phase - Structure
+S212,FRAMING PLAN - 3RD FLOOR,CTR - 1st Phase - Structure
+S213,FRAMING PLAN - ROOF,CTR - 1st Phase - Structure
+S214,STRUCTURAL DETAILS,CTR - 1st Phase - Structure
+S215,STRUCTURAL DETAILS,CTR - 1st Phase - Structure
+S216,STRUCTURAL DETAILS – STAIRS,CTR - 1st Phase - Details - B
+S217,STRUCTURAL NOTES,CTR - 1st Phase - Structure
