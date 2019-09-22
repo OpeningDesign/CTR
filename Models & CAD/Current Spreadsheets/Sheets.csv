@@ -1,7 +1,7 @@
-Number,Sheet_Name,Sheet_File
-A000,COVER SHEET,OD_Revit_Template.rte
-A010,VICINITY MAP,CTR - 1st Phase - Common Walls
+NUMBER,SHEET NAME,SHEET FILE
+A000,COVER SHEET,CTR - 1st Phase - Partition Details.rvt
 A020,LIFE SAFETY,CTR - 1st Phase - Common Walls
+A021,LIFE SAFETY – LIST OF ROOMS,CTR - 1st Phase - Common Walls
 A100,FLOOR PLANS - BASEMENT,CTR - 1st Phase - Common Walls
 A101,FLOOR PLANS - 1ST FLOOR,CTR - 1st Phase - Common Walls
 A102,FLOOR PLANS - 2ND FLOOR,CTR - 1st Phase - Common Walls
@@ -20,7 +20,7 @@ A403,SECTIONS - WALL,CTR - 1st Phase - Shell
 A404,SECTIONS - WALL,CTR - 1st Phase - Shell
 A405,SECTIONS - WALL,CTR - 1st Phase - Shell
 A410.A,ENLARGED FLOOR PLAN – BASEMENT EAST SIDE,CTR - 1st Phase - Common Walls
-A410.B,ENLARGED FLOOR PLAN – BASEMENT WEST SIDE,CTR - 1st Phase - Common Walls
+A410.b,ENLARGED FLOOR PLAN – BASEMENT WEST SIDE,CTR - 1st Phase - Common Walls
 A411.A,ENLARGED FLOOR PLAN - 1ST FLOOR EAST SIDE,CTR - 1st Phase - Common Walls
 A411.B,ENLARGED FLOOR PLAN - 1ST FLOOR WEST SIDE,CTR - 1st Phase - Common Walls
 A412.A,ENLARGED FLOOR PLAN - 2ND FLOOR EAST SIDE,CTR - 1st Phase - Common Walls
@@ -56,9 +56,10 @@ A478,2ND FLOOR 2BD UNITS,CTR - 1st Phase - Unit Layouts
 A479,2ND FLOOR 2BD UNITS,CTR - 1st Phase - Unit Layouts
 A501,DETAILS - BALCONY,CTR - 1st Phase - Details - A
 A502,DETAILS - EXT CLADDING,CTR - 1st Phase - Details - A
+A503,DETAILS – STAIRS,CTR - 1st Phase - Details - B
 A700,DOOR & FINISH SCHEDULE,CTR - 1st Phase - Common Walls
-A800,WALL PARTITION DETAILS,OD_Revit_Template.rte
-A801,WALL PARTITION DETAILS,OD_Revit_Template.rte
+A800,WALL PARTITION DETAILS,CTR - 1st Phase - Partition Details.rvt
+A801,WALL PARTITION DETAILS,CTR - 1st Phase - Partition Details.rvt
 A900,3D VIEWS,CTR - 1st Phase - Shell
 S000,STRUCTURAL NOTES,CTR - 1st Phase - Structure
 S100,FOUNDATION PLAN,CTR - 1st Phase - Structure
@@ -69,5 +70,4 @@ S212,FRAMING PLAN - 3RD FLOOR,CTR - 1st Phase - Structure
 S213,FRAMING PLAN - ROOF,CTR - 1st Phase - Structure
 S214,STRUCTURAL DETAILS,CTR - 1st Phase - Structure
 S215,STRUCTURAL DETAILS,CTR - 1st Phase - Structure
-S216,STRUCTURAL DETAILS – STAIRS,CTR - 1st Phase - Details - B
-S217,STRUCTURAL NOTES,CTR - 1st Phase - Structure
+S216,STRUCTURAL NOTES,CTR - 1st Phase - Structure
