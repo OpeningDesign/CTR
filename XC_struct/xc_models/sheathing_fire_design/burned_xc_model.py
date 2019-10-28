@@ -102,7 +102,7 @@ for e in supSet.elements:
     e.vector2dUniformLoadGlobal(xc.Vector([0.0,-W]))
 
 #We add the load case to domain.
-preprocessor.getLoadHandler.getLoadPatterns.addToDomain("totalLoad")
+preprocessor.getLoadHandler.addToDomain("totalLoad")
 
 # Solution
 # Linear static analysis.
