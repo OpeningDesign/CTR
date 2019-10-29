@@ -5,7 +5,7 @@ execfile("../model_gen.py") #FE model generation
 from postprocess.xcVtk import vtk_graphic_base
 from postprocess.xcVtk.FE_model import quick_graphics as qg
 
-    # display_local_axes: vector field display of the element local axes.
+    # lcs.displayLocalAxes: vector field display of the element local axes.
     # Parameters:
     #   setToDisplay:   set of elements to be displayed
     #                   (defaults to 'total')
@@ -19,7 +19,8 @@ from postprocess.xcVtk.FE_model import quick_graphics as qg
     #                   None, in this case it returns a console output graphic.
 
 setToDisp=columns
-qg.display_local_axes(prep=prep,setToDisplay=setToDisp,vectorScale=0.5,viewDef= vtk_graphic_base.CameraParameters('XYZPos',1),caption= cfg.capTexts['LocalAxes'],fileName=None,defFScale=0.0)
+lcs= qg.LoadCaseResults(FEcase)
+lcs.displayLocalAxes(setToDisplay=setToDisp,caption= cfg.capTexts['LocalAxes'],fileName=None,defFScale=0.0)
 
 
 

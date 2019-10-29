@@ -21,7 +21,7 @@ csvFileWall3= open("wall_Wall3_reactions.csv", "w")
 writerWall3 = csv.writer(csvFileWall3)
 
 for lc in loadCases:
-    lcs=QGrph.QuickGraphics(FEcase)
+    lcs=QGrph.LoadCaseResults(FEcase)
     #solve for load case
     lcs.solve(loadCaseName=lc.loadCaseName,loadCaseExpr=lc.loadCaseExpr)
     #Reaction on column bases

@@ -19,7 +19,7 @@ csvFile= open("column_reactions.csv", "w")
 writer = csv.writer(csvFile)
 
 for lc in loadCases:
-    lcs=QGrph.QuickGraphics(FEcase)
+    lcs=QGrph.LoadCaseResults(FEcase)
     #solve for load case
     lcs.solve(loadCaseName=lc.loadCaseName,loadCaseExpr=lc.loadCaseExpr)
     #Reaction on column bases

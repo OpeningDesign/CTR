@@ -12,10 +12,11 @@ from postprocess.xcVtk.FE_model import quick_graphics as qg
 loadCasesToDisplay=[D,Lru,Lrs,Lpu,Lps,S,W_WE,W_NS]
 #loadCasesToDisplay=[Lps]
 for lc in loadCasesToDisplay:
+    lcs= qg.LoadCaseResults(FEcase, loadCaseName=lc.loadCaseName, loadCaseExpr= lc.loadCaseExpr)
+    lcs.solve()
     for st in lc.setsToDispLoads:
 #        capt=lc.loadCaseDescr + ', ' + st.genDescr + ', '  + lc.unitsLoads
         capt=lc.loadCaseDescr + ', '  + lc.unitsLoads
-        qg.display_load(preprocessor=prep,setToDisplay=st,loadCaseNm=lc.loadCaseName,unitsScale=lc.unitsScaleLoads,vectorScale=lc.vectorScaleLoads, multByElemArea=lc.multByElemAreaLoads,viewDef= lc.cameraParameters,caption= capt,fileName=None,defFScale=1.0)
-
+        lcs.displayLoadVectors(setToDisplay=st,caption= capt,fileName=None,defFScale=1.0)
 
 

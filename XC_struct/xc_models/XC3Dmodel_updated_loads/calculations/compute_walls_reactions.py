@@ -26,7 +26,7 @@ for lc in loadCases:
     westReactions[lc.loadCaseName]= 0.0
 
 for lc in loadCases:
-    lcs=QGrph.QuickGraphics(FEcase)
+    lcs=QGrph.LoadCaseResults(FEcase)
     #solve for load case
     lcs.solve(loadCaseName=lc.loadCaseName,loadCaseExpr=lc.loadCaseExpr)
     #Reaction on column bases

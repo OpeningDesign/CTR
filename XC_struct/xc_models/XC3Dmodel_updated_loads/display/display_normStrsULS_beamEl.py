@@ -22,7 +22,8 @@ fUnitConv=1          #unit conversion factor (i.e N->kN => fUnitConv= 1e-3)
 
 caption= cfg.capTexts[lsd.normalStressesResistance.label] + ', ' + cfg.capTexts[argument] + '. '#+ setsDispRes[0].description.capitalize() + ', ' 
 
-qg.display_beam_result(attributeName=lsd.normalStressesResistance.label,itemToDisp=argument,beamSetDispRes=setDispRes,setToDisplay=setDisp,fConvUnits=fUnitConv,scaleFactor=1.0,caption=caption,viewDef= vtk_graphic_base.CameraParameters('XYZPos'),fileName=None,defFScale=0.0)
+lcs= qg.LoadCaseResults(FEcase)
+lcs.displayBeamResult(attributeName=lsd.normalStressesResistance.label,itemToDisp=argument,beamSetDispRes=setDispRes,setToDisplay=setDisp,caption=caption,fileName=None,defFScale=0.0)
 
 
 

@@ -20,4 +20,4 @@ lc.unitsForc='[kN]'
 lc.listDspRot=['uY']
 lc.cameraParameters= vtk_graphic_base.CameraParameters('ZPos')
 
-lc.displayDispRot()#itemToDisp='uY',setToDisplay=infSet,fConvUnits=1e3,unitDescription='mm',viewDef= lc.cameraParameters,fileName=None,defFScale=1)
+lc.displayDispRot()#itemToDisp='uY',setToDisplay=infSet,fConvUnits=1e3,unitDescription='mm',fileName=None,defFScale=1)
