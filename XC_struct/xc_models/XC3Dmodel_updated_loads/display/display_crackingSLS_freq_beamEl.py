@@ -2,7 +2,7 @@
 from postprocess.control_vars import *
 from postprocess import limit_state_data as lsd
 from postprocess.xcVtk.FE_model import vtk_FE_graphic
-from postprocess.xcVtk import control_var_diagram as cvd
+from postprocess.xcVtk.diagrams import control_var_diagram as cvd
 
 execfile("../model_gen.py") #FE model generation
 
