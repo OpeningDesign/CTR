@@ -2,7 +2,7 @@
 from postprocess.control_vars import *
 from postprocess import limit_state_data as lsd
 from postprocess.xcVtk import vtk_graphic_base
-from postprocess.xcVtk.FE_model import vtk_display_limit_state as dls
+from postprocess import output_handler
 
 
 #FE model generation
@@ -14,7 +14,7 @@ execfile(cfg.verifNormStrFile)
 
 #  Config
 argument= 'CF' #Possible arguments: 'CF', 'N', 'My','Mz'
-fUnitConv=1.0  #unit conversion factor (i.e N->kN => fUnitConv= 1e-3)
+
 setDisp= foot  #Set of shell elements to be displayed
 cameraParameters= vtk_graphic_base.CameraParameters('XYZPos')
 rgMinMax=(0,1.0)     #truncate values to be included in the range
@@ -22,7 +22,9 @@ rgMinMax=(0,1.0)     #truncate values to be included in the range
 #  End config 
 
 
-dls.displayFieldDirs1and2(limitStateLabel=lsd.normalStressesResistance.label,argument=argument,elementSet=setDisp,component=None,fUnitConv=fUnitConv,fileName=None,captionTexts=cfg.capTexts,defFScale=0.0,viewDef= cameraParameters,rgMinMax=rgMinMax)
+oh= output_handler.OutputHandler(modelSpace)
+oh.outputStyle.cameraParameters= cameraParameters
+oh.displayFieldDirs1and2(limitStateLabel=lsd.normalStressesResistance.label,argument=argument,setToDisplay=setDisp,component=None,fileName=None,defFScale=0.0,rgMinMax=rgMinMax)
 
 
 

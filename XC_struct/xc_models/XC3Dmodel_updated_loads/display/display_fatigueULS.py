@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from postprocess.control_vars import *
 from postprocess import limit_state_data as lsd
-from postprocess.xcVtk.FE_model import vtk_display_limit_state as dls
+from postprocess import output_handler
 
 
 execfile("../model_gen.py") #FE model generation
@@ -18,7 +18,9 @@ limitStateLabel= lsd.fatigueResistance.label
 argument='getAbsSteelStressIncrement'
 
 setDisp= allShells
-dls.displayFieldDirs1and2(limitStateLabel,argument,setDisp,None,1.0,None,cfg.capTexts,defFScale=0.0)
+oh= output_handler.OutputHandler(modelSpace)
+oh.outputStyle.cameraParameters= cameraParameters
+oh.displayFieldDirs1and2(limitStateLabel,argument,setToDisplay=setDisp,component=None, fileName= None,defFScale=0.0)
 
 
 
