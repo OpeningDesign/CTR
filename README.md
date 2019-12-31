@@ -5,6 +5,8 @@
 
 
 
+
+
 ## OpeningDesign
 An (uberly) transparent & open source architectural studio.
 
@@ -25,5 +27,7 @@ Per usual, unless otherwise noted, all content associated with [OpeningDesign](h
 ---
 
 
-
+![](http://openingdesign.com/wp-content/uploads/2014/11/image001-1.jpg)
+![](http://openingdesign.com/wp-content/uploads/2014/11/image004-1.jpg)
+![](http://openingdesign.com/wp-content/uploads/2014/11/image007-1.jpg)
 
