@@ -6,7 +6,6 @@
 *.ifc.log.html
 Ryan_Random_Tests/
 Videos and Photos (added to gitignore)/
-_CLOSED/
 *.backup
 
 
@@ -79,3 +78,5 @@ _CLOSED_Cannery District - Eau Claire/Models & CAD/BIM/CTR - 1st Phase - Shell -
 /Transfer/20191031 - to owner - unit renderings/video/Enscape_2019-10-31-01-02-42.mp4
 /_closed_cannery district - eau claire/Most Current Set/Full size sheets/_Binder.pdf
 /_closed_cannery district - eau claire/Most Current Set/Full size sheets/_CTR_Binder.pdf
+/_closed/Transfer/20190821 - PERMIT/3264769_Plan Set_ARCH_STRUCT_HVAC_ELECT.zip
+/_closed/Most Current Set/Full size sheets/_CTR_Binder.pdf
