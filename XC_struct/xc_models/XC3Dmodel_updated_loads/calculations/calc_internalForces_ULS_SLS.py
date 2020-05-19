@@ -24,7 +24,7 @@ lsd.fatigueResistance # Fatigue resistance.
 #limitStates= [lsd.freqLoadsCrackControl]
 
 for ls in limitStates:
-  ls.saveAll(FEcase,combContainer,setCalc,lstSteelBeams=[col01a,col01b,col02a,col02b,col03,beam01])
+  ls.saveAll(combContainer,setCalc,lstSteelBeams=[col01a,col01b,col02a,col02b,col03,beam01])
   print 'combinations for ', ls.label, ': ', loadCombinations.getKeys()
 
 
