@@ -6,7 +6,7 @@
 
 - There were a number of conditions throughout the project where the girder truss that supports the jack trusses at the corner conditons was not sistered together (or it doesn't appear they were) as outlined in the truss shops.  See truss shops for exact detail for sistering
 
-- There was a number of holddown throughout the project that were missing.  Confirmed with GC that they are still in the process of installing
+- There was a number of holddowns throughout the project that were missing.  Confirmed with GC that they are still in the process of installing
   
   <!--
   
@@ -31,13 +31,13 @@
 
 - Blocking above rim board needs (2) SDWS22500BD at each truss--all floors and at roof.  A number of locations only had (1) SDWS22500BD at each truss
   
-  - ![](vlc_YtFLORPniU.jpg)
-  - ![](2020-05-18-16-49-54-image.png)
+  - <img src="vlc_YtFLORPniU.jpg" title="" alt="" width="465">
+  - <img src="2020-05-18-16-49-54-image.png" title="" alt="" width="469">
 
-- install a built-up column of at least (3) 2x6's at all LVL beams throughout project.  Example condition...
+- Install a built-up column of at least (3) 2x6's at all LVL beams throughout project.  Example condition...
   
-  - ![](ApplicationFrameHost_BQc5Hp7vTn.jpg)
-  - ![](2020-05-19-13-23-34-image.png)
+  - <img src="ApplicationFrameHost_BQc5Hp7vTn.jpg" title="" alt="" width="472">
+  - <img src="2020-05-19-13-23-34-image.png" title="" alt="" width="471">
 
 - At Stairs
   
@@ -45,48 +45,43 @@
   
   - need (2) SDWS22600DB - SDWS STRUCTURAL SCREWS @ EACH VERTICAL STUD at ledgers that do not bear joists
   
-  - ![](vlc_ktL7A223v1.png)
+  - <img src="vlc_ktL7A223v1.png" title="" alt="" width="485">
   
-  - <img src="Revu_8T4KtlkG9r.png" title="" alt="" width="520">
+  - <img title="" src="Revu_8T4KtlkG9r.png" alt="" width="417">
 
 - Add additional sistered studs at column near LVL at elevator on 1st floor
   
-  - ![](2020-05-18-17-37-17-image.png)
+  - <img src="2020-05-18-17-37-17-image.png" title="" alt="" width="439">
 
-- At 3rd floor stair: Not enough room to slide (2) layers of drywall and 1/2" resilent channel between truss and stud.
+- At 3rd floor stair: Not enough room to slide (2) layers of drywall and 1/2" resilent channel between truss and stud.  Either move the truss or wrap truss with (2) layers of 5/8" Gyp. Bd--to continue 2hr wall up to deck.
   
-  - ![](14.13.54-3rd floor at roof near stair.jpg)
+  - <img src="14.13.54-3rd floor at roof near stair.jpg" title="" alt="" width="461">
 
-- Spacing of 4x6's at roof at/near stair is incorrect.  Need to be 24" o.c. at stair. 16" o.c. outside stair at corridor.
+- Spacing of 4x6's at roof at/near stair is incorrect.  Need to be 24" o.c. at stair. 16" o.c. outside stair at corrido--to support the condensing units on the roof.
   
-  - ![](2020-05-18-21-44-04-image.png)
+  - <img src="2020-05-18-21-44-04-image.png" title="" alt="" width="184">
   
-  - ![](2020-05-18-21-44-25-image.png)
+  - <img src="2020-05-18-21-44-25-image.png" title="" alt="" width="444">
 
 - Add (2) additinal 2x10 at the following corner (near elevator) at both the 2nd and 3rd floors to transfer load down to 2nd floor steel beam
   
-  - ![](2020-05-18-22-13-13-image.png)
-  - ![](2020-05-18-22-09-55-image.png)
+  - <img src="2020-05-18-22-13-13-image.png" title="" alt="" width="419">
+  - <img src="2020-05-18-22-09-55-image.png" title="" alt="" width="430">
 
 - Blocking at these conditions, similar to hallway, for the drywall to die into
   
-  - ![](2020-05-18-22-15-47-image.png)
+  - <img src="2020-05-18-22-15-47-image.png" title="" alt="" width="438">
 
-- Blocking at entry
+- Blocking at entry to support load of balcony load down through wall studs
   
-  - <img src="2020-05-18-23-12-37-image.png" title="" alt="" width="875">
-  - ![](2020-05-18-23-14-02-image.png)
+  - <img src="vlc_qVF9NKEfCI.png" title="" alt="" width="438">
 
 - Add 2x ledger at elevator CMU to support floor sheathing
   
-  - ![](2020-05-18-23-53-49-image.png)
-  - ![](2020-05-18-23-55-31-image.png)
+  - <img src="2020-05-18-23-53-49-image.png" title="" alt="" width="449">
+  - <img src="2020-05-18-23-55-31-image.png" title="" alt="" width="383">
 
 - Roof trusses need tie downs at all conditions on exterior and interior bearing walls--install was in progress.
-
-- ## Questions:
-
-- How is the 4x6 joist at the roof connected to the rim board? or blocking?  Concerned about uplift
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTEzOTY2NDIzNiwyMDkwNDAxMjA0LDIxND
