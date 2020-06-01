@@ -40,45 +40,45 @@ csvFile.close()
 
 for key in ['A1','A2','B1','B2']:
     rcS= rcSects[key]
-    rcS.dir1PositvRebarRows=[ACI_materials.n2s300r50]
-    rcS.dir1NegatvRebarRows=[ACI_materials.n7s300r50]
-    rcS.dir2PositvRebarRows=[ACI_materials.n2s300r45]
-    rcS.dir2NegatvRebarRows=[ACI_materials.n7s300r45]
+    rcS.dir1PositvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n2s300r50])
+    rcS.dir1NegatvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n7s300r50])
+    rcS.dir2PositvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n2s300r45])
+    rcS.dir2NegatvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n7s300r45])
 
 for key in ['A3','A4','A5','B3','B4','B5']:
     rcS= rcSects[key]
-    rcS.dir1PositvRebarRows=[ACI_materials.n2s300r50]
-    rcS.dir1NegatvRebarRows=[ACI_materials.n8s300r50]
-    rcS.dir2PositvRebarRows=[ACI_materials.n2s300r45]
-    rcS.dir2NegatvRebarRows=[ACI_materials.n8s300r45]
+    rcS.dir1PositvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n2s300r50])
+    rcS.dir1NegatvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n8s300r50])
+    rcS.dir2PositvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n2s300r45])
+    rcS.dir2NegatvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n8s300r45])
 
 for key in ['C1','D1','G1']:
     rcS= rcSects[key]
-    rcS.dir1PositvRebarRows=[ACI_materials.n2s300r50]
-    rcS.dir1NegatvRebarRows=[ACI_materials.n8s300r50]
-    rcS.dir2PositvRebarRows=[ACI_materials.n2s300r45]
-    rcS.dir2NegatvRebarRows=[ACI_materials.n8s300r45]
+    rcS.dir1PositvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n2s300r50])
+    rcS.dir1NegatvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n8s300r50])
+    rcS.dir2PositvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n2s300r45])
+    rcS.dir2NegatvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n8s300r45])
 
 for key in ['C2','C3','C4','C5','D2','D3','D4','D5']:
     rcS= rcSects[key]
-    rcS.dir1PositvRebarRows=[ACI_materials.n2s300r50]
-    rcS.dir1NegatvRebarRows=[ACI_materials.n8s300r50]
-    rcS.dir2PositvRebarRows=[ACI_materials.n2s300r45]
-    rcS.dir2NegatvRebarRows=[ACI_materials.n8s300r45]
+    rcS.dir1PositvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n2s300r50])
+    rcS.dir1NegatvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n8s300r50])
+    rcS.dir2PositvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n2s300r45])
+    rcS.dir2NegatvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n8s300r45])
 
 for key in ['G2','G3','G4','G5']:
     rcS= rcSects[key]
-    rcS.dir1PositvRebarRows=[ACI_materials.n2s300r50]
-    rcS.dir1NegatvRebarRows=[ACI_materials.n8s300r50]
-    rcS.dir2PositvRebarRows=[ACI_materials.n2s300r45]
-    rcS.dir2NegatvRebarRows=[ACI_materials.n8s300r45]
+    rcS.dir1PositvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n2s300r50])
+    rcS.dir1NegatvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n8s300r50])
+    rcS.dir2PositvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n2s300r45])
+    rcS.dir2NegatvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n8s300r45])
 
 for key in ['F1','F2','F3','F4','F5']:
     rcS= rcSects[key]
-    rcS.dir1PositvRebarRows=[ACI_materials.n2s300r50]
-    rcS.dir1NegatvRebarRows=[ACI_materials.n8s300r50]
-    rcS.dir2PositvRebarRows=[ACI_materials.n2s300r45]
-    rcS.dir2NegatvRebarRows=[ACI_materials.n8s300r45]
+    rcS.dir1PositvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n2s300r50])
+    rcS.dir1NegatvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n8s300r50])
+    rcS.dir2PositvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n2s300r45])
+    rcS.dir2NegatvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n8s300r45])
 
 
 for key in rcSects:
@@ -89,10 +89,10 @@ for key in rcSects:
 footingRCSect= defSimpleRCSection.RecordRCSlabBeamSection(name='footingRCSect',sectionDescr="footing.",concrType=concrete, reinfSteelType=reinfSteel,depth=0.50)
 #[0]: longitudinal rebars
 #[1]: transversal rebars
-footingRCSect.dir1PositvRebarRows=[ACI_materials.n2s150r50]
-footingRCSect.dir1NegatvRebarRows=[ACI_materials.n8s150r50]
-footingRCSect.dir2PositvRebarRows=[ACI_materials.n2s150r45]
-footingRCSect.dir2NegatvRebarRows=[ACI_materials.n8s150r45]
+footingRCSect.dir1PositvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n2s150r50])
+footingRCSect.dir1NegatvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n8s150r50])
+footingRCSect.dir2PositvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n2s150r45])
+footingRCSect.dir2NegatvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n8s150r45])
 
 footingRCSect.creaTwoSections() 
 sections.append(footingRCSect)
