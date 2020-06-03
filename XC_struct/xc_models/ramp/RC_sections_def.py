@@ -19,8 +19,8 @@ deckRCSects.dir2PositvRebarRows= def_simple_RC_section.LongReinfLayers([rcs.rebL
 deckRCSects.dir2NegatvRebarRows= def_simple_RC_section.LongReinfLayers([rcs.rebLayer(16,100,35)])
 import math
 areaFi8=math.pi*0.008**2/4.
-shear1=rcs.RecordShearReinforcement(familyName= "shear1",nShReinfBranches= 1.0,areaShReinfBranch= areaFi8,shReinfSpacing= 0.20,angAlphaShReinf= math.pi/2.0,angThetaConcrStruts= math.radians(30))
-shear2=rcs.RecordShearReinforcement(familyName= "shear2",nShReinfBranches= 1.0,areaShReinfBranch= areaFi8,shReinfSpacing= 0.15,angAlphaShReinf= math.pi/2.0,angThetaConcrStruts= math.radians(30))
+shear1=rcs.ShearReinforcement(familyName= "shear1",nShReinfBranches= 1.0,areaShReinfBranch= areaFi8,shReinfSpacing= 0.20,angAlphaShReinf= math.pi/2.0,angThetaConcrStruts= math.radians(30))
+shear2=rcs.ShearReinforcement(familyName= "shear2",nShReinfBranches= 1.0,areaShReinfBranch= areaFi8,shReinfSpacing= 0.15,angAlphaShReinf= math.pi/2.0,angThetaConcrStruts= math.radians(30))
 deckRCSects.dir1ShReinfY=shear1
 deckRCSects.dir2ShReinfY=shear2
 
