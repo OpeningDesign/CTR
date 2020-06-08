@@ -14,7 +14,7 @@ from postprocess.xcVtk.FE_model import vtk_FE_graphic
 #  nodeSize:  size of the points that represent nodes (defaults to 0.01)
 #  scaleConstr: scale of SPContraints symbols (defaults to 0.2)
 
-defDisplay= vtk_FE_graphic.RecordDefDisplayEF()
+displaySettings= vtk_FE_graphic.DisplaySettingsFE()
 #setsTodisp=[beams,columns,slabs]
 #setsTodisp=[beams+columns]
 #setsTodisp=[slab5W]
@@ -24,4 +24,4 @@ setsTodisp=[stag2Set]
 # sett=beams+columns
 # sett.color=cfg.colors['brown04']
 # setsTodisp=[sett]
-defDisplay.displayMesh(xcSets=setsTodisp,fileName= None,caption='Precast beams and columns',nodeSize=0.5,scaleConstr=1.0)
+displaySettings.displayMesh(xcSets=setsTodisp,fileName= None,caption='Precast beams and columns',nodeSize=0.5,scaleConstr=1.0)
