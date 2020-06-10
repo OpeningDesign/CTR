@@ -83,7 +83,6 @@ for key in ['F1','F2','F3','F4','F5']:
 
 for key in rcSects:
     rcS= rcSects[key]
-    rcS.creaTwoSections()
     sections.append(rcS)
     
 footingRCSect= defSimpleRCSection.RecordRCSlabBeamSection(name='footingRCSect',sectionDescr="footing.",concrType=concrete, reinfSteelType=reinfSteel,depth=0.50)
@@ -94,6 +93,5 @@ footingRCSect.dir1NegatvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_ma
 footingRCSect.dir2PositvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n2s150r45])
 footingRCSect.dir2NegatvRebarRows= def_simple_RC_section.LongReinfLayers([ACI_materials.n8s150r45])
 
-footingRCSect.creaTwoSections() 
 sections.append(footingRCSect)
 

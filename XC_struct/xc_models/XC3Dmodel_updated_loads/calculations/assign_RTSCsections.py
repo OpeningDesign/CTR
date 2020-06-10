@@ -23,7 +23,6 @@ sections= reinfConcreteSectionDistribution.sectionDefinition #sections container
 for secRec in lstOfSectRecords:
     secRec.concrType.initTensStiff='Y' #tension stiffening initialized in
                                        #concrete material diagram
-    secRec.creaTwoSections()    
     sections.append(secRec)
 
 #Generation of the distribution of material extended to the elements of the
