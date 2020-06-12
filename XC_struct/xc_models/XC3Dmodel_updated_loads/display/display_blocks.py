@@ -3,14 +3,14 @@
 execfile('../model_gen.py') #FE model generation
 
 from postprocess.xcVtk.CAD_model import vtk_CAD_graphic
-defDisplay= vtk_CAD_graphic.RecordDefDisplayCAD()
-#defDisplay.displayBlocks(setToDisplay=overallSet,caption= 'Model grid')
+displaySettings= vtk_CAD_graphic.DisplaySettingsBlockTopo()
+#displaySettings.displayBlocks(setToDisplay=overallSet,caption= 'Model grid')
 '''
-defDisplay.displayBlocks(setToDisplay=columns,caption= columns.description)
-defDisplay.displayBlocks(setToDisplay=beams,caption= beams.description)
-defDisplay.displayBlocks(setToDisplay=slabs_H,caption= slabs_H.description)
-defDisplay.displayBlocks(setToDisplay=slabs_L,caption= slabs_L.description)
+displaySettings.displayBlocks(setToDisplay=columns,caption= columns.description)
+displaySettings.displayBlocks(setToDisplay=beams,caption= beams.description)
+displaySettings.displayBlocks(setToDisplay=slabs_H,caption= slabs_H.description)
+displaySettings.displayBlocks(setToDisplay=slabs_L,caption= slabs_L.description)
 '''
-defDisplay.displayBlocks(setToDisplay=stag2Set,caption= 'Model grid')
+displaySettings.displayBlocks(setToDisplay=stag2Set,caption= 'Model grid')
 
 

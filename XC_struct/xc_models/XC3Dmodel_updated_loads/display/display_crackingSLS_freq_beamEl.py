@@ -20,12 +20,12 @@ fUnitConv=1e3          #unit conversion factor (i.e m->mm => fUnitConv= 1e3)
 
 diagram= cvd.ControlVarDiagram(scaleFactor=scaleFactor,fUnitConv=fUnitConv,sets=setsDispRes,attributeName=lsd.freqLoadsCrackControl.label,component=argument)
 diagram.addDiagram()
-defDisplay= vtk_FE_graphic.RecordDefDisplayEF()
-defDisplay.setupGrid(setDisp)
-defDisplay.defineMeshScene(None,defFScale=0.0)
-defDisplay.appendDiagram(diagram) #Append diagram to the scene.
+displaySettings= vtk_FE_graphic.DisplaySettingsFE()
+displaySettings.setupGrid(setDisp)
+displaySettings.defineMeshScene(None,defFScale=0.0)
+displaySettings.appendDiagram(diagram) #Append diagram to the scene.
 caption= cfg.capTexts[lsd.freqLoadsCrackControl.label] + ', ' + cfg.capTexts[argument] + '. '+ setsDispRes[0].description.capitalize() + ', ' 
-defDisplay.displayScene(caption)
+displaySettings.displayScene(caption)
 
 
 

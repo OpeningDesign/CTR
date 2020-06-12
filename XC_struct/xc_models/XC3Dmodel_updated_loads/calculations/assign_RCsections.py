@@ -21,7 +21,6 @@ sections= reinfConcreteSectionDistribution.sectionDefinition #sections container
 #Generation of 2 fiber sections (1 and 2 direction) for each record in list
 #lstOfSectRecords. Inclusion of these section-groups in the sections container
 for secRec in lstOfSectRecords:
-    secRec.creaTwoSections()    
     sections.append(secRec)
 
 #Generation of the distribution of material extended to the elements of the
