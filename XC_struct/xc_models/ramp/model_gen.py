@@ -87,7 +87,7 @@ gridGeom.slopePointsRange(ijkRange=slope8b_rg,slopeX=0,xZeroSlope=0,slopeY=0.15-
 #Ranges for lines and surfaces
 ramp_rg=gm.IJKRange((0,0,lastZpos),(lastXpos,lastYpos,lastZpos))
 #Surfaces generation
-ramp=gridGeom.genSurfOneRegion(ijkRange=ramp_rg,nameSet='ramp')
+ramp=gridGeom.genSurfOneRegion(ijkRange=ramp_rg,setName='ramp')
 
 ramp.description='Ramp'
 
