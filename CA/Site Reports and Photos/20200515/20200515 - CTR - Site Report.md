@@ -84,6 +84,6 @@
 - Roof trusses need tie downs at all conditions on exterior and interior bearing walls--install was in progress.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTY2NDIzNiwyMDkwNDAxMjA0LDIxND
-U4NDE2NzIsLTEwOTMzNDExMzJdfQ==
+eyJoaXN0b3J5IjpbLTUzNzYwNjM1LDExMzk2NjQyMzYsMjA5MD
+QwMTIwNCwyMTQ1ODQxNjcyLC0xMDkzMzQxMTMyXX0=
 -->
