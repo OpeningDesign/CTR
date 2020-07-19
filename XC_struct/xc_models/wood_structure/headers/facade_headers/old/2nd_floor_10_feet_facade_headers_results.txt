@@ -1,0 +1,10 @@
+***** Header L= 10 feet on second floor bearing facades. ******
+Uniform load:  30.52  kN/m
+Header:  3.5x18
+Vmax=  48.838104  kN Vu=  76.5983484  kN; F=  0.637586906508
+Mmax=  39.0753670104  kN Mu=  48.0027170297  kN; F=  0.814024068393
+dY=  -5.50998388135  mm; ratio= L/ 580.836544882
+R0=  48.838104  kN
+R1=  48.838104  kN
+bearing lenght=  0.0995973753981  m
+number of jake studs=  1.96057825587

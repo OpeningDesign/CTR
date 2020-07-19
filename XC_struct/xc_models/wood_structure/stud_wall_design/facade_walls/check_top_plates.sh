@@ -1,0 +1,7 @@
+python 1st_floor_AB_facade_double_plate.py > 1st_floor_AB_facade_double_plate_results.txt
+python 1st_floor_facade_double_plate.py > 1st_floor_facade_double_plate_results.txt
+python 2nd_floor_AB_facade_double_plate.py > 2nd_floor_AB_facade_double_plate_results.txt
+python 2nd_floor_facade_double_plate.py > 2nd_floor_facade_double_plate_results.txt
+python 3rd_floor_AB_facade_double_plate.py > 3rd_floor_AB_facade_double_plate_results.txt
+python 3rd_floor_facade_double_plate.py > 3rd_floor_facade_double_plate_results.txt
+

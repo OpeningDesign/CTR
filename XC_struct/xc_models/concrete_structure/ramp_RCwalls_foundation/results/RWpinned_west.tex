@@ -1,0 +1,132 @@
+\begin{table}
+\begin{center}
+\begin{tabular}[H]{|l|}
+\hline
+\multicolumn{1}{|c|}{\textsc{RWpinned_west}}\\
+\hline
+\begin{tabular}{c|l}
+\begin{minipage}{85mm}
+\vspace{2mm}
+\begin{center}
+\includegraphics[width=80mm]{RWpinned_west}
+\end{center}
+\vspace{1pt}
+\end{minipage} & 
+\begin{tabular}{l}
+\textsc{Wall geometry}\\
+Stem top thickness: \\
+$b_{top}= 0.20\ m$\\
+Stem height: \\
+$h_{stem}= 3.51\ m$\\
+Stem bottom thickness: \\
+$b_{bottom}= 0.20\ m$\\
+Footing thickness: \\
+$b_{footing}= 0.36\ m$\\
+\end{tabular} \\
+\end{tabular} \\
+\hline
+\begin{tabular}{llll}
+\multicolumn{3}{c}{\textsc{Materials}}\\
+  Concrete: C4000 &   Steel: A615G60 &   Concrete cover: 55 mm\\
+\end{tabular} \\
+\hline
+\end{tabular}
+\caption{Wall materials and dimensions RWpinned_west} \label{tb_def_RWpinned_west}
+\end{center}
+\end{table}
+\begin{center}
+\begin{tabular}[H]{|l|c|c|c|}
+\hline
+\multicolumn{4}{|c|}{\textsc{wall: RWpinned_west stability check}}\\
+\hline
+Vérification:  & $F_{disp}$ & $F_{req}$ & Combination\\
+\hline
+Overturning:  & 7.88 & 1.00 & EQ1609A\\
+Sliding:  & 1.45 & 1.00 & EQ1609A\\
+Bearing capacity:  & 0.47 & 1.00 & EQ1609A\\
+Adm. pressure:  & 0.91 & 1.00 & EQ1611B\\
+\hline
+\multicolumn{4}{|l|}{$F_{avail.}$: available security.}\\
+\multicolumn{4}{|l|}{$F_{req}$: required security.}\\
+\hline
+\end{tabular}
+\end{center}
+\begin{center}
+\begin{tabular}[H]{|l|c|c|c|}
+\hline
+\multicolumn{3}{|c|}{\textsc{Wall: RWpinned_west rotation check}}\\
+\hline
+$\beta_{disp} (\permil)$ & $\beta_{req}(\permil)$ & Combination\\
+\hline
+-0.52 & 2.00 & ELS00\\
+\hline
+\multicolumn{3}{|l|}{$\beta_{disp}$: wall maximum computed rotation.}\\
+\multicolumn{3}{|l|}{$\beta_{req}$: wall maximum admissible rotation.}\\
+\hline
+\end{tabular}
+\end{center}
+\bottomcaption{RWpinned_west wall reinforcement} \label{tb_RWpinned_west}
+\tablefirsthead{\hline
+\multicolumn{1}{|c|}{\textsc{Reinforcements mur RWpinned_west}}\\\hline
+}
+\tablehead{\hline
+\multicolumn{1}{|c|}{\textsc{RWpinned_west (suite)}}\\\hline
+}
+\tabletail{\hline \multicolumn{1}{|r|}{../..}\\\hline}
+\tablelasttail{\hline}
+\begin{center}
+\begin{supertabular}[H]{|l|}
+\hline
+\textbf{Reinforcement 1 (outside reinforcement dowels) :} \\
+  RC section dimensions; b= 1.00 m, h= 0.20 m\\
+  diam: 13 mm, spacing: 300 mm  reinf. development L=0.30 m (24 diameters).\\
+  area: As=   4.30 cm2/m areaMin:   3.65 cm2/m  F(As)= 1.18 OK!\\
+  Bending check: Md=   1.27 kN m, MR=  19.80kN m  F(M)= 15.57 OK!\\
+  Shear check: Vd=  49.65 kN,  VR= 159.49 kN  F(V)= 3.21 OK!\\
+  Stress check: M=   1.27 kN m, $\sigma_s$=  16.17 MPa\\
+    $\sigma_{lim}$= 230.00 MPa  F($\sigma_s$)= 14.22 OK!\\
+\textbf{Reinforcement 3 (footing top reinforcement):}\\
+  RC section dimensions; b= 1.00 m, h= 0.36 m\\
+  diam: 13 mm, spacing: 300 mm  reinf. development L=0.30 m (24 diameters).\\
+  area: As=   4.30 cm2/m areaMin:   6.38 cm2/m  F(As)= 0.67 Error!\\
+  Bending check: Md=   2.13 kN m, MR=  41.09kN m  F(M)= 19.29 OK!\\
+  Shear check: Vd=   2.99 kN,  VR= 279.12 kN  F(V)= 93.45 OK!\\
+  Stress check: M=   2.13 kN m, $\sigma_s$=  15.48 MPa\\
+    $\sigma_{lim}$= 230.00 MPa  F($\sigma_s$)= 14.86 OK!\\
+\textbf{Reinforcement 4 (inside reinforcement dowels):}\\
+  diam: 10 mm, spacing: 300 mm  reinf. development L=0.30 m (32 diameters).\\
+  area: As=   2.37 cm2/m areaMin:   0.86 cm2/m  F(As)= 2.75 OK!\\
+\textbf{Reinforcement 5 (inside stem reinforcement):}\\
+  RC section dimensions; b= 1.00 m, h= 0.20 m\\
+  diam: 16 mm, spacing: 300 mm  reinf. development L=0.34 m (22 diameters).\\
+  area: As=   6.67 cm2/m areaMin:   3.65 cm2/m  F(As)= 1.83 OK!\\
+  Bending check: Md=  38.35 kN m, MR=  30.36kN m  F(M)= 0.79 Error!\\
+  Shear check: Vd=   5.58 kN,  VR= 159.49 kN  F(V)= 28.57 OK!\\
+  Stress check: M=  38.35 kN m, $\sigma_s$= 314.55 MPa\\
+    $\sigma_{lim}$= 230.00 MPa  F($\sigma_s$)= 0.73 Error!\\
+\textbf{Reinforcement 6 (stem top transverse reinforcement):}\\
+  RC section dimensions; b= 1.00 m, h= 0.20 m\\
+  diam: 13 mm, spacing: 300 mm  reinf. development L=0.30 m (24 diameters).\\
+  area: As=   4.30 cm2/m areaMin:   3.65 cm2/m  F(As)= 1.18 OK!\\
+\textbf{Reinforcement 7 (footing bottom transverse reinforcement):}\\
+  diam: 10 mm, spacing: 300 mm  reinf. development L=0.30 m (32 diameters).\\
+  area: As=   2.37 cm2/m areaMin:   1.33 cm2/m  F(As)= 1.77 OK!\\
+\textbf{Reinforcement 8 (footing bottom longitudinal reinforcement):}\\
+  diam: 16 mm, spacing: 300 mm  reinf. development L=0.34 m (22 diameters).\\
+  area: As=   6.67 cm2/m areaMin:   6.38 cm2/m  F(As)= 1.04 OK!\\
+\textbf{Reinforcement 9 (footing top longitudinal reinforcement):}\\
+  diam: 16 mm, spacing: 300 mm  reinf. development L=0.34 m (22 diameters).\\
+  area: As=   6.67 cm2/m areaMin:   6.38 cm2/m  F(As)= 1.04 OK!\\
+\textbf{Reinforcement 10 (footing skin reinforcement):}\\
+  --\\
+\textbf{Reinforcement 11 (stem outside longitudinal reinforcement):}\\
+  diam: 13 mm, spacing: 300 mm  reinf. development L=0.30 m (24 diameters).\\
+  area: As=   4.30 cm2/m areaMin:   3.65 cm2/m  F(As)= 1.18 OK!\\
+\textbf{Reinforcement 12 (stem inside longitudinal reinforcement):}\\
+  diam: 13 mm, spacing: 300 mm  reinf. development L=0.30 m (24 diameters).\\
+  area: As=   4.30 cm2/m areaMin:   3.65 cm2/m  F(As)= 1.18 OK!\\
+\textbf{Reinforcement 13 (stem top skin reinforcement):}\\
+  --\\
+\hline
+\end{supertabular}
+\end{center}

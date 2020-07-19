@@ -1,0 +1,135 @@
+Live load reduction factor:  1.0
+loaded nodes:  9
+Wood material:  SprucePineFir  grade: no_2
+plate thickness=  38.1  mm
+stud spacing=  0.4064  m
+truss spacing=  0.6096  m
+
+********** combination: EQ1608
+**** uYMax(EQ1608)=  0.0845333310957  mm (L/4807.57110518)
+
+sgMax=  1.29917694507  MPa
+Fb_adj=  9.16248965625  MPa
+**** CF=  0.141793005374 OK
+
+tauMax=  0.0582034047875  MPa
+Fv_adj=  0.9307926  MPa
+**** CF=  0.0625310136625 OK
+
+RMax=  0.865060440161  kN
+sgMax=  0.162526831993  MPa /  23.5725147783 psi
+Fc_perp=  3.66284125  MPa /  531.25 psi
+**** CF=  0.0443717925239 OK
+
+********** combination: EQ1609
+**** uYMax(EQ1609)=  0.323302915418  mm (L/1257.02547246)
+
+sgMax=  4.96878200044  MPa
+Fb_adj=  9.16248965625  MPa
+**** CF=  0.542296055641 OK
+
+tauMax=  0.222602495503  MPa
+Fv_adj=  0.9307926  MPa
+**** CF=  0.239153701376 OK
+
+RMax=  3.30847677114  kN
+sgMax=  0.621593848675  MPa /  90.1545302048 psi
+Fc_perp=  3.66284125  MPa /  531.25 psi
+**** CF=  0.169702645091 OK
+
+********** combination: EQ1610
+**** uYMax(EQ1610)=  0.584318113187  mm (L/695.511555825)
+
+sgMax=  8.98027572556  MPa
+Fb_adj=  10.5368631047  MPa
+**** CF=  0.852272221471 OK
+
+tauMax=  0.402318271689  MPa
+Fv_adj=  1.07041149  MPa
+**** CF=  0.375853842609 OK
+
+RMax=  5.97954058638  kN
+sgMax=  1.1234310843  MPa /  162.939838994 psi
+Fc_perp=  4.2122674375  MPa /  610.9375 psi
+**** CF=  0.266704595796 OK
+
+********** combination: EQ1611
+**** uYMax(EQ1611)=  0.638449105907  mm (L/636.542515668)
+
+sgMax=  9.81220482197  MPa
+Fb_adj=  10.5368631047  MPa
+**** CF=  0.931226373967 OK
+
+tauMax=  0.439588873001  MPa
+Fv_adj=  1.07041149  MPa
+**** CF=  0.410672789957 OK
+
+RMax=  6.53348279806  kN
+sgMax=  1.22750528374  MPa /  178.03451951 psi
+Fc_perp=  4.2122674375  MPa /  610.9375 psi
+**** CF=  0.291412001244 OK
+
+********** combination: EQ1612
+**** uYMax(EQ1612)=  0.0283324277867  mm (L/14343.9878523)
+
+sgMax=  1.61371463699  MPa
+Fb_adj=  14.65998345  MPa
+**** CF=  0.110076156804 OK
+
+tauMax=  0.0722947606059  MPa
+Fv_adj=  1.48926816  MPa
+**** CF=  0.0485438167199 OK
+
+RMax=  1.07449620275  kN
+sgMax=  0.201875447903  MPa /  29.2795467722 psi
+Fc_perp=  5.860546  MPa /  850.0 psi
+**** CF=  0.0344465256143 OK
+
+********** combination: EQ1613
+**** uYMax(EQ1613)=  0.496299639751  mm (L/818.860155135)
+
+sgMax=  7.62753628011  MPa
+Fb_adj=  10.5368631047  MPa
+**** CF=  0.723890611876 OK
+
+tauMax=  0.341715255438  MPa
+Fv_adj=  1.07041149  MPa
+**** CF=  0.319237282699 OK
+
+RMax=  5.07881541222  kN
+sgMax=  0.954203591915  MPa /  138.395475972 psi
+Fc_perp=  4.2122674375  MPa /  610.9375 psi
+**** CF=  0.226529679341 OK
+
+********** combination: EQ1615
+**** uYMax(EQ1615)=  0.0374564287571  mm (L/10849.9398764)
+
+sgMax=  2.13338538404  MPa
+Fb_adj=  14.65998345  MPa
+**** CF=  0.145524406035 OK
+
+tauMax=  0.0955761211332  MPa
+Fv_adj=  1.48926816  MPa
+**** CF=  0.0641765692038 OK
+
+RMax=  1.42052035818  kN
+sgMax=  0.266886176825  MPa /  38.7085521215 psi
+Fc_perp=  5.860546  MPa /  850.0 psi
+**** CF=  0.0455394730841 OK
+
+********** combination: LIVE
+**** uYMax(LIVE)=  0.238769584323  mm (L/1702.05933537)
+
+sgMax=  3.66960505537  MPa
+Fb_adj=  9.16248965625  MPa
+**** CF=  0.400503050267 OK
+
+tauMax=  0.164399090716  MPa
+Fv_adj=  0.9307926  MPa
+**** CF=  0.176622687713 OK
+
+RMax=  2.44341633098  kN
+sgMax=  0.459067016682  MPa /  66.5820154265 psi
+Fc_perp=  3.66284125  MPa /  531.25 psi
+**** CF=  0.125330852568 OK
+

@@ -1,0 +1,18 @@
+\input{encab_A4}
+%\usepackage{nonfloat}
+\usepackage{multicol,caption}               % three-column layout
+\usepackage[font={footnotesize}]{caption}
+
+\newenvironment{Figure}
+  {\par\medskip\noindent\minipage{\linewidth}}
+  {\endminipage\par\medskip}
+\input{XC_page_layout_A4}
+%\usepackage[demo]{graphicx}
+\newcommand{\fecha}{\today}
+
+\begin{document}
+\begin{multicols}{2}
+  \input{report_resSimplLC.tex}
+\end{multicols}
+
+\end{document}

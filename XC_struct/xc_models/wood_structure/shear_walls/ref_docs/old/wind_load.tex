@@ -1,0 +1,84 @@
+%\title{Overleaf Memo Template}
+% Using the xc_memo package by Rob Oakes
+\documentclass[a4paper,11pt]{xc_memo}
+\usepackage{lmodern}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{eurosym}
+\usepackage{graphicx, lipsum}
+\usepackage{ae}
+\usepackage{units}
+\usepackage{amsmath}
+
+%% Edit the header section here. To include your
+%% own logo, upload a file via the files menu.
+\memoto{}
+\memofrom{Luis}
+\memosubject{OXApp. Wind loads.}
+\memodate{\today}
+
+\begin{document}
+\maketitle
+
+\section{Wind loads}
+
+The formula in determining the design wind pressure is:
+
+\begin{equation}
+  p= q \cdot G \cdot C_p - q_i(GC_{pi})
+\end{equation}
+
+\noindent Where:
+\begin{description}
+  \item{$G$}: gust effect factor
+  \item{$C_p$}: external pressure coefficient
+  \item{$(GCpi)$}: internal pressure coefficient
+  \item{$q$}: velocity pressure
+\end{description}
+
+\noindent The velocity pressure $q$ must be take as:
+\begin{itemize}
+\item $q= q_h$ for leeward walls, side walls and roofs (evaluated at rood mean height).
+\item $q= q_z$ for windward walls, evaluated at height $z$
+\item $q= q_h$ for negative internal pressure, $(-GC_{pi})$ evaluation and $q_z$ for positive internal pressure evaluation $(+GC_{pi})$ of partially enclosed buildings but can be taken as $q_h$ for conservative value.
+\end{itemize}
+
+\subsection{Gust effect factor: G}
+The gust effect factor, $G$, is set to 0.85 as the structure is assumed rigid (Section 26.9.1 of ASCE 7-10).
+
+\subsection{Enclosure classification and pressure coefficients}
+The structure satisfies the definition of partial enclosed building in section 26.2 of ASCE 7-10.
+
+\subsubsection{Internal pressure coefficient}
+The internal pressure coefficient, $(GC_{pi})$, shall be +0.55 and -0.55 based on Table 26.11-1 of ASCE 7-10.
+
+\begin{figure}
+  \begin{center}
+  \includegraphics[width= 60mm]{internal_pressure_coefficients_for_wall_surfaces}
+  \end{center}
+  \caption{Internal pressure coefficient, $(GCpi)$, from table 26.11-1 of ASCE 7-10}
+\end{figure}
+
+\subsubsection{External pressure coefficient}
+For enclosed and partially enclosed buildings, the external pressure coefficient, $C_p$, is calculated using the information provided in Figure 27.4-1. For a partially enclosed building with a monoslope roof.
+
+\begin{figure}
+  \begin{center}
+  \includegraphics[width= 120mm]{figure_27_4_1.png}
+  \end{center}
+  \caption{External pressure coefficients, $(Cp)$, from table 27.4-1 of ASCE 7-10.}
+\end{figure}
+
+\begin{figure}
+  \begin{center}
+  \includegraphics[width= 120mm]{wall_pressure_coefficients.png}
+  \end{center}
+  \caption{External pressure coefficients, $(Cp)$ on each building surface.}
+\end{figure}
+
+
+
+\end{document}

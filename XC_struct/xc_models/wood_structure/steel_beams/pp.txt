@@ -1,0 +1,22 @@
+2020-01-18 Steel beams at 2nd floor. North facade
+  cheking profile:  W16X57
+  L=  7.261225 m
+  Serviceability limit states.
+    SLS01 uy=  12.4514755787 mm <  13.446712963 mm => OK
+    SLS03 uy=  13.6141478614 mm <  30.2551041667 mm => OK
+    SLS02 uy=  20.6130913559 mm <  30.2551041667 mm => OK
+  Ultimate limit states.
+    ULS07 Mmax=  44.9154380898 kN m <  534.06 kN m => OK
+    ULS07 Vmax=  24.742622954 kN <  940.8771 kN => OK
+    ULS06 Mmax=  196.889786674 kN m <  534.06 kN m => OK
+    ULS06 Vmax=  108.460920395 kN <  940.8771 kN => OK
+    ULS05 Mmax=  144.731195913 kN m <  534.06 kN m => OK
+    ULS05 Vmax=  79.728252967 kN <  940.8771 kN => OK
+    ULS04 Mmax=  193.284689544 kN m <  534.06 kN m => OK
+    ULS04 Vmax=  106.474976079 kN <  940.8771 kN => OK
+    ULS03 Mmax=  284.730285225 kN m <  534.06 kN m => OK
+    ULS03 Vmax=  156.849724516 kN <  940.8771 kN => OK
+    ULS02 Mmax=  373.322121173 kN m <  534.06 kN m => OK
+    ULS02 Vmax=  205.652418799 kN <  940.8771 kN => OK
+    ULS01 Mmax=  131.483935334 kN m <  534.06 kN m => OK
+    ULS01 Vmax=  72.4307181415 kN <  940.8771 kN => OK

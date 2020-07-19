@@ -1,0 +1,143 @@
+wind load: 0.3462528  kN/m
+Live load reduction factor:  0.51384907302
+*****  1st floor facade stud.  ******
+wall height=  2.794  m
+stud height=  2.6416  m
+stud spacing=  0.4064  m
+sections dimensions:  38.1x139.7  mm
+EQ1609 0 28697.4 
+*************** comb:  EQ1609
+axial load: 11.6626356499  kN 2621.86545782  lb
+bending moment: 0.0  kN m 0.0  lb ft
+compression stress:  2.19116623171  MPa 317.801668471  psi
+unbraced lenght x: 0.3  m
+unbraced lenght y: 2.6416  m
+Fc'=  3.9590537362  MPa
+Fb'=  5.35205745  MPa
+E'=  3.0336944  GPa
+stud stability factor Cp=  0.792016513131
+stud capacity =  21.0723406447  kN
+FcE1=  6.97432767226  MPa
+FcE2=  40.2208356356  MPa
+RB=  0.765291181727  m
+FbE=  14.3198861538  MPa
+capacity factor CF=  0.306314714605
+EQ1608 0 15250 
+*************** comb:  EQ1608
+axial load: 6.1976  kN 1393.2762584  lb
+bending moment: 0.0  kN m 0.0  lb ft
+compression stress:  1.16439990456  MPa 168.881861668  psi
+unbraced lenght x: 0.3  m
+unbraced lenght y: 2.6416  m
+Fc'=  3.9590537362  MPa
+Fb'=  5.35205745  MPa
+E'=  3.0336944  GPa
+stud stability factor Cp=  0.792016513131
+stud capacity =  21.0723406447  kN
+FcE1=  6.97432767226  MPa
+FcE2=  40.2208356356  MPa
+RB=  0.765291181727  m
+FbE=  14.3198861538  MPa
+capacity factor CF=  0.0865010799137
+EQ1612 207.752 15245.7 
+*************** comb:  EQ1612
+axial load: 6.1958614208  kN 1392.88541015  lb
+bending moment: 0.181212715871  kN m 133.6556351  lb ft
+compression stress:  1.16407326175  MPa 168.834486153  psi
+unbraced lenght x: 0.3  m
+unbraced lenght y: 2.6416  m
+Fc'=  5.13384654741  MPa
+Fb'=  8.56329192  MPa
+E'=  3.0336944  GPa
+stud stability factor Cp=  0.641897583418
+stud capacity =  27.3252576178  kN
+FcE1=  6.97432767226  MPa
+FcE2=  40.2208356356  MPa
+RB=  0.765291181727  m
+FbE=  14.3198861538  MPa
+capacity factor CF=  0.256382415003
+EQ1613 155.814 33792.4 
+*************** comb:  EQ1613
+axial load: 13.733216803  kN 3087.35073627  lb
+bending moment: 0.135909536903  kN m 100.241726325  lb ft
+compression stress:  2.580185287  MPa 374.224090034  psi
+unbraced lenght x: 0.3  m
+unbraced lenght y: 2.6416  m
+Fc'=  4.33020968693  MPa
+Fb'=  6.1548660675  MPa
+E'=  3.0336944  GPa
+stud stability factor Cp=  0.753275646565
+stud capacity =  23.0478441733  kN
+FcE1=  6.97432767226  MPa
+FcE2=  40.2208356356  MPa
+RB=  0.765291181727  m
+FbE=  14.3198861538  MPa
+capacity factor CF=  0.637854295703
+EQ1610 0 26530 
+*************** comb:  EQ1610
+axial load: 10.781792  kN 2423.84387773  lb
+bending moment: 0.0  kN m 0.0  lb ft
+compression stress:  2.02567406347  MPa 293.799068201  psi
+unbraced lenght x: 0.3  m
+unbraced lenght y: 2.6416  m
+Fc'=  4.33020968693  MPa
+Fb'=  6.1548660675  MPa
+E'=  3.0336944  GPa
+stud stability factor Cp=  0.753275646565
+stud capacity =  23.0478441733  kN
+FcE1=  6.97432767226  MPa
+FcE2=  40.2208356356  MPa
+RB=  0.765291181727  m
+FbE=  14.3198861538  MPa
+capacity factor CF=  0.218837266061
+EQ1611 0 33795.6 
+*************** comb:  EQ1611
+axial load: 13.7345207374  kN 3087.64387246  lb
+bending moment: 0.0  kN m 0.0  lb ft
+compression stress:  2.58043026911  MPa 374.25962167  psi
+unbraced lenght x: 0.3  m
+unbraced lenght y: 2.6416  m
+Fc'=  4.33020968693  MPa
+Fb'=  6.1548660675  MPa
+E'=  3.0336944  GPa
+stud stability factor Cp=  0.753275646565
+stud capacity =  23.0478441733  kN
+FcE1=  6.97432767226  MPa
+FcE2=  40.2208356356  MPa
+RB=  0.765291181727  m
+FbE=  14.3198861538  MPa
+capacity factor CF=  0.355112860629
+EQ1615 207.752 9145.72 
+*************** comb:  EQ1615
+axial load: 3.7168214208  kN 835.574906789  lb
+bending moment: 0.181212715871  kN m 133.6556351  lb ft
+compression stress:  0.698313299928  MPa 101.281741486  psi
+unbraced lenght x: 0.3  m
+unbraced lenght y: 2.6416  m
+Fc'=  5.13384654741  MPa
+Fb'=  8.56329192  MPa
+E'=  3.0336944  GPa
+stud stability factor Cp=  0.641897583418
+stud capacity =  27.3252576178  kN
+FcE1=  6.97432767226  MPa
+FcE2=  40.2208356356  MPa
+RB=  0.765291181727  m
+FbE=  14.3198861538  MPa
+capacity factor CF=  0.20825970919
+LIVE 0 13447.4 
+*************** comb:  LIVE
+axial load: 5.46503564991  kN 1228.58919942  lb
+bending moment: 0.0  kN m 0.0  lb ft
+compression stress:  1.02676632715  MPa 148.919806803  psi
+unbraced lenght x: 0.3  m
+unbraced lenght y: 2.6416  m
+Fc'=  3.9590537362  MPa
+Fb'=  5.35205745  MPa
+E'=  3.0336944  GPa
+stud stability factor Cp=  0.792016513131
+stud capacity =  21.0723406447  kN
+FcE1=  6.97432767226  MPa
+FcE2=  40.2208356356  MPa
+RB=  0.765291181727  m
+FbE=  14.3198861538  MPa
+capacity factor CF=  0.0672605543102

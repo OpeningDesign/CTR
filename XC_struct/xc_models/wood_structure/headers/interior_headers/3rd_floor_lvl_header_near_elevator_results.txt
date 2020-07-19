@@ -1,0 +1,12 @@
+***** Third floor header L= 5 feet near elevator. ******
+Uniform load:  20.9198282033  kN/m
+Header:  3.5x14
+truss load:  2032.27358359  lbs
+Vmax=  17.535  kN Vu=  41.4129282  kN; F=  0.423418501472
+CL=  0.98678343139
+Mmax=  9.798558  kN m Mu=  36.1620504903  kN m; F=  0.27096245559
+dY=  -0.279113940375  mm; ratio= L/ 6006.14930858
+R0=  17.535  kN
+R1=  17.535  kN
+bearing lenght=  0.0381437680186  m (1.50172315034 inches)
+number of Jack studs=  1.00114876689
