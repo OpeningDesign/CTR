@@ -1,0 +1,220 @@
+\babel@toc {english}{}
+\contentsline {figure}{\numberline {1}{\ignorespaces Trusses key plan.\relax }}{17}{figure.caption.9}
+\contentsline {figure}{\numberline {2}{\ignorespaces Roof trusses at zones A and B (see key plan in figure \ref {fg_3rd_floor_truss_key_plan}).\relax }}{18}{figure.caption.10}
+\contentsline {figure}{\numberline {3}{\ignorespaces Third floor trusses at zones A and B (see key plan in figure \ref {fg_3rd_floor_truss_key_plan}).\relax }}{19}{figure.caption.11}
+\contentsline {figure}{\numberline {4}{\ignorespaces Second floor trusses at zones A and B (see key plan in figure \ref {fg_3rd_floor_truss_key_plan}).\relax }}{20}{figure.caption.12}
+\contentsline {figure}{\numberline {5}{\ignorespaces Roof trusses at zones C and D (see key plan in figure \ref {fg_3rd_floor_truss_key_plan}).\relax }}{21}{figure.caption.13}
+\contentsline {figure}{\numberline {6}{\ignorespaces Third floor trusses at zones C and D (see key plan in figure \ref {fg_3rd_floor_truss_key_plan}).\relax }}{22}{figure.caption.14}
+\contentsline {figure}{\numberline {7}{\ignorespaces Second floor trusses at zones C and D (see key plan in figure \ref {fg_3rd_floor_truss_key_plan}).\relax }}{23}{figure.caption.15}
+\contentsline {figure}{\numberline {8}{\ignorespaces Roof truss at zone E (see key plan in figure \ref {fg_3rd_floor_truss_key_plan}).\relax }}{24}{figure.caption.16}
+\contentsline {figure}{\numberline {9}{\ignorespaces Third floor truss at zone E (see key plan in figure \ref {fg_3rd_floor_truss_key_plan}).\relax }}{24}{figure.caption.17}
+\contentsline {figure}{\numberline {10}{\ignorespaces Second floor truss at zone E (see key plan in figure \ref {fg_3rd_floor_truss_key_plan}).\relax }}{25}{figure.caption.18}
+\contentsline {figure}{\numberline {11}{\ignorespaces Wood structural panel design capacities based on span ratings.\relax }}{26}{figure.caption.21}
+\contentsline {figure}{\numberline {12}{\ignorespaces Relationshib between span rating and nominal thickness for OSB.\relax }}{27}{figure.caption.22}
+\contentsline {figure}{\numberline {13}{\ignorespaces Headers key plan. Roof\relax }}{32}{figure.caption.47}
+\contentsline {figure}{\numberline {14}{\ignorespaces Headers key plan. Third floor\relax }}{33}{figure.caption.48}
+\contentsline {figure}{\numberline {15}{\ignorespaces Headers key plan. Second floor\relax }}{34}{figure.caption.49}
+\contentsline {figure}{\numberline {16}{\ignorespaces Second floor beams key plan.\relax }}{40}{figure.caption.94}
+\contentsline {figure}{\numberline {17}{\ignorespaces Courtyard facade steel beam. ULS02. $M_z$\relax }}{43}{figure.caption.102}
+\contentsline {figure}{\numberline {18}{\ignorespaces Courtyard facade steel beam. ULS02. $V_y$\relax }}{43}{figure.caption.103}
+\contentsline {figure}{\numberline {19}{\ignorespaces Columns key plan. Roof\relax }}{48}{figure.caption.121}
+\contentsline {figure}{\numberline {20}{\ignorespaces Columns key plan. Third floor\relax }}{49}{figure.caption.122}
+\contentsline {figure}{\numberline {21}{\ignorespaces Columns key plan. Second floor\relax }}{50}{figure.caption.123}
+\contentsline {figure}{\numberline {22}{\ignorespaces Bearing walls key plan. Roof\relax }}{54}{figure.caption.146}
+\contentsline {figure}{\numberline {23}{\ignorespaces Shear walls on the third floor.\relax }}{67}{figure.caption.177}
+\contentsline {figure}{\numberline {24}{\ignorespaces Shear walls on the second floor.\relax }}{68}{figure.caption.178}
+\contentsline {figure}{\numberline {25}{\ignorespaces Shear walls on the first floor.\relax }}{69}{figure.caption.179}
+\contentsline {figure}{\numberline {26}{\ignorespaces Elastic model, mesh.\relax }}{71}{figure.26}
+\contentsline {figure}{\numberline {27}{\ignorespaces Load case D: dead load (include slab selfweight) [units: kN,m].\relax }}{71}{figure.27}
+\contentsline {figure}{\numberline {28}{\ignorespaces Load case Lru: live load (uniform on rooms) [units: kN,m].\relax }}{71}{figure.28}
+\contentsline {figure}{\numberline {29}{\ignorespaces Load case Lrs: live load (staggered pattern on rooms) [units: kN,m].\relax }}{71}{figure.29}
+\contentsline {figure}{\numberline {30}{\ignorespaces Load case Lpu: live load (uniform on patios) [units: kN,m].\relax }}{71}{figure.30}
+\contentsline {figure}{\numberline {31}{\ignorespaces Load case S: snow [units: kN,m].\relax }}{71}{figure.31}
+\contentsline {figure}{\numberline {32}{\ignorespaces Load case Lps: live load (staggered pattern on patios) [units: kN,m].\relax }}{72}{figure.32}
+\contentsline {figure}{\numberline {33}{\ignorespaces Load case W\_WE: wind West-East [units: kN,m].\relax }}{72}{figure.33}
+\contentsline {figure}{\numberline {34}{\ignorespaces Load case W\_NS: wind North-South [units: kN,m].\relax }}{72}{figure.34}
+\contentsline {figure}{\numberline {35}{\ignorespaces Load layout on first floor.\relax }}{73}{figure.35}
+\contentsline {figure}{\numberline {36}{\ignorespaces Flexure in the longitudinal direction. Capacity factor.\relax }}{76}{figure.caption.187}
+\contentsline {figure}{\numberline {37}{\ignorespaces Flexure in the transverse direction. Capacity factor.\relax }}{77}{figure.caption.188}
+\contentsline {figure}{\numberline {38}{\ignorespaces Ramp walls and cantilever, mesh.\relax }}{86}{figure.38}
+\contentsline {figure}{\numberline {39}{\ignorespaces Ramp walls and cantilever, dead load over ramp wall.\relax }}{86}{figure.39}
+\contentsline {figure}{\numberline {40}{\ignorespaces Ramp walls and cantilever, dead load over steel beams.\relax }}{87}{figure.40}
+\contentsline {figure}{\numberline {41}{\ignorespaces Ramp walls and cantilever, live load over ramp wall.\relax }}{87}{figure.41}
+\contentsline {figure}{\numberline {42}{\ignorespaces Ramp walls and cantilever, live load over steel beams.\relax }}{88}{figure.42}
+\contentsline {figure}{\numberline {43}{\ignorespaces Ramp walls and cantilever, snow load over ramp wall.\relax }}{88}{figure.43}
+\contentsline {figure}{\numberline {44}{\ignorespaces Ramp walls and cantilever, snow load over steel beams.\relax }}{89}{figure.44}
+\contentsline {figure}{\numberline {45}{\ignorespaces Ramp walls and cantilever, wind load over ramp wall.\relax }}{89}{figure.45}
+\contentsline {figure}{\numberline {46}{\ignorespaces Ramp walls and cantilever, wind load over steel beams.\relax }}{90}{figure.46}
+\contentsline {figure}{\numberline {47}{\ignorespaces ULS01. Overall set, displacement in global X direction, [mm]\relax }}{108}{figure.caption.219}
+\contentsline {figure}{\numberline {48}{\ignorespaces ULS01. Overall set, displacement in global Z direction, [mm]\relax }}{108}{figure.caption.220}
+\contentsline {figure}{\numberline {49}{\ignorespaces ULS01. Ramp rc walls, internal axial force in local direction 1, units:[m, kN]\relax }}{108}{figure.caption.221}
+\contentsline {figure}{\numberline {50}{\ignorespaces ULS01. Ramp rc walls, internal axial force in local direction 2, units:[m, kN]\relax }}{108}{figure.caption.222}
+\contentsline {figure}{\numberline {51}{\ignorespaces ULS01. Ramp rc walls, bending moment about local axis 1, units:[m, kN]\relax }}{108}{figure.caption.223}
+\contentsline {figure}{\numberline {52}{\ignorespaces ULS01. Ramp rc walls, bending moment about local axis 2, units:[m, kN]\relax }}{109}{figure.caption.224}
+\contentsline {figure}{\numberline {53}{\ignorespaces ULS01. Ramp rc walls, internal shear force in local direction 1, units:[m, kN]\relax }}{109}{figure.caption.225}
+\contentsline {figure}{\numberline {54}{\ignorespaces ULS01. Ramp rc walls, internal shear force in local direction 2, units:[m, kN]\relax }}{109}{figure.caption.226}
+\contentsline {figure}{\numberline {55}{\ignorespaces ULS01. Cantilever steel structure, internal axial force, units:[m, kN]\relax }}{109}{figure.caption.227}
+\contentsline {figure}{\numberline {56}{\ignorespaces ULS01. Cantilever steel structure, bending moment about local axis y, units:[m, kN]\relax }}{109}{figure.caption.228}
+\contentsline {figure}{\numberline {57}{\ignorespaces ULS01. Cantilever steel structure, bending moment about local axis z, units:[m, kN]\relax }}{109}{figure.caption.229}
+\contentsline {figure}{\numberline {58}{\ignorespaces ULS01. Cantilever steel structure, internal shear force in local direction y, units:[m, kN]\relax }}{110}{figure.caption.230}
+\contentsline {figure}{\numberline {59}{\ignorespaces ULS01. Cantilever steel structure, internal shear force in local direction z, units:[m, kN]\relax }}{110}{figure.caption.231}
+\contentsline {figure}{\numberline {60}{\ignorespaces ULS02. Overall set, displacement in global X direction, [mm]\relax }}{111}{figure.caption.232}
+\contentsline {figure}{\numberline {61}{\ignorespaces ULS02. Overall set, displacement in global Z direction, [mm]\relax }}{111}{figure.caption.233}
+\contentsline {figure}{\numberline {62}{\ignorespaces ULS02. Ramp rc walls, internal axial force in local direction 1, units:[m, kN]\relax }}{111}{figure.caption.234}
+\contentsline {figure}{\numberline {63}{\ignorespaces ULS02. Ramp rc walls, internal axial force in local direction 2, units:[m, kN]\relax }}{111}{figure.caption.235}
+\contentsline {figure}{\numberline {64}{\ignorespaces ULS02. Ramp rc walls, bending moment about local axis 1, units:[m, kN]\relax }}{111}{figure.caption.236}
+\contentsline {figure}{\numberline {65}{\ignorespaces ULS02. Ramp rc walls, bending moment about local axis 2, units:[m, kN]\relax }}{111}{figure.caption.237}
+\contentsline {figure}{\numberline {66}{\ignorespaces ULS02. Ramp rc walls, internal shear force in local direction 1, units:[m, kN]\relax }}{112}{figure.caption.238}
+\contentsline {figure}{\numberline {67}{\ignorespaces ULS02. Ramp rc walls, internal shear force in local direction 2, units:[m, kN]\relax }}{112}{figure.caption.239}
+\contentsline {figure}{\numberline {68}{\ignorespaces ULS02. Cantilever steel structure, internal axial force, units:[m, kN]\relax }}{112}{figure.caption.240}
+\contentsline {figure}{\numberline {69}{\ignorespaces ULS02. Cantilever steel structure, bending moment about local axis y, units:[m, kN]\relax }}{112}{figure.caption.241}
+\contentsline {figure}{\numberline {70}{\ignorespaces ULS02. Cantilever steel structure, bending moment about local axis z, units:[m, kN]\relax }}{112}{figure.caption.242}
+\contentsline {figure}{\numberline {71}{\ignorespaces ULS02. Cantilever steel structure, internal shear force in local direction y, units:[m, kN]\relax }}{112}{figure.caption.243}
+\contentsline {figure}{\numberline {72}{\ignorespaces ULS02. Cantilever steel structure, internal shear force in local direction z, units:[m, kN]\relax }}{113}{figure.caption.244}
+\contentsline {figure}{\numberline {73}{\ignorespaces ULS03. Overall set, displacement in global X direction, [mm]\relax }}{114}{figure.caption.245}
+\contentsline {figure}{\numberline {74}{\ignorespaces ULS03. Overall set, displacement in global Z direction, [mm]\relax }}{114}{figure.caption.246}
+\contentsline {figure}{\numberline {75}{\ignorespaces ULS03. Ramp rc walls, internal axial force in local direction 1, units:[m, kN]\relax }}{114}{figure.caption.247}
+\contentsline {figure}{\numberline {76}{\ignorespaces ULS03. Ramp rc walls, internal axial force in local direction 2, units:[m, kN]\relax }}{114}{figure.caption.248}
+\contentsline {figure}{\numberline {77}{\ignorespaces ULS03. Ramp rc walls, bending moment about local axis 1, units:[m, kN]\relax }}{114}{figure.caption.249}
+\contentsline {figure}{\numberline {78}{\ignorespaces ULS03. Ramp rc walls, bending moment about local axis 2, units:[m, kN]\relax }}{114}{figure.caption.250}
+\contentsline {figure}{\numberline {79}{\ignorespaces ULS03. Ramp rc walls, internal shear force in local direction 1, units:[m, kN]\relax }}{115}{figure.caption.251}
+\contentsline {figure}{\numberline {80}{\ignorespaces ULS03. Ramp rc walls, internal shear force in local direction 2, units:[m, kN]\relax }}{115}{figure.caption.252}
+\contentsline {figure}{\numberline {81}{\ignorespaces ULS03. Cantilever steel structure, internal axial force, units:[m, kN]\relax }}{115}{figure.caption.253}
+\contentsline {figure}{\numberline {82}{\ignorespaces ULS03. Cantilever steel structure, bending moment about local axis y, units:[m, kN]\relax }}{115}{figure.caption.254}
+\contentsline {figure}{\numberline {83}{\ignorespaces ULS03. Cantilever steel structure, bending moment about local axis z, units:[m, kN]\relax }}{115}{figure.caption.255}
+\contentsline {figure}{\numberline {84}{\ignorespaces ULS03. Cantilever steel structure, internal shear force in local direction y, units:[m, kN]\relax }}{115}{figure.caption.256}
+\contentsline {figure}{\numberline {85}{\ignorespaces ULS03. Cantilever steel structure, internal shear force in local direction z, units:[m, kN]\relax }}{116}{figure.caption.257}
+\contentsline {figure}{\numberline {86}{\ignorespaces ULS04. Overall set, displacement in global X direction, [mm]\relax }}{117}{figure.caption.258}
+\contentsline {figure}{\numberline {87}{\ignorespaces ULS04. Overall set, displacement in global Z direction, [mm]\relax }}{117}{figure.caption.259}
+\contentsline {figure}{\numberline {88}{\ignorespaces ULS04. Ramp rc walls, internal axial force in local direction 1, units:[m, kN]\relax }}{117}{figure.caption.260}
+\contentsline {figure}{\numberline {89}{\ignorespaces ULS04. Ramp rc walls, internal axial force in local direction 2, units:[m, kN]\relax }}{117}{figure.caption.261}
+\contentsline {figure}{\numberline {90}{\ignorespaces ULS04. Ramp rc walls, bending moment about local axis 1, units:[m, kN]\relax }}{117}{figure.caption.262}
+\contentsline {figure}{\numberline {91}{\ignorespaces ULS04. Ramp rc walls, bending moment about local axis 2, units:[m, kN]\relax }}{117}{figure.caption.263}
+\contentsline {figure}{\numberline {92}{\ignorespaces ULS04. Ramp rc walls, internal shear force in local direction 1, units:[m, kN]\relax }}{118}{figure.caption.264}
+\contentsline {figure}{\numberline {93}{\ignorespaces ULS04. Ramp rc walls, internal shear force in local direction 2, units:[m, kN]\relax }}{118}{figure.caption.265}
+\contentsline {figure}{\numberline {94}{\ignorespaces ULS04. Cantilever steel structure, internal axial force, units:[m, kN]\relax }}{118}{figure.caption.266}
+\contentsline {figure}{\numberline {95}{\ignorespaces ULS04. Cantilever steel structure, bending moment about local axis y, units:[m, kN]\relax }}{118}{figure.caption.267}
+\contentsline {figure}{\numberline {96}{\ignorespaces ULS04. Cantilever steel structure, bending moment about local axis z, units:[m, kN]\relax }}{118}{figure.caption.268}
+\contentsline {figure}{\numberline {97}{\ignorespaces ULS04. Cantilever steel structure, internal shear force in local direction y, units:[m, kN]\relax }}{118}{figure.caption.269}
+\contentsline {figure}{\numberline {98}{\ignorespaces ULS04. Cantilever steel structure, internal shear force in local direction z, units:[m, kN]\relax }}{119}{figure.caption.270}
+\contentsline {figure}{\numberline {99}{\ignorespaces ULS05. Overall set, displacement in global X direction, [mm]\relax }}{120}{figure.caption.271}
+\contentsline {figure}{\numberline {100}{\ignorespaces ULS05. Overall set, displacement in global Z direction, [mm]\relax }}{120}{figure.caption.272}
+\contentsline {figure}{\numberline {101}{\ignorespaces ULS05. Ramp rc walls, internal axial force in local direction 1, units:[m, kN]\relax }}{120}{figure.caption.273}
+\contentsline {figure}{\numberline {102}{\ignorespaces ULS05. Ramp rc walls, internal axial force in local direction 2, units:[m, kN]\relax }}{120}{figure.caption.274}
+\contentsline {figure}{\numberline {103}{\ignorespaces ULS05. Ramp rc walls, bending moment about local axis 1, units:[m, kN]\relax }}{120}{figure.caption.275}
+\contentsline {figure}{\numberline {104}{\ignorespaces ULS05. Ramp rc walls, bending moment about local axis 2, units:[m, kN]\relax }}{120}{figure.caption.276}
+\contentsline {figure}{\numberline {105}{\ignorespaces ULS05. Ramp rc walls, internal shear force in local direction 1, units:[m, kN]\relax }}{121}{figure.caption.277}
+\contentsline {figure}{\numberline {106}{\ignorespaces ULS05. Ramp rc walls, internal shear force in local direction 2, units:[m, kN]\relax }}{121}{figure.caption.278}
+\contentsline {figure}{\numberline {107}{\ignorespaces ULS05. Cantilever steel structure, internal axial force, units:[m, kN]\relax }}{121}{figure.caption.279}
+\contentsline {figure}{\numberline {108}{\ignorespaces ULS05. Cantilever steel structure, bending moment about local axis y, units:[m, kN]\relax }}{121}{figure.caption.280}
+\contentsline {figure}{\numberline {109}{\ignorespaces ULS05. Cantilever steel structure, bending moment about local axis z, units:[m, kN]\relax }}{121}{figure.caption.281}
+\contentsline {figure}{\numberline {110}{\ignorespaces ULS05. Cantilever steel structure, internal shear force in local direction y, units:[m, kN]\relax }}{121}{figure.caption.282}
+\contentsline {figure}{\numberline {111}{\ignorespaces ULS05. Cantilever steel structure, internal shear force in local direction z, units:[m, kN]\relax }}{122}{figure.caption.283}
+\contentsline {figure}{\numberline {112}{\ignorespaces ULS normal stresses check. Ramp rc walls, efficiency, section 1\relax }}{123}{figure.caption.285}
+\contentsline {figure}{\numberline {113}{\ignorespaces ULS normal stresses check. Ramp rc walls, efficiency, section 2\relax }}{123}{figure.caption.286}
+\contentsline {figure}{\numberline {114}{\ignorespaces ULS normal stresses check. Ramp rc walls, internal axial force, section 1\relax }}{123}{figure.caption.287}
+\contentsline {figure}{\numberline {115}{\ignorespaces ULS normal stresses check. Ramp rc walls, internal axial force, section 2\relax }}{123}{figure.caption.288}
+\contentsline {figure}{\numberline {116}{\ignorespaces ULS normal stresses check. Ramp rc walls, bending moment about local axis y, section 1\relax }}{123}{figure.caption.289}
+\contentsline {figure}{\numberline {117}{\ignorespaces ULS normal stresses check. Ramp rc walls, bending moment about local axis y, section 2\relax }}{124}{figure.caption.290}
+\contentsline {figure}{\numberline {118}{\ignorespaces ULS shear check. Ramp rc walls, efficiency, section 1\relax }}{125}{figure.caption.292}
+\contentsline {figure}{\numberline {119}{\ignorespaces ULS shear check. Ramp rc walls, efficiency, section 2\relax }}{125}{figure.caption.293}
+\contentsline {figure}{\numberline {120}{\ignorespaces ULS shear check. Ramp rc walls, internal axial force, section 1\relax }}{125}{figure.caption.294}
+\contentsline {figure}{\numberline {121}{\ignorespaces ULS shear check. Ramp rc walls, internal axial force, section 2\relax }}{125}{figure.caption.295}
+\contentsline {figure}{\numberline {122}{\ignorespaces ULS shear check. Ramp rc walls, bending moment about local axis y, section 1\relax }}{125}{figure.caption.296}
+\contentsline {figure}{\numberline {123}{\ignorespaces ULS shear check. Ramp rc walls, bending moment about local axis y, section 2\relax }}{126}{figure.caption.297}
+\contentsline {figure}{\numberline {124}{\ignorespaces ULS shear check. Ramp rc walls, internal shear force in local direction y, section 1\relax }}{126}{figure.caption.298}
+\contentsline {figure}{\numberline {125}{\ignorespaces ULS shear check. Ramp rc walls, internal shear force in local direction y, section 2\relax }}{126}{figure.caption.299}
+\contentsline {figure}{\numberline {126}{\ignorespaces ULS shear check. Ramp rc walls, internal shear force in local direction z, section 1\relax }}{126}{figure.caption.300}
+\contentsline {figure}{\numberline {127}{\ignorespaces ULS shear check. Ramp rc walls, internal shear force in local direction z, section 2\relax }}{126}{figure.caption.301}
+\contentsline {figure}{\numberline {128}{\ignorespaces Design shear and moment capacity for nominal 8 x 8 in. concrete masonry lintels\relax }}{130}{figure.caption.304}
+\contentsline {figure}{\numberline {129}{\ignorespaces Elevator lintels\relax }}{131}{figure.caption.305}
+\contentsline {figure}{\numberline {130}{\ignorespaces Design shear and moment capacity for nominal 8 x 8 in. concrete masonry lintels\relax }}{132}{figure.caption.306}
+\contentsline {figure}{\numberline {131}{\ignorespaces 1st floor lintel detail\relax }}{134}{figure.caption.307}
+\contentsline {figure}{\numberline {132}{\ignorespaces Design shear and moment capacity for nominal 8 x 24 in. concrete masonry lintels\relax }}{134}{figure.caption.308}
+\contentsline {figure}{\numberline {133}{\ignorespaces Balconies connection.\relax }}{137}{figure.caption.309}
+\contentsline {figure}{\numberline {134}{\ignorespaces Balconies. Maximum load on connections.\relax }}{138}{figure.caption.310}
+\contentsline {figure}{\numberline {135}{\ignorespaces Balconies connection. Finite element model.\relax }}{138}{figure.caption.311}
+\contentsline {figure}{\numberline {136}{\ignorespaces ULS01: 1.4*D. Columns, internal axial force [kN]\relax }}{143}{figure.caption.313}
+\contentsline {figure}{\numberline {137}{\ignorespaces ULS01: 1.4*D. Columns, bending moment about local axis y [m.kN]\relax }}{143}{figure.caption.314}
+\contentsline {figure}{\numberline {138}{\ignorespaces ULS01: 1.4*D. Columns, bending moment about local axis z [m.kN]\relax }}{144}{figure.caption.315}
+\contentsline {figure}{\numberline {139}{\ignorespaces ULS01: 1.4*D. Columns, internal shear force in local direction y [kN]\relax }}{144}{figure.caption.316}
+\contentsline {figure}{\numberline {140}{\ignorespaces ULS01: 1.4*D. Columns, internal shear force in local direction z [kN]\relax }}{144}{figure.caption.317}
+\contentsline {figure}{\numberline {141}{\ignorespaces ULS02\_a: 1.2*D + 1.6*Lru + Lpu + 0.5*S. Columns, internal axial force [kN]\relax }}{145}{figure.caption.318}
+\contentsline {figure}{\numberline {142}{\ignorespaces ULS02\_a: 1.2*D + 1.6*Lru + Lpu + 0.5*S. Columns, bending moment about local axis y [m.kN]\relax }}{145}{figure.caption.319}
+\contentsline {figure}{\numberline {143}{\ignorespaces ULS02\_a: 1.2*D + 1.6*Lru + Lpu + 0.5*S. Columns, bending moment about local axis z [m.kN]\relax }}{145}{figure.caption.320}
+\contentsline {figure}{\numberline {144}{\ignorespaces ULS02\_a: 1.2*D + 1.6*Lru + Lpu + 0.5*S. Columns, internal shear force in local direction y [kN]\relax }}{146}{figure.caption.321}
+\contentsline {figure}{\numberline {145}{\ignorespaces ULS02\_a: 1.2*D + 1.6*Lru + Lpu + 0.5*S. Columns, internal shear force in local direction z [kN]\relax }}{146}{figure.caption.322}
+\contentsline {figure}{\numberline {146}{\ignorespaces ULS02\_b: 1.2*D + 1.6*Lrs + Lps + 0.5*S. Columns, internal axial force [kN]\relax }}{146}{figure.caption.323}
+\contentsline {figure}{\numberline {147}{\ignorespaces ULS02\_b: 1.2*D + 1.6*Lrs + Lps + 0.5*S. Columns, bending moment about local axis y [m.kN]\relax }}{147}{figure.caption.324}
+\contentsline {figure}{\numberline {148}{\ignorespaces ULS02\_b: 1.2*D + 1.6*Lrs + Lps + 0.5*S. Columns, bending moment about local axis z [m.kN]\relax }}{147}{figure.caption.325}
+\contentsline {figure}{\numberline {149}{\ignorespaces ULS02\_b: 1.2*D + 1.6*Lrs + Lps + 0.5*S. Columns, internal shear force in local direction y [kN]\relax }}{147}{figure.caption.326}
+\contentsline {figure}{\numberline {150}{\ignorespaces ULS02\_b: 1.2*D + 1.6*Lrs + Lps + 0.5*S. Columns, internal shear force in local direction z [kN]\relax }}{148}{figure.caption.327}
+\contentsline {figure}{\numberline {151}{\ignorespaces ULS03\_a: 1.2*D + 1.6*S + 0.5*Lru + Lpu. Columns, internal axial force [kN]\relax }}{148}{figure.caption.328}
+\contentsline {figure}{\numberline {152}{\ignorespaces ULS03\_a: 1.2*D + 1.6*S + 0.5*Lru + Lpu. Columns, bending moment about local axis y [m.kN]\relax }}{148}{figure.caption.329}
+\contentsline {figure}{\numberline {153}{\ignorespaces ULS03\_a: 1.2*D + 1.6*S + 0.5*Lru + Lpu. Columns, bending moment about local axis z [m.kN]\relax }}{149}{figure.caption.330}
+\contentsline {figure}{\numberline {154}{\ignorespaces ULS03\_a: 1.2*D + 1.6*S + 0.5*Lru + Lpu. Columns, internal shear force in local direction y [kN]\relax }}{149}{figure.caption.331}
+\contentsline {figure}{\numberline {155}{\ignorespaces ULS03\_a: 1.2*D + 1.6*S + 0.5*Lru + Lpu. Columns, internal shear force in local direction z [kN]\relax }}{149}{figure.caption.332}
+\contentsline {figure}{\numberline {156}{\ignorespaces ULS03\_b: 1.2*D + 1.6*S + 0.5*Lrs + Lps. Columns, internal axial force [kN]\relax }}{150}{figure.caption.333}
+\contentsline {figure}{\numberline {157}{\ignorespaces ULS03\_b: 1.2*D + 1.6*S + 0.5*Lrs + Lps. Columns, bending moment about local axis y [m.kN]\relax }}{150}{figure.caption.334}
+\contentsline {figure}{\numberline {158}{\ignorespaces ULS03\_b: 1.2*D + 1.6*S + 0.5*Lrs + Lps. Columns, bending moment about local axis z [m.kN]\relax }}{150}{figure.caption.335}
+\contentsline {figure}{\numberline {159}{\ignorespaces ULS03\_b: 1.2*D + 1.6*S + 0.5*Lrs + Lps. Columns, internal shear force in local direction y [kN]\relax }}{151}{figure.caption.336}
+\contentsline {figure}{\numberline {160}{\ignorespaces ULS03\_b: 1.2*D + 1.6*S + 0.5*Lrs + Lps. Columns, internal shear force in local direction z [kN]\relax }}{151}{figure.caption.337}
+\contentsline {figure}{\numberline {161}{\ignorespaces ULS04\_a: 1.2*D + 1.6*S + 0.5*W\_WE. Columns, internal axial force [kN]\relax }}{151}{figure.caption.338}
+\contentsline {figure}{\numberline {162}{\ignorespaces ULS04\_a: 1.2*D + 1.6*S + 0.5*W\_WE. Columns, bending moment about local axis y [m.kN]\relax }}{152}{figure.caption.339}
+\contentsline {figure}{\numberline {163}{\ignorespaces ULS04\_a: 1.2*D + 1.6*S + 0.5*W\_WE. Columns, bending moment about local axis z [m.kN]\relax }}{152}{figure.caption.340}
+\contentsline {figure}{\numberline {164}{\ignorespaces ULS04\_a: 1.2*D + 1.6*S + 0.5*W\_WE. Columns, internal shear force in local direction y [kN]\relax }}{152}{figure.caption.341}
+\contentsline {figure}{\numberline {165}{\ignorespaces ULS04\_a: 1.2*D + 1.6*S + 0.5*W\_WE. Columns, internal shear force in local direction z [kN]\relax }}{153}{figure.caption.342}
+\contentsline {figure}{\numberline {166}{\ignorespaces ULS04\_b: 1.2*D + 1.6*S + 0.5*W\_NS. Columns, internal axial force [kN]\relax }}{153}{figure.caption.343}
+\contentsline {figure}{\numberline {167}{\ignorespaces ULS04\_b: 1.2*D + 1.6*S + 0.5*W\_NS. Columns, bending moment about local axis y [m.kN]\relax }}{153}{figure.caption.344}
+\contentsline {figure}{\numberline {168}{\ignorespaces ULS04\_b: 1.2*D + 1.6*S + 0.5*W\_NS. Columns, bending moment about local axis z [m.kN]\relax }}{154}{figure.caption.345}
+\contentsline {figure}{\numberline {169}{\ignorespaces ULS04\_b: 1.2*D + 1.6*S + 0.5*W\_NS. Columns, internal shear force in local direction y [kN]\relax }}{154}{figure.caption.346}
+\contentsline {figure}{\numberline {170}{\ignorespaces ULS04\_b: 1.2*D + 1.6*S + 0.5*W\_NS. Columns, internal shear force in local direction z [kN]\relax }}{154}{figure.caption.347}
+\contentsline {figure}{\numberline {171}{\ignorespaces ULS05\_a: 1.2*D + W\_WE + 0.5*Lru + Lpu. Columns, internal axial force [kN]\relax }}{155}{figure.caption.348}
+\contentsline {figure}{\numberline {172}{\ignorespaces ULS05\_a: 1.2*D + W\_WE + 0.5*Lru + Lpu. Columns, bending moment about local axis y [m.kN]\relax }}{155}{figure.caption.349}
+\contentsline {figure}{\numberline {173}{\ignorespaces ULS05\_a: 1.2*D + W\_WE + 0.5*Lru + Lpu. Columns, bending moment about local axis z [m.kN]\relax }}{155}{figure.caption.350}
+\contentsline {figure}{\numberline {174}{\ignorespaces ULS05\_a: 1.2*D + W\_WE + 0.5*Lru + Lpu. Columns, internal shear force in local direction y [kN]\relax }}{156}{figure.caption.351}
+\contentsline {figure}{\numberline {175}{\ignorespaces ULS05\_a: 1.2*D + W\_WE + 0.5*Lru + Lpu. Columns, internal shear force in local direction z [kN]\relax }}{156}{figure.caption.352}
+\contentsline {figure}{\numberline {176}{\ignorespaces ULS05\_b: 1.2*D + W\_NS + 0.5*Lru + Lpu. Columns, internal axial force [kN]\relax }}{157}{figure.caption.353}
+\contentsline {figure}{\numberline {177}{\ignorespaces ULS05\_b: 1.2*D + W\_NS + 0.5*Lru + Lpu. Columns, bending moment about local axis y [m.kN]\relax }}{157}{figure.caption.354}
+\contentsline {figure}{\numberline {178}{\ignorespaces ULS05\_b: 1.2*D + W\_NS + 0.5*Lru + Lpu. Columns, bending moment about local axis z [m.kN]\relax }}{157}{figure.caption.355}
+\contentsline {figure}{\numberline {179}{\ignorespaces ULS05\_b: 1.2*D + W\_NS + 0.5*Lru + Lpu. Columns, internal shear force in local direction y [kN]\relax }}{158}{figure.caption.356}
+\contentsline {figure}{\numberline {180}{\ignorespaces ULS05\_b: 1.2*D + W\_NS + 0.5*Lru + Lpu. Columns, internal shear force in local direction z [kN]\relax }}{158}{figure.caption.357}
+\contentsline {figure}{\numberline {181}{\ignorespaces ULS05\_c: 1.2*D + W\_WE + 0.5*Lrs + Lps. Columns, internal axial force [kN]\relax }}{158}{figure.caption.358}
+\contentsline {figure}{\numberline {182}{\ignorespaces ULS05\_c: 1.2*D + W\_WE + 0.5*Lrs + Lps. Columns, bending moment about local axis y [m.kN]\relax }}{159}{figure.caption.359}
+\contentsline {figure}{\numberline {183}{\ignorespaces ULS05\_c: 1.2*D + W\_WE + 0.5*Lrs + Lps. Columns, bending moment about local axis z [m.kN]\relax }}{159}{figure.caption.360}
+\contentsline {figure}{\numberline {184}{\ignorespaces ULS05\_c: 1.2*D + W\_WE + 0.5*Lrs + Lps. Columns, internal shear force in local direction y [kN]\relax }}{159}{figure.caption.361}
+\contentsline {figure}{\numberline {185}{\ignorespaces ULS05\_c: 1.2*D + W\_WE + 0.5*Lrs + Lps. Columns, internal shear force in local direction z [kN]\relax }}{160}{figure.caption.362}
+\contentsline {figure}{\numberline {186}{\ignorespaces ULS05\_d: 1.2*D + W\_NS + 0.5*Lrs + Lps. Columns, internal axial force [kN]\relax }}{160}{figure.caption.363}
+\contentsline {figure}{\numberline {187}{\ignorespaces ULS05\_d: 1.2*D + W\_NS + 0.5*Lrs + Lps. Columns, bending moment about local axis y [m.kN]\relax }}{160}{figure.caption.364}
+\contentsline {figure}{\numberline {188}{\ignorespaces ULS05\_d: 1.2*D + W\_NS + 0.5*Lrs + Lps. Columns, bending moment about local axis z [m.kN]\relax }}{161}{figure.caption.365}
+\contentsline {figure}{\numberline {189}{\ignorespaces ULS05\_d: 1.2*D + W\_NS + 0.5*Lrs + Lps. Columns, internal shear force in local direction y [kN]\relax }}{161}{figure.caption.366}
+\contentsline {figure}{\numberline {190}{\ignorespaces ULS05\_d: 1.2*D + W\_NS + 0.5*Lrs + Lps. Columns, internal shear force in local direction z [kN]\relax }}{161}{figure.caption.367}
+\contentsline {figure}{\numberline {191}{\ignorespaces ULS06\_a: 1.2*D + 0.5*Lru + Lpu + 0.2*S. Columns, internal axial force [kN]\relax }}{162}{figure.caption.368}
+\contentsline {figure}{\numberline {192}{\ignorespaces ULS06\_a: 1.2*D + 0.5*Lru + Lpu + 0.2*S. Columns, bending moment about local axis y [m.kN]\relax }}{162}{figure.caption.369}
+\contentsline {figure}{\numberline {193}{\ignorespaces ULS06\_a: 1.2*D + 0.5*Lru + Lpu + 0.2*S. Columns, bending moment about local axis z [m.kN]\relax }}{162}{figure.caption.370}
+\contentsline {figure}{\numberline {194}{\ignorespaces ULS06\_a: 1.2*D + 0.5*Lru + Lpu + 0.2*S. Columns, internal shear force in local direction y [kN]\relax }}{163}{figure.caption.371}
+\contentsline {figure}{\numberline {195}{\ignorespaces ULS06\_a: 1.2*D + 0.5*Lru + Lpu + 0.2*S. Columns, internal shear force in local direction z [kN]\relax }}{163}{figure.caption.372}
+\contentsline {figure}{\numberline {196}{\ignorespaces ULS06\_b: 1.2*D + 0.5*Lrs + Lps + 0.2*S. Columns, internal axial force [kN]\relax }}{163}{figure.caption.373}
+\contentsline {figure}{\numberline {197}{\ignorespaces ULS06\_b: 1.2*D + 0.5*Lrs + Lps + 0.2*S. Columns, bending moment about local axis y [m.kN]\relax }}{164}{figure.caption.374}
+\contentsline {figure}{\numberline {198}{\ignorespaces ULS06\_b: 1.2*D + 0.5*Lrs + Lps + 0.2*S. Columns, bending moment about local axis z [m.kN]\relax }}{164}{figure.caption.375}
+\contentsline {figure}{\numberline {199}{\ignorespaces ULS06\_b: 1.2*D + 0.5*Lrs + Lps + 0.2*S. Columns, internal shear force in local direction y [kN]\relax }}{164}{figure.caption.376}
+\contentsline {figure}{\numberline {200}{\ignorespaces ULS06\_b: 1.2*D + 0.5*Lrs + Lps + 0.2*S. Columns, internal shear force in local direction z [kN]\relax }}{165}{figure.caption.377}
+\contentsline {figure}{\numberline {201}{\ignorespaces ULS07\_a: 0.9*D + W\_WE. Columns, internal axial force [kN]\relax }}{165}{figure.caption.378}
+\contentsline {figure}{\numberline {202}{\ignorespaces ULS07\_a: 0.9*D + W\_WE. Columns, bending moment about local axis y [m.kN]\relax }}{165}{figure.caption.379}
+\contentsline {figure}{\numberline {203}{\ignorespaces ULS07\_a: 0.9*D + W\_WE. Columns, bending moment about local axis z [m.kN]\relax }}{166}{figure.caption.380}
+\contentsline {figure}{\numberline {204}{\ignorespaces ULS07\_a: 0.9*D + W\_WE. Columns, internal shear force in local direction y [kN]\relax }}{166}{figure.caption.381}
+\contentsline {figure}{\numberline {205}{\ignorespaces ULS07\_a: 0.9*D + W\_WE. Columns, internal shear force in local direction z [kN]\relax }}{166}{figure.caption.382}
+\contentsline {figure}{\numberline {206}{\ignorespaces ULS07\_b: 0.9*D + W\_NS. Columns, internal axial force [kN]\relax }}{167}{figure.caption.383}
+\contentsline {figure}{\numberline {207}{\ignorespaces ULS07\_b: 0.9*D + W\_NS. Columns, bending moment about local axis y [m.kN]\relax }}{167}{figure.caption.384}
+\contentsline {figure}{\numberline {208}{\ignorespaces ULS07\_b: 0.9*D + W\_NS. Columns, bending moment about local axis z [m.kN]\relax }}{167}{figure.caption.385}
+\contentsline {figure}{\numberline {209}{\ignorespaces ULS07\_b: 0.9*D + W\_NS. Columns, internal shear force in local direction y [kN]\relax }}{168}{figure.caption.386}
+\contentsline {figure}{\numberline {210}{\ignorespaces ULS07\_b: 0.9*D + W\_NS. Columns, internal shear force in local direction z [kN]\relax }}{168}{figure.caption.387}
+\contentsline {figure}{\numberline {211}{\ignorespaces SLS01: 1.0*D. Columns, bending moment about local axis y [m.kN]\relax }}{169}{figure.caption.388}
+\contentsline {figure}{\numberline {212}{\ignorespaces SLS02\_a: 1.0*D + 1.0*Lru + Lpu + 0.3*S. Columns, bending moment about local axis y [m.kN]\relax }}{169}{figure.caption.389}
+\contentsline {figure}{\numberline {213}{\ignorespaces SLS02\_b: 1.0*D + 1.0*Lrs + Lps + 0.3*S. Columns, bending moment about local axis y [m.kN]\relax }}{170}{figure.caption.390}
+\contentsline {figure}{\numberline {214}{\ignorespaces SLS03\_a: 1.0*D + 1.0*S + 0.3*Lru + 0.3*Lpu. Columns, bending moment about local axis y [m.kN]\relax }}{170}{figure.caption.391}
+\contentsline {figure}{\numberline {215}{\ignorespaces SLS03\_b: 1.0*D + 1.0*S + 0.3*Lrs + 0.3*Lps. Columns, bending moment about local axis y [m.kN]\relax }}{170}{figure.caption.392}
+\contentsline {figure}{\numberline {216}{\ignorespaces SLS04\_a: 1.0*D + W\_WE + 1.0*Lru + Lpu. Columns, bending moment about local axis y [m.kN]\relax }}{171}{figure.caption.393}
+\contentsline {figure}{\numberline {217}{\ignorespaces SLS04\_b: 1.0*D + W\_NS + 1.0*Lru + Lpu. Columns, bending moment about local axis y [m.kN]\relax }}{171}{figure.caption.394}
+\contentsline {figure}{\numberline {218}{\ignorespaces SLS05\_a: 1.0*D + W\_WE. Columns, bending moment about local axis y [m.kN]\relax }}{171}{figure.caption.395}
+\contentsline {figure}{\numberline {219}{\ignorespaces SLS05\_b: 1.0*D + W\_NS. Columns, bending moment about local axis y [m.kN]\relax }}{172}{figure.caption.396}

@@ -1,0 +1,87 @@
+%% ****** Packages needed for LaTeX document: ****** 
+%%\usepackage{graphicx} %%\postscript includes
+%%\usepackage{multirow} %%\multirow command
+%%\usepackage{wasysym} %%\permil command
+%%\usepackage{gensymb} %%\degree command
+\begin{table}
+\begin{center}
+\begin{tabular}{|c|}
+\hline
+\begin{large} geomW1FwallRCSects2 \end{large}\\
+\hline
+West first floor wall. 2 direction.\\
+\hline
+\begin{tabular}{c|l}
+\begin{minipage}{85mm}
+\vspace{2mm}
+\begin{center}
+\includegraphics[width=80mm]{ramp_wall/resLC/text/sections/W1FwallRCSects2}
+\end{center}
+\vspace{1pt}
+\end{minipage} & 
+\begin{tabular}{l}
+width: \\
+$b= 1.00\ m$\\
+depth: \\
+$h= 0.20\ m$\\
+\end{tabular} \\
+\end{tabular} \\
+\hline
+\textbf{Materials - mechanical properties}:\\
+\hline
+\begin{tabular}{ll}
+Concrete: C4000 & Modulus of elasticity: $E_c= 24.86\ GPa$\\
+\hline
+Steel: A615G60 & Modulus of elasticity: $E_s= 200.00\ GPa$\\
+\end{tabular} \\
+\hline
+\textbf{Sections - geometric and mechanical characteristics}:\\
+\hline
+Gross section:\\
+\hline
+\begin{tabular}{ll}
+$A_{gross}= 0.200\ m^2$ & \multirow{3}{*}{Inertia tensor ($cm^4$): $ \left( \begin{array}{ccc}23.20 & 0.00 & 0.00 \\ 0.00 &  6.67 &  0.00 \\ 0.00 &  0.00 & 166.67 \end{array} \right)$} \\
+& \\
+C.O.G.: $(0.000,-0.000)\ m$  & \\
+\end{tabular} \\
+\hline
+Homogenized section:\\
+\hline
+\begin{tabular}{ll}
+$A_{homog.}= 0.212\ m^2$ & \multirow{3}{*}{Inertia tensor ($cm^4$): $ \left( \begin{array}{ccc}23.20 & 0.00 & 0.00 \\ 0.00 &  7.07 &  0.00 \\ 0.00 &  0.00 & 172.63 \end{array} \right)$} \\
+& \\
+C.O.G.: $(-0.000,-0.000)\ m$  & \\
+\end{tabular} \\
+\hline
+\textbf{Passive reinforcement}:\\
+\hline
+\begin{tabular}{ll}
+Total area $A_s=10.13\ cm^2$ & Geometric quantity $\rho= 5.07\permil$\\
+\end{tabular} \\
+\hline
+Layers of main reinforcement:\\
+\hline
+\begin{tabular}{cccccccc}
+Id & N$^o$ bars & $\phi$ & area & c. geom. & eff. cover & $y_{COG}$ & $z_{COG}$\\
+ &  & $(mm)$ & $(cm^2)$ & $(\permil)$ & $(cm)$ & $(m)$ & $(m)$\\
+\hline
+ & 4 & 13.0 &  1.27 & 0.63 &  4.1 & -0.000 & -0.059\\
+\hline
+ & 4 & 13.0 &  1.27 & 0.63 &  4.1 & -0.000 & 0.059\\
+\end{tabular} \\
+\hline
+Layers of shear reinforcement:\\
+\hline
+\begin{tabular}{cccccccc}
+Id & N$^o$ branch & $\phi$ & area & spac. & area/m & $\alpha$ & $\beta$\\
+ &  & $(mm)$ & $(cm^2)$ & $(cm)$ & $(cm^2/m)$ & $( \degree)$ & $( \degree)$\\
+\hline
+noName & 0.0 & 0.0 &  0.00 & 20.0 &  0.00 & 90.0 & 45.0\\
+\hline
+noName & 0.0 & 0.0 &  0.00 & 20.0 &  0.00 & 90.0 & 45.0\\
+\end{tabular} \\
+\hline
+\end{tabular}
+\end{center}
+\caption{West first floor wall. 2 direction. (geomW1FwallRCSects2).} \label{tb_geomW1FwallRCSects2}
+\end{table}

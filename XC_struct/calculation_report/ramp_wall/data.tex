@@ -1,0 +1,177 @@
+%Ramp walls and steel structure bearing hollowcore 2nd floor
+
+\subsubsection{Materials}
+\begin{center}
+  \begin{tabular}{|l|r|}
+\hline
+Concrete grade & C4000 \\
+\hline
+Reinforcing steel grade & ASTM A615 Gr60  \\
+\hline
+Structural steel & ASTM A36 \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsubsection{Loads}
+
+\paragraph{Earth pressure}
+\begin{center}
+  \begin{tabular}{|l|r|}
+\hline
+Internal friction angle (radians) &  0.524 \\
+\hline
+Coefficient of earth pressure at rest  &  0.5 \\
+\hline
+Mass density of the soil (kg/m3)  &  1000.0 \\
+\hline
+Horizontal force [N/m] due to earth pressure over East wall &  20000.0 \\
+\hline
+\end{tabular}
+\end{center}
+
+\paragraph{Dead load}
+\begin{center}
+  \begin{tabular}{|l|r|}
+\hline
+DL West \& East walls 2nd floor [N/m] &  36620.0 \\
+\hline
+DL East wall 1st floor [N/m] &  42850.0 \\
+\hline
+DL steel beam North facade [N/m] &  7350.0 \\
+\hline
+DL steel cantilever (West side) [N/m]  &  44650.0 \\
+\hline
+DL steel cantilever (Central) [N/m]  &  44650.0 \\
+\hline
+DL steel cantilever  (East side) [N/m]  &  8078.7 \\
+\hline
+\end{tabular}
+\end{center}
+
+\paragraph{Live load}
+\begin{center}
+  \begin{tabular}{|l|r|}
+\hline
+LL West \& East walls 2nd floor [N/m] &  33030.0 \\
+\hline
+LL East wall 1st floor [N/m] &  10770.0 \\
+\hline
+LL steel beam North facade [N/m] &  4660.0 \\
+\hline
+LL steel cantilever (West side) [N/m]  &  39040.0 \\
+\hline
+LL steel cantilever (Central) [N/m]  &  39040.0 \\
+\hline
+LL steel cantilever  (East side) [N/m]  &  6241.5 \\
+\hline
+\end{tabular}
+\end{center}
+
+\paragraph{Snow load}
+\begin{center}
+  \begin{tabular}{|l|r|}
+\hline
+SL West \& East walls 2nd floor [N/m] &  13380.0 \\
+\hline
+SL East wall 1st floor [N/m] &  -80.0 \\
+\hline
+SL steel beam North facade [N/m] &  1750.0 \\
+\hline
+SL steel cantilever (West side) [N/m]  &  15490.0 \\
+\hline
+SL steel cantilever (Central) [N/m]  &  15490.0 \\
+\hline
+SL steel cantilever  (East side) [N/m]  &  2716.5 \\
+\hline
+\end{tabular}
+\end{center}
+
+\paragraph{Wind load}
+\begin{center}
+  \begin{tabular}{|l|r|}
+\hline
+WL West \& East walls 2nd floor [N/m] (vertical) &  8460.0 \\
+\hline
+WL West \& East walls 2nd floor [N/m] (horizontal) &  1700.0 \\
+\hline
+WL East wall 1st floor [N/m]  (vertical) &  500.0 \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsubsection{Load combination}
+\begin{center}
+  \begin{tabular}{|l|r|}
+\hline
+ELU01 & $1.4 \times DL$ \\
+\hline
+ELU02 & $ 1.2 \times DL +1.6 \times LL +0.5 \times SL $ \\
+\hline
+ELU03 & $ 1.2 \times DL +1.6 \times SL +0.5 \times WL $ \\
+\hline
+ELU04 & $ 1.2 \times DL +1.0 \times LL +1.0 \times WL $ \\
+\hline
+ELU05 & $ 0.9 \times DL +1.0 \times WL $ \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsubsection{Structural model}
+A three-dimensional elastic computer model of the ramp RC walls and cantilever steel structure on 2nd floor is analyzed using XC. The finite element model is depicted in figure \ref{rw_FE_model}. See in figures \ref{rw_D} to \ref{rw_W} load distribution for each load case.
+\begin{Figure}
+    \centering
+    \includegraphics[width=120mm]{ramp_wall/figures/FE_model}
+    \captionof{figure}{Ramp walls and cantilever, mesh.}
+    \label{rw_FE_model}
+\end{Figure}
+
+\begin{Figure}
+    \centering
+    \includegraphics[width=120mm]{ramp_wall/figures/dead_load_over_ramp_wall}
+    \captionof{figure}{Ramp walls and cantilever, dead load over ramp wall.}
+    \label{rw_D}
+\end{Figure}
+
+\begin{Figure}
+    \centering
+    \includegraphics[width=120mm]{ramp_wall/figures/dead_load_over_steel_beams}
+    \captionof{figure}{Ramp walls and cantilever, dead load over steel beams.}
+\end{Figure}
+
+\begin{Figure}
+    \includegraphics[width=120mm]{ramp_wall/figures/live_load_over_ramp_wall}
+    \captionof{figure}{Ramp walls and cantilever, live load over ramp wall.}
+\end{Figure}
+
+\begin{Figure}
+    \centering
+    \includegraphics[width=120mm]{ramp_wall/figures/live_load_over_steel_beams}
+    \captionof{figure}{Ramp walls and cantilever, live load over steel beams.}
+\end{Figure}
+
+\begin{Figure}
+    \centering
+   \includegraphics[width=120mm]{ramp_wall/figures/snow_load_over_ramp_wall}
+    \captionof{figure}{Ramp walls and cantilever, snow load over ramp wall.}
+\end{Figure}
+
+\begin{Figure}
+    \centering
+    \includegraphics[width=120mm]{ramp_wall/figures/snow_load_over_steel_beams}
+    \captionof{figure}{Ramp walls and cantilever, snow load over steel beams.}
+\end{Figure}
+
+\begin{Figure}
+    \centering
+    \includegraphics[width=120mm]{ramp_wall/figures/wind_load_over_ramp_wall}
+    \captionof{figure}{Ramp walls and cantilever, wind load over ramp wall.}
+\end{Figure}
+
+\begin{Figure}
+    \centering
+    \includegraphics[width=120mm]{ramp_wall/figures/wind_load_over_steel_beams}
+    \captionof{figure}{Ramp walls and cantilever, wind load over steel beams.}
+    \label{rw_W}
+\end{Figure}
+

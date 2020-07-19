@@ -1,0 +1,85 @@
+\subsection{Loads on the connection}
+The ties of the balconies are attached to the wood structure by means of the
+connection represented in figure \ref{fg_balconies_connection}.
+
+
+According to our calculations the maximum load to be resisted by this connection is:
+
+\begin{equation}
+  F= 4.83\ kN
+\end{equation}
+
+\noindent the angle with respect to the vertical of this force is 23.42 degrees.
+
+
+\subsection{Loads on fasteners}
+To calculate the loads on the connection fasteners we have used a the finite element model shown in figure \ref{fg_balconies_connection_mesh}.
+
+
+\subsection{Fastener strength}
+The strength of the 3/8 lag screws are as follows:
+
+\begin{itemize}
+\item Screw design withdrawal: $W_d= 4.6\ kN$.
+\item Screw design lateral strength: $Z_d= 0.89\ kN$.
+\end{itemize}
+
+\subsection{Checking of fastener capacities}
+The capacities of the fasteners are as follows:
+
+\begin{center}
+  \begin{tabular}{|c|c|c|c|}
+    \hline
+    \textbf{Screw} & $\mathbf{Z}$ & $\mathbf{R}$ & CF    \\
+    \textbf{ID} & \textbf{(kN)}& \textbf{(kN)} & - \\
+      \hline
+466 & 0.13 & 0.98 & 0.14\\
+638 & 0.96 & 1.03 & 0.93\\
+129 & 0.15 & 1.19 & 0.12\\
+59 & 0.76 & 1.38 & 0.55\\
+94 & 0.12 & 4.25 & 0.03\\
+50 & 0.64 & 2.66 & 0.24\\
+26 & 0.13 & 1.40 & 0.10\\
+393 & 0.70 & 1.21 & 0.58\\
+218 & 0.13 & 0.98 & 0.14\\
+242 & 0.96 & 1.03 & 0.93\\
+543 & 0.15 & 1.19 & 0.12\\
+522 & 0.76 & 1.38 & 0.55\\
+539 & 0.12 & 4.25 & 0.03\\
+490 & 0.64 & 2.66 & 0.24\\
+322 & 0.13 & 1.40 & 0.10\\
+297 & 0.70 & 1.21 & 0.58\\
+\hline
+  \end{tabular}
+  \end{center}
+
+\noindent where
+\begin{description}
+\item{Screw ID.} Screw identifier.
+\item{$Z$:} Screw strength.
+\item{$R$:} Design load on screw.
+\item{$CF= Z/R$:} Capacity factor
+  \end{description}
+
+We can see that the maximum capacity factor is $0.93<1$ so the fasteners are strong enough.
+
+\begin{figure}
+  \begin{center}
+    \includegraphics[width=120mm]{figures/balconies_connection}
+  \end{center}
+  \caption{Balconies connection.} \label{fg_balconies_connection}
+\end{figure}
+
+\begin{figure}
+  \begin{center}
+    \includegraphics[width=120mm]{figures/balcony_reactions}
+  \end{center}
+  \caption{Balconies. Maximum load on connections.}
+\end{figure}
+
+\begin{figure}
+  \begin{center}
+    \includegraphics[width=120mm]{figures/balconies_connection_mesh}
+  \end{center}
+  \caption{Balconies connection. Finite element model.}\label{fg_balconies_connection_mesh}
+\end{figure}

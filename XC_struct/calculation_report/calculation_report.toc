@@ -1,0 +1,276 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction and scope}{11}{section.1}
+\contentsline {section}{\numberline {2}Building codes}{11}{section.2}
+\contentsline {section}{\numberline {3}Loading criteria}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}Gravity loading}{11}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Wind design criteria}{11}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Snow loading}{11}{subsection.3.3}
+\contentsline {section}{\numberline {4}Seismic design criteria}{13}{section.4}
+\contentsline {section}{\numberline {5}Materials}{13}{section.5}
+\contentsline {section}{\numberline {6}Design and analysis software}{13}{section.6}
+\contentsline {section}{\numberline {7}Load combinations}{13}{section.7}
+\contentsline {section}{\numberline {8}Wood framing}{16}{section.8}
+\contentsline {subsection}{\numberline {8.1}Gravity}{16}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Trusses}{16}{subsection.8.2}
+\contentsline {subsubsection}{\numberline {8.2.1}Introduction}{16}{subsubsection.8.2.1}
+\contentsline {subsubsection}{\numberline {8.2.2}Trusses A and B. Roof}{16}{subsubsection.8.2.2}
+\contentsline {subsubsection}{\numberline {8.2.3}Trusses A and B. Third floor}{16}{subsubsection.8.2.3}
+\contentsline {subsubsection}{\numberline {8.2.4}Trusses A and B. Second floor}{18}{subsubsection.8.2.4}
+\contentsline {subsubsection}{\numberline {8.2.5}Trusses C and D. Roof}{19}{subsubsection.8.2.5}
+\contentsline {subsubsection}{\numberline {8.2.6}Trusses C and D. Third floor}{20}{subsubsection.8.2.6}
+\contentsline {subsubsection}{\numberline {8.2.7}Trusses C and D. Second floor}{21}{subsubsection.8.2.7}
+\contentsline {subsubsection}{\numberline {8.2.8}Truss E. Roof}{22}{subsubsection.8.2.8}
+\contentsline {subsubsection}{\numberline {8.2.9}Truss E. Third floor}{23}{subsubsection.8.2.9}
+\contentsline {subsubsection}{\numberline {8.2.10}Truss E. Second floor}{25}{subsubsection.8.2.10}
+\contentsline {subsection}{\numberline {8.3}Joists}{25}{subsection.8.3}
+\contentsline {subsubsection}{\numberline {8.3.1}Corridor floor sheathing}{25}{subsubsection.8.3.1}
+\contentsline {paragraph}{Structural design of the panels.}{26}{paragraph*.19}
+\contentsline {subparagraph}{Mechanical properties of the plywood panel.}{26}{subparagraph*.20}
+\contentsline {subparagraph}{Bending stiffness.}{26}{subparagraph*.23}
+\contentsline {subparagraph}{Bending strength.}{26}{subparagraph*.24}
+\contentsline {subparagraph}{Shear strength.}{27}{subparagraph*.25}
+\contentsline {paragraph}{Fire design of the panels.}{27}{paragraph*.26}
+\contentsline {subparagraph}{Bending strength.}{27}{subparagraph*.27}
+\contentsline {subparagraph}{Shear strength.}{27}{subparagraph*.28}
+\contentsline {subsubsection}{\numberline {8.3.2}Corridor Joists}{27}{subsubsection.8.3.2}
+\contentsline {paragraph}{Structural design of the joist.}{29}{paragraph*.30}
+\contentsline {subparagraph}{Loads.}{29}{subparagraph*.31}
+\contentsline {subparagraph}{Internal forces.}{29}{subparagraph*.32}
+\contentsline {subparagraph}{Joist mechanical properties.}{29}{subparagraph*.33}
+\contentsline {subparagraph}{Structural bending check.}{29}{subparagraph*.34}
+\contentsline {subparagraph}{Structural shear check.}{29}{subparagraph*.35}
+\contentsline {paragraph}{Fire design of the joist.}{29}{paragraph*.36}
+\contentsline {subparagraph}{Mechanical properties of the burned section.}{30}{subparagraph*.37}
+\contentsline {subparagraph}{Structural bending check.}{30}{subparagraph*.38}
+\contentsline {subparagraph}{Structural shear check.}{30}{subparagraph*.39}
+\contentsline {subsubsection}{\numberline {8.3.3}Joists under storage/HVAC floor}{30}{subsubsection.8.3.3}
+\contentsline {paragraph}{Structural design of the joist.}{30}{paragraph*.40}
+\contentsline {subparagraph}{Loads.}{30}{subparagraph*.41}
+\contentsline {subparagraph}{Internal forces.}{30}{subparagraph*.42}
+\contentsline {subparagraph}{Joist mechanical properties.}{31}{subparagraph*.43}
+\contentsline {subparagraph}{Structural bending check.}{31}{subparagraph*.44}
+\contentsline {subparagraph}{Structural shear check.}{31}{subparagraph*.45}
+\contentsline {subparagraph}{Bending stiffness.}{31}{subparagraph*.46}
+\contentsline {subsection}{\numberline {8.4}Headers}{31}{subsection.8.4}
+\contentsline {subsubsection}{\numberline {8.4.1}Third floor enclosed balconies headers (H3.1 to H3.3)}{31}{subsubsection.8.4.1}
+\contentsline {paragraph}{Structural design of the header.}{31}{paragraph*.50}
+\contentsline {subparagraph}{Design load.}{31}{subparagraph*.51}
+\contentsline {subparagraph}{Internal forces.}{31}{subparagraph*.52}
+\contentsline {subparagraph}{Structural bending check.}{35}{subparagraph*.53}
+\contentsline {subparagraph}{Structural shear check.}{35}{subparagraph*.54}
+\contentsline {subparagraph}{Bending stiffness.}{35}{subparagraph*.55}
+\contentsline {subsubsection}{\numberline {8.4.2}Corridor headers (H3.4 to H3.9, H2.1 to H2.6 and H1.1 to H1.6)}{35}{subsubsection.8.4.2}
+\contentsline {paragraph}{Structural design of the header.}{35}{paragraph*.56}
+\contentsline {subparagraph}{Design load.}{35}{subparagraph*.57}
+\contentsline {subparagraph}{Internal forces.}{35}{subparagraph*.58}
+\contentsline {subparagraph}{Structural bending check.}{35}{subparagraph*.59}
+\contentsline {subparagraph}{Structural shear check.}{35}{subparagraph*.60}
+\contentsline {subparagraph}{Bending stiffness.}{35}{subparagraph*.61}
+\contentsline {paragraph}{Fire design of the header.}{35}{paragraph*.62}
+\contentsline {subparagraph}{Mechanical properties of the burned section.}{36}{subparagraph*.63}
+\contentsline {subparagraph}{Structural bending check.}{36}{subparagraph*.64}
+\contentsline {subparagraph}{Structural shear check.}{36}{subparagraph*.65}
+\contentsline {subsubsection}{\numberline {8.4.3}Headers H3.10 and H2.7}{36}{subsubsection.8.4.3}
+\contentsline {paragraph}{Structural design of the header.}{36}{paragraph*.66}
+\contentsline {subparagraph}{Design load.}{36}{subparagraph*.67}
+\contentsline {subparagraph}{Internal forces.}{36}{subparagraph*.68}
+\contentsline {subparagraph}{Structural bending check.}{36}{subparagraph*.69}
+\contentsline {subparagraph}{Structural shear check.}{37}{subparagraph*.70}
+\contentsline {subparagraph}{Bending stiffness.}{37}{subparagraph*.71}
+\contentsline {paragraph}{Fire design of the header.}{37}{paragraph*.72}
+\contentsline {subparagraph}{Mechanical properties of the burned section.}{37}{subparagraph*.73}
+\contentsline {subparagraph}{Structural bending check.}{37}{subparagraph*.74}
+\contentsline {subparagraph}{Structural shear check.}{37}{subparagraph*.75}
+\contentsline {subsubsection}{\numberline {8.4.4}Header H1.9}{37}{subsubsection.8.4.4}
+\contentsline {paragraph}{Structural design of the header.}{37}{paragraph*.76}
+\contentsline {subparagraph}{Design load.}{37}{subparagraph*.77}
+\contentsline {subparagraph}{Internal forces.}{38}{subparagraph*.78}
+\contentsline {subparagraph}{Structural bending check.}{38}{subparagraph*.79}
+\contentsline {subparagraph}{Structural shear check.}{38}{subparagraph*.80}
+\contentsline {subparagraph}{Bending stiffness.}{38}{subparagraph*.81}
+\contentsline {subsubsection}{\numberline {8.4.5}Facade headers}{38}{subsubsection.8.4.5}
+\contentsline {paragraph}{Structural design of the header.}{38}{paragraph*.82}
+\contentsline {subparagraph}{Design load.}{38}{subparagraph*.83}
+\contentsline {subparagraph}{Internal forces.}{38}{subparagraph*.84}
+\contentsline {subparagraph}{Structural bending check.}{38}{subparagraph*.85}
+\contentsline {subparagraph}{Structural shear check.}{38}{subparagraph*.86}
+\contentsline {subparagraph}{Bending stiffness.}{39}{subparagraph*.87}
+\contentsline {subsubsection}{\numberline {8.4.6}Corridor headers}{39}{subsubsection.8.4.6}
+\contentsline {paragraph}{Structural design of the header.}{39}{paragraph*.88}
+\contentsline {subparagraph}{Design load.}{39}{subparagraph*.89}
+\contentsline {subparagraph}{Internal forces.}{39}{subparagraph*.90}
+\contentsline {subparagraph}{Structural bending check.}{39}{subparagraph*.91}
+\contentsline {subparagraph}{Structural shear check.}{39}{subparagraph*.92}
+\contentsline {subparagraph}{Bending stiffness.}{39}{subparagraph*.93}
+\contentsline {subsection}{\numberline {8.5}Steel beams}{39}{subsection.8.5}
+\contentsline {subsubsection}{\numberline {8.5.1}Steel beam at courtyard facade}{39}{subsubsection.8.5.1}
+\contentsline {paragraph}{Design loads.}{41}{paragraph*.95}
+\contentsline {paragraph}{Load combinations}{41}{paragraph*.97}
+\contentsline {subparagraph}{Serviceability limit states}{41}{subparagraph*.98}
+\contentsline {subparagraph}{Ultimate limit states}{41}{subparagraph*.99}
+\contentsline {paragraph}{Structural design of the beam.}{41}{paragraph*.100}
+\contentsline {subparagraph}{Internal forces.}{41}{subparagraph*.101}
+\contentsline {subparagraph}{W12X87 shape mechanical properties.}{41}{subparagraph*.104}
+\contentsline {subparagraph}{Bending stiffness.}{44}{subparagraph*.105}
+\contentsline {subsubsection}{\numberline {8.5.2}Steel beam at corridor}{44}{subsubsection.8.5.2}
+\contentsline {paragraph}{Design loads.}{44}{paragraph*.106}
+\contentsline {paragraph}{Structural design of the beam.}{44}{paragraph*.108}
+\contentsline {subparagraph}{Loads.}{44}{subparagraph*.109}
+\contentsline {subparagraph}{Internal forces.}{44}{subparagraph*.110}
+\contentsline {subparagraph}{Structural shape (W21X50) mechanical properties.}{44}{subparagraph*.111}
+\contentsline {subparagraph}{Bending stiffness.}{44}{subparagraph*.112}
+\contentsline {subsubsection}{\numberline {8.5.3}North steel beam}{44}{subsubsection.8.5.3}
+\contentsline {paragraph}{Design loads.}{46}{paragraph*.113}
+\contentsline {paragraph}{Load combinations}{46}{paragraph*.114}
+\contentsline {subparagraph}{Serviceability limit states}{46}{subparagraph*.115}
+\contentsline {subparagraph}{Ultimate limit states}{46}{subparagraph*.116}
+\contentsline {paragraph}{Structural design of the beam.}{46}{paragraph*.117}
+\contentsline {subparagraph}{Internal forces.}{46}{subparagraph*.118}
+\contentsline {subparagraph}{W12X87 shape mechanical properties.}{46}{subparagraph*.119}
+\contentsline {subparagraph}{Bending stiffness.}{47}{subparagraph*.120}
+\contentsline {subsection}{\numberline {8.6}Columns}{47}{subsection.8.6}
+\contentsline {subsubsection}{\numberline {8.6.1}Columns P3.1 to P3.6}{47}{subsubsection.8.6.1}
+\contentsline {paragraph}{Loads.}{47}{paragraph*.124}
+\contentsline {paragraph}{Internal forces.}{47}{paragraph*.125}
+\contentsline {paragraph}{Compression check.}{47}{paragraph*.126}
+\contentsline {subparagraph}{Mechanical properties}{47}{subparagraph*.127}
+\contentsline {subsubsection}{\numberline {8.6.2}Column P3.7}{47}{subsubsection.8.6.2}
+\contentsline {paragraph}{Loads.}{47}{paragraph*.128}
+\contentsline {paragraph}{Internal forces.}{47}{paragraph*.129}
+\contentsline {paragraph}{Compression check.}{47}{paragraph*.130}
+\contentsline {subparagraph}{Mechanical properties}{51}{subparagraph*.131}
+\contentsline {subsubsection}{\numberline {8.6.3}Column P2.1}{51}{subsubsection.8.6.3}
+\contentsline {paragraph}{Loads.}{51}{paragraph*.132}
+\contentsline {paragraph}{Internal forces.}{51}{paragraph*.133}
+\contentsline {paragraph}{Compression check.}{51}{paragraph*.134}
+\contentsline {subparagraph}{Mechanical properties}{51}{subparagraph*.135}
+\contentsline {subsubsection}{\numberline {8.6.4}2x6 wood stud capacity}{51}{subsubsection.8.6.4}
+\contentsline {paragraph}{Compression capacity.}{51}{paragraph*.136}
+\contentsline {subparagraph}{Mechanical properties.}{52}{subparagraph*.137}
+\contentsline {subsubsection}{\numberline {8.6.5}Columns P1.1, P1.2 and P1.3}{52}{subsubsection.8.6.5}
+\contentsline {paragraph}{Loads.}{52}{paragraph*.138}
+\contentsline {paragraph}{Internal forces.}{52}{paragraph*.139}
+\contentsline {paragraph}{Mechanical properties.}{52}{paragraph*.140}
+\contentsline {paragraph}{Compression check.}{52}{paragraph*.141}
+\contentsline {subsubsection}{\numberline {8.6.6}Column P1.4}{53}{subsubsection.8.6.6}
+\contentsline {paragraph}{Loads.}{53}{paragraph*.142}
+\contentsline {paragraph}{Internal forces.}{53}{paragraph*.143}
+\contentsline {paragraph}{Mechanical properties.}{53}{paragraph*.144}
+\contentsline {paragraph}{Compression check.}{53}{paragraph*.145}
+\contentsline {subsection}{\numberline {8.7}Bearing walls}{53}{subsection.8.7}
+\contentsline {subsubsection}{\numberline {8.7.1}Facade bearing walls at first floor}{53}{subsubsection.8.7.1}
+\contentsline {paragraph}{Loads.}{53}{paragraph*.147}
+\contentsline {paragraph}{Internal forces.}{53}{paragraph*.148}
+\contentsline {paragraph}{Bending and axial compression check.}{53}{paragraph*.149}
+\contentsline {subparagraph}{Mechanical properties}{55}{subparagraph*.150}
+\contentsline {subsubsection}{\numberline {8.7.2}Facade bearing walls at second floor}{55}{subsubsection.8.7.2}
+\contentsline {paragraph}{Loads.}{55}{paragraph*.151}
+\contentsline {paragraph}{Internal forces.}{55}{paragraph*.152}
+\contentsline {paragraph}{Bending and axial compression check.}{55}{paragraph*.153}
+\contentsline {subparagraph}{Mechanical properties}{56}{subparagraph*.154}
+\contentsline {subsubsection}{\numberline {8.7.3}Facade bearing walls at third floor}{56}{subsubsection.8.7.3}
+\contentsline {paragraph}{Loads.}{56}{paragraph*.155}
+\contentsline {paragraph}{Internal forces.}{56}{paragraph*.156}
+\contentsline {paragraph}{Bending and axial compression check.}{56}{paragraph*.157}
+\contentsline {subparagraph}{Mechanical properties}{57}{subparagraph*.158}
+\contentsline {subsubsection}{\numberline {8.7.4}Top plates}{57}{subsubsection.8.7.4}
+\contentsline {paragraph}{Loads}{57}{paragraph*.159}
+\contentsline {paragraph}{Bending strength checking:}{57}{paragraph*.160}
+\contentsline {paragraph}{Perpendicular to grain strength checking:}{58}{paragraph*.161}
+\contentsline {subsubsection}{\numberline {8.7.5}Interior bearing walls at first floor}{58}{subsubsection.8.7.5}
+\contentsline {paragraph}{Loads.}{58}{paragraph*.162}
+\contentsline {paragraph}{Internal forces.}{58}{paragraph*.163}
+\contentsline {paragraph}{Bending and axial compression check.}{58}{paragraph*.164}
+\contentsline {subparagraph}{Mechanical properties}{58}{subparagraph*.165}
+\contentsline {subsubsection}{\numberline {8.7.6}Interior bearing walls at second floor}{59}{subsubsection.8.7.6}
+\contentsline {paragraph}{Loads.}{59}{paragraph*.166}
+\contentsline {paragraph}{Internal forces.}{59}{paragraph*.167}
+\contentsline {paragraph}{Bending and axial compression check.}{59}{paragraph*.168}
+\contentsline {subparagraph}{Mechanical properties}{59}{subparagraph*.169}
+\contentsline {subsubsection}{\numberline {8.7.7}Interior bearing walls at third floor}{59}{subsubsection.8.7.7}
+\contentsline {paragraph}{Loads.}{59}{paragraph*.170}
+\contentsline {paragraph}{Internal forces.}{60}{paragraph*.171}
+\contentsline {paragraph}{Bending and axial compression check.}{60}{paragraph*.172}
+\contentsline {subparagraph}{Mechanical properties}{60}{subparagraph*.173}
+\contentsline {subsubsection}{\numberline {8.7.8}Top plates}{60}{subsubsection.8.7.8}
+\contentsline {paragraph}{Loads}{60}{paragraph*.174}
+\contentsline {paragraph}{Bending strength checking:}{60}{paragraph*.175}
+\contentsline {paragraph}{Perpendicular to grain strength checking:}{61}{paragraph*.176}
+\contentsline {subsection}{\numberline {8.8}Lateral. Diaphragms/Shear walls}{61}{subsection.8.8}
+\contentsline {subsubsection}{\numberline {8.8.1}East and West facades shear walls}{61}{subsubsection.8.8.1}
+\contentsline {subsubsection}{\numberline {8.8.2}Courtyard facades shear walls}{62}{subsubsection.8.8.2}
+\contentsline {subsubsection}{\numberline {8.8.3}South facades shear walls}{64}{subsubsection.8.8.3}
+\contentsline {subsubsection}{\numberline {8.8.4}North facade shear walls}{65}{subsubsection.8.8.4}
+\contentsline {section}{\numberline {9}Basement}{70}{section.9}
+\contentsline {subsection}{\numberline {9.1}Structural model}{70}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Footings}{74}{subsection.9.2}
+\contentsline {subsubsection}{\numberline {9.2.1}Loads}{74}{subsubsection.9.2.1}
+\contentsline {subsubsection}{\numberline {9.2.2}Load combinations}{74}{subsubsection.9.2.2}
+\contentsline {subsubsection}{\numberline {9.2.3}Footing dimensions and reinforcement}{74}{subsubsection.9.2.3}
+\contentsline {subsubsection}{\numberline {9.2.4}Limit state checking}{74}{subsubsection.9.2.4}
+\contentsline {paragraph}{Allowable soil-bearing pressures.}{74}{paragraph*.181}
+\contentsline {paragraph}{Flexure design.}{74}{paragraph*.183}
+\contentsline {paragraph}{Shear design.}{74}{paragraph*.184}
+\contentsline {subsection}{\numberline {9.3}Basement walls}{74}{subsection.9.3}
+\contentsline {subsubsection}{\numberline {9.3.1}Introduction}{74}{subsubsection.9.3.1}
+\contentsline {subsubsection}{\numberline {9.3.2}Load determination}{77}{subsubsection.9.3.2}
+\contentsline {subparagraph}{Self weight.}{77}{subparagraph*.189}
+\contentsline {subparagraph}{Axial loads from building.}{77}{subparagraph*.190}
+\contentsline {subsubsection}{\numberline {9.3.3}Load combinations}{78}{subsubsection.9.3.3}
+\contentsline {subparagraph}{Earth pressure.}{78}{subparagraph*.191}
+\contentsline {subsubsection}{\numberline {9.3.4}Stem dimensions and reinforcement}{79}{subsubsection.9.3.4}
+\contentsline {subparagraph}{Wall types.}{79}{subparagraph*.193}
+\contentsline {subparagraph}{Internal forces.}{79}{subparagraph*.194}
+\contentsline {subparagraph}{Reinforcement checks.}{82}{subparagraph*.201}
+\contentsline {paragraph}{Wall foundations}{83}{paragraph*.202}
+\contentsline {subsection}{\numberline {9.4}Ramp walls and steel structure bearing hollowcore 2nd floor}{84}{subsection.9.4}
+\contentsline {subsubsection}{\numberline {9.4.1}Materials}{84}{subsubsection.9.4.1}
+\contentsline {subsubsection}{\numberline {9.4.2}Loads}{84}{subsubsection.9.4.2}
+\contentsline {paragraph}{Earth pressure}{84}{paragraph*.203}
+\contentsline {paragraph}{Dead load}{84}{paragraph*.204}
+\contentsline {paragraph}{Live load}{85}{paragraph*.205}
+\contentsline {paragraph}{Snow load}{85}{paragraph*.206}
+\contentsline {paragraph}{Wind load}{85}{paragraph*.207}
+\contentsline {subsubsection}{\numberline {9.4.3}Load combination}{85}{subsubsection.9.4.3}
+\contentsline {subsubsection}{\numberline {9.4.4}Structural model}{85}{subsubsection.9.4.4}
+\contentsline {subsubsection}{\numberline {9.4.5}Material and RC-sections properties}{90}{subsubsection.9.4.5}
+\contentsline {subsubsection}{\numberline {9.4.6}Verification of reinforced-concrete walls}{90}{subsubsection.9.4.6}
+\contentsline {paragraph}{Displacements and internal forces in ULS}{108}{paragraph*.218}
+\contentsline {paragraph}{Verification of normal stresses}{123}{paragraph*.284}
+\contentsline {paragraph}{Verification of shear ULS}{125}{paragraph*.291}
+\contentsline {subsubsection}{\numberline {9.4.7}Verification of steel structure}{127}{subsubsection.9.4.7}
+\contentsline {paragraph}{ULS all loads}{127}{paragraph*.302}
+\contentsline {paragraph}{ULS only cantilever loaded}{127}{paragraph*.303}
+\contentsline {section}{\numberline {10}Elevator shaft lintels}{129}{section.10}
+\contentsline {subsection}{\numberline {10.1}Lintel roof}{129}{subsection.10.1}
+\contentsline {subsubsection}{\numberline {10.1.1}Geometry data}{129}{subsubsection.10.1.1}
+\contentsline {subsubsection}{\numberline {10.1.2}Load data}{129}{subsubsection.10.1.2}
+\contentsline {subsubsection}{\numberline {10.1.3}Check for arching action}{129}{subsubsection.10.1.3}
+\contentsline {subsubsection}{\numberline {10.1.4}Check lintel deflection }{129}{subsubsection.10.1.4}
+\contentsline {subsection}{\numberline {10.2}Lintel 3rd and 2nd floor}{130}{subsection.10.2}
+\contentsline {subsubsection}{\numberline {10.2.1}Geometry data}{130}{subsubsection.10.2.1}
+\contentsline {subsubsection}{\numberline {10.2.2}Load data}{130}{subsubsection.10.2.2}
+\contentsline {subsubsection}{\numberline {10.2.3}Check for arching action}{130}{subsubsection.10.2.3}
+\contentsline {subsubsection}{\numberline {10.2.4}Check concrete masonry lintel - strenght design}{130}{subsubsection.10.2.4}
+\contentsline {subsubsection}{\numberline {10.2.5}Check lintel deflection}{132}{subsubsection.10.2.5}
+\contentsline {subsection}{\numberline {10.3}Lintel 1st floor}{132}{subsection.10.3}
+\contentsline {subsubsection}{\numberline {10.3.1}Geometry data}{132}{subsubsection.10.3.1}
+\contentsline {subsubsection}{\numberline {10.3.2}Load data}{132}{subsubsection.10.3.2}
+\contentsline {subsubsection}{\numberline {10.3.3}Check for arching action}{133}{subsubsection.10.3.3}
+\contentsline {subsubsection}{\numberline {10.3.4}Check concrete masonry lintel - strenght design}{133}{subsubsection.10.3.4}
+\contentsline {subsubsection}{\numberline {10.3.5}Check lintel deflection}{133}{subsubsection.10.3.5}
+\contentsline {section}{\numberline {11}Balconies connection}{135}{section.11}
+\contentsline {subsection}{\numberline {11.1}Loads on the connection}{135}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}Loads on fasteners}{135}{subsection.11.2}
+\contentsline {subsection}{\numberline {11.3}Fastener strength}{135}{subsection.11.3}
+\contentsline {subsection}{\numberline {11.4}Checking of fastener capacities}{135}{subsection.11.4}
+\contentsline {section}{Appendices}{139}{figure.caption.311}
+\contentsline {subsection}{\numberline {A}Loading criteria}{139}{subsection.Alph0.1}
+\contentsline {subsubsection}{\numberline {A.1}Dead loads}{139}{subsubsection.Alph0.1.1}
+\contentsline {subsubsection}{\numberline {A.2}Live loads}{140}{subsubsection.Alph0.1.2}
+\contentsline {subsubsection}{\numberline {A.3}Snow loads}{140}{subsubsection.Alph0.1.3}
+\contentsline {subsubsection}{\numberline {A.4}Wind loads}{141}{subsubsection.Alph0.1.4}
+\contentsline {subsubsection}{\numberline {A.5}Earthquake loads}{142}{subsubsection.Alph0.1.5}
+\contentsline {subsection}{\numberline {B}Calculation results. Internal forces on columns}{143}{subsection.Alph0.2}
+\contentsline {subsubsection}{\numberline {B.1}Ultimate limit states}{143}{subsubsection.Alph0.2.1}
+\contentsline {subsubsection}{\numberline {B.2}Serviceability limit states}{169}{subsubsection.Alph0.2.2}

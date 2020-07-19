@@ -1,0 +1,112 @@
+\BOOKMARK [1][-]{section.1}{Introduction and scope}{}% 1
+\BOOKMARK [1][-]{section.2}{Building codes}{}% 2
+\BOOKMARK [1][-]{section.3}{Loading criteria}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Gravity loading}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Wind design criteria}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Snow loading}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Seismic design criteria}{}% 7
+\BOOKMARK [1][-]{section.5}{Materials}{}% 8
+\BOOKMARK [1][-]{section.6}{Design and analysis software}{}% 9
+\BOOKMARK [1][-]{section.7}{Load combinations}{}% 10
+\BOOKMARK [1][-]{section.8}{Wood framing}{}% 11
+\BOOKMARK [2][-]{subsection.8.1}{Gravity}{section.8}% 12
+\BOOKMARK [2][-]{subsection.8.2}{Trusses}{section.8}% 13
+\BOOKMARK [3][-]{subsubsection.8.2.1}{Introduction}{subsection.8.2}% 14
+\BOOKMARK [3][-]{subsubsection.8.2.2}{Trusses A and B. Roof}{subsection.8.2}% 15
+\BOOKMARK [3][-]{subsubsection.8.2.3}{Trusses A and B. Third floor}{subsection.8.2}% 16
+\BOOKMARK [3][-]{subsubsection.8.2.4}{Trusses A and B. Second floor}{subsection.8.2}% 17
+\BOOKMARK [3][-]{subsubsection.8.2.5}{Trusses C and D. Roof}{subsection.8.2}% 18
+\BOOKMARK [3][-]{subsubsection.8.2.6}{Trusses C and D. Third floor}{subsection.8.2}% 19
+\BOOKMARK [3][-]{subsubsection.8.2.7}{Trusses C and D. Second floor}{subsection.8.2}% 20
+\BOOKMARK [3][-]{subsubsection.8.2.8}{Truss E. Roof}{subsection.8.2}% 21
+\BOOKMARK [3][-]{subsubsection.8.2.9}{Truss E. Third floor}{subsection.8.2}% 22
+\BOOKMARK [3][-]{subsubsection.8.2.10}{Truss E. Second floor}{subsection.8.2}% 23
+\BOOKMARK [2][-]{subsection.8.3}{Joists}{section.8}% 24
+\BOOKMARK [3][-]{subsubsection.8.3.1}{Corridor floor sheathing}{subsection.8.3}% 25
+\BOOKMARK [3][-]{subsubsection.8.3.2}{Corridor Joists}{subsection.8.3}% 26
+\BOOKMARK [3][-]{subsubsection.8.3.3}{Joists under storage/HVAC floor}{subsection.8.3}% 27
+\BOOKMARK [2][-]{subsection.8.4}{Headers}{section.8}% 28
+\BOOKMARK [3][-]{subsubsection.8.4.1}{Third floor enclosed balconies headers \(H3.1 to H3.3\)}{subsection.8.4}% 29
+\BOOKMARK [3][-]{subsubsection.8.4.2}{Corridor headers \(H3.4 to H3.9, H2.1 to H2.6 and H1.1 to H1.6\)}{subsection.8.4}% 30
+\BOOKMARK [3][-]{subsubsection.8.4.3}{Headers H3.10 and H2.7}{subsection.8.4}% 31
+\BOOKMARK [3][-]{subsubsection.8.4.4}{Header H1.9}{subsection.8.4}% 32
+\BOOKMARK [3][-]{subsubsection.8.4.5}{Facade headers}{subsection.8.4}% 33
+\BOOKMARK [3][-]{subsubsection.8.4.6}{Corridor headers}{subsection.8.4}% 34
+\BOOKMARK [2][-]{subsection.8.5}{Steel beams}{section.8}% 35
+\BOOKMARK [3][-]{subsubsection.8.5.1}{Steel beam at courtyard facade}{subsection.8.5}% 36
+\BOOKMARK [3][-]{subsubsection.8.5.2}{Steel beam at corridor}{subsection.8.5}% 37
+\BOOKMARK [3][-]{subsubsection.8.5.3}{North steel beam}{subsection.8.5}% 38
+\BOOKMARK [2][-]{subsection.8.6}{Columns}{section.8}% 39
+\BOOKMARK [3][-]{subsubsection.8.6.1}{Columns P3.1 to P3.6}{subsection.8.6}% 40
+\BOOKMARK [3][-]{subsubsection.8.6.2}{Column P3.7}{subsection.8.6}% 41
+\BOOKMARK [3][-]{subsubsection.8.6.3}{Column P2.1}{subsection.8.6}% 42
+\BOOKMARK [3][-]{subsubsection.8.6.4}{2x6 wood stud capacity}{subsection.8.6}% 43
+\BOOKMARK [3][-]{subsubsection.8.6.5}{Columns P1.1, P1.2 and P1.3}{subsection.8.6}% 44
+\BOOKMARK [3][-]{subsubsection.8.6.6}{Column P1.4}{subsection.8.6}% 45
+\BOOKMARK [2][-]{subsection.8.7}{Bearing walls}{section.8}% 46
+\BOOKMARK [3][-]{subsubsection.8.7.1}{Facade bearing walls at first floor}{subsection.8.7}% 47
+\BOOKMARK [3][-]{subsubsection.8.7.2}{Facade bearing walls at second floor}{subsection.8.7}% 48
+\BOOKMARK [3][-]{subsubsection.8.7.3}{Facade bearing walls at third floor}{subsection.8.7}% 49
+\BOOKMARK [3][-]{subsubsection.8.7.4}{Top plates}{subsection.8.7}% 50
+\BOOKMARK [3][-]{subsubsection.8.7.5}{Interior bearing walls at first floor}{subsection.8.7}% 51
+\BOOKMARK [3][-]{subsubsection.8.7.6}{Interior bearing walls at second floor}{subsection.8.7}% 52
+\BOOKMARK [3][-]{subsubsection.8.7.7}{Interior bearing walls at third floor}{subsection.8.7}% 53
+\BOOKMARK [3][-]{subsubsection.8.7.8}{Top plates}{subsection.8.7}% 54
+\BOOKMARK [2][-]{subsection.8.8}{Lateral. Diaphragms/Shear walls}{section.8}% 55
+\BOOKMARK [3][-]{subsubsection.8.8.1}{East and West facades shear walls}{subsection.8.8}% 56
+\BOOKMARK [3][-]{subsubsection.8.8.2}{Courtyard facades shear walls}{subsection.8.8}% 57
+\BOOKMARK [3][-]{subsubsection.8.8.3}{South facades shear walls}{subsection.8.8}% 58
+\BOOKMARK [3][-]{subsubsection.8.8.4}{North facade shear walls}{subsection.8.8}% 59
+\BOOKMARK [1][-]{section.9}{Basement}{}% 60
+\BOOKMARK [2][-]{subsection.9.1}{Structural model}{section.9}% 61
+\BOOKMARK [2][-]{subsection.9.2}{Footings}{section.9}% 62
+\BOOKMARK [3][-]{subsubsection.9.2.1}{Loads}{subsection.9.2}% 63
+\BOOKMARK [3][-]{subsubsection.9.2.2}{Load combinations}{subsection.9.2}% 64
+\BOOKMARK [3][-]{subsubsection.9.2.3}{Footing dimensions and reinforcement}{subsection.9.2}% 65
+\BOOKMARK [3][-]{subsubsection.9.2.4}{Limit state checking}{subsection.9.2}% 66
+\BOOKMARK [2][-]{subsection.9.3}{Basement walls}{section.9}% 67
+\BOOKMARK [3][-]{subsubsection.9.3.1}{Introduction}{subsection.9.3}% 68
+\BOOKMARK [3][-]{subsubsection.9.3.2}{Load determination}{subsection.9.3}% 69
+\BOOKMARK [3][-]{subsubsection.9.3.3}{Load combinations}{subsection.9.3}% 70
+\BOOKMARK [3][-]{subsubsection.9.3.4}{Stem dimensions and reinforcement}{subsection.9.3}% 71
+\BOOKMARK [2][-]{subsection.9.4}{Ramp walls and steel structure bearing hollowcore 2nd floor}{section.9}% 72
+\BOOKMARK [3][-]{subsubsection.9.4.1}{Materials}{subsection.9.4}% 73
+\BOOKMARK [3][-]{subsubsection.9.4.2}{Loads}{subsection.9.4}% 74
+\BOOKMARK [3][-]{subsubsection.9.4.3}{Load combination}{subsection.9.4}% 75
+\BOOKMARK [3][-]{subsubsection.9.4.4}{Structural model}{subsection.9.4}% 76
+\BOOKMARK [3][-]{subsubsection.9.4.5}{Material and RC-sections properties}{subsection.9.4}% 77
+\BOOKMARK [3][-]{subsubsection.9.4.6}{Verification of reinforced-concrete walls}{subsection.9.4}% 78
+\BOOKMARK [3][-]{subsubsection.9.4.7}{Verification of steel structure}{subsection.9.4}% 79
+\BOOKMARK [1][-]{section.10}{Elevator shaft lintels}{}% 80
+\BOOKMARK [2][-]{subsection.10.1}{Lintel roof}{section.10}% 81
+\BOOKMARK [3][-]{subsubsection.10.1.1}{Geometry data}{subsection.10.1}% 82
+\BOOKMARK [3][-]{subsubsection.10.1.2}{Load data}{subsection.10.1}% 83
+\BOOKMARK [3][-]{subsubsection.10.1.3}{Check for arching action}{subsection.10.1}% 84
+\BOOKMARK [3][-]{subsubsection.10.1.4}{Check lintel deflection }{subsection.10.1}% 85
+\BOOKMARK [2][-]{subsection.10.2}{Lintel 3rd and 2nd floor}{section.10}% 86
+\BOOKMARK [3][-]{subsubsection.10.2.1}{Geometry data}{subsection.10.2}% 87
+\BOOKMARK [3][-]{subsubsection.10.2.2}{Load data}{subsection.10.2}% 88
+\BOOKMARK [3][-]{subsubsection.10.2.3}{Check for arching action}{subsection.10.2}% 89
+\BOOKMARK [3][-]{subsubsection.10.2.4}{Check concrete masonry lintel - strenght design}{subsection.10.2}% 90
+\BOOKMARK [3][-]{subsubsection.10.2.5}{Check lintel deflection}{subsection.10.2}% 91
+\BOOKMARK [2][-]{subsection.10.3}{Lintel 1st floor}{section.10}% 92
+\BOOKMARK [3][-]{subsubsection.10.3.1}{Geometry data}{subsection.10.3}% 93
+\BOOKMARK [3][-]{subsubsection.10.3.2}{Load data}{subsection.10.3}% 94
+\BOOKMARK [3][-]{subsubsection.10.3.3}{Check for arching action}{subsection.10.3}% 95
+\BOOKMARK [3][-]{subsubsection.10.3.4}{Check concrete masonry lintel - strenght design}{subsection.10.3}% 96
+\BOOKMARK [3][-]{subsubsection.10.3.5}{Check lintel deflection}{subsection.10.3}% 97
+\BOOKMARK [1][-]{section.11}{Balconies connection}{}% 98
+\BOOKMARK [2][-]{subsection.11.1}{Loads on the connection}{section.11}% 99
+\BOOKMARK [2][-]{subsection.11.2}{Loads on fasteners}{section.11}% 100
+\BOOKMARK [2][-]{subsection.11.3}{Fastener strength}{section.11}% 101
+\BOOKMARK [2][-]{subsection.11.4}{Checking of fastener capacities}{section.11}% 102
+\BOOKMARK [1][-]{figure.caption.311}{Appendices}{}% 103
+\BOOKMARK [2][-]{subsection.Alph0.1}{Loading criteria}{figure.caption.311}% 104
+\BOOKMARK [3][-]{subsubsection.Alph0.1.1}{Dead loads}{subsection.Alph0.1}% 105
+\BOOKMARK [3][-]{subsubsection.Alph0.1.2}{Live loads}{subsection.Alph0.1}% 106
+\BOOKMARK [3][-]{subsubsection.Alph0.1.3}{Snow loads}{subsection.Alph0.1}% 107
+\BOOKMARK [3][-]{subsubsection.Alph0.1.4}{Wind loads}{subsection.Alph0.1}% 108
+\BOOKMARK [3][-]{subsubsection.Alph0.1.5}{Earthquake loads}{subsection.Alph0.1}% 109
+\BOOKMARK [2][-]{subsection.Alph0.2}{Calculation results. Internal forces on columns}{figure.caption.311}% 110
+\BOOKMARK [3][-]{subsubsection.Alph0.2.1}{Ultimate limit states}{subsection.Alph0.2}% 111
+\BOOKMARK [3][-]{subsubsection.Alph0.2.2}{Serviceability limit states}{subsection.Alph0.2}% 112
