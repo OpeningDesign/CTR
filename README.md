@@ -1,8 +1,8 @@
-
-<p align="right" style="" >
-<img src="https://raw.githubusercontent.com/OpeningDesign/OD_Library/master/Marketing/Logos/od_icon_logo_2.jpg" width="120px"/>
+<div align="right" >
+<p align="right" >
+<img src="https://raw.githubusercontent.com/OpeningDesign/OD_Marketing/master/Logos/od_icon_logo_2.jpg" width="120px"/>
 </p>
-
+</div>
 
 
 
@@ -27,7 +27,12 @@ Per usual, unless otherwise noted, all content associated with [OpeningDesign](h
 ---
 
 
-![](http://openingdesign.com/wp-content/uploads/2014/11/image001-1.jpg)
-![](http://openingdesign.com/wp-content/uploads/2014/11/image004-1.jpg)
-![](http://openingdesign.com/wp-content/uploads/2014/11/image007-1.jpg)
+![](https://raw.githubusercontent.com/OpeningDesign/CTR/dd57e5977800a5921daa7cb261002fef64e2cecb/Transfer/20200511%20-%20to%20owner%20-%20revised%20renderings/Marketing/1.png)
+![](https://raw.githubusercontent.com/OpeningDesign/CTR/dd57e5977800a5921daa7cb261002fef64e2cecb/Transfer/20200511%20-%20to%20owner%20-%20revised%20renderings/Marketing/2.png)
+![](https://raw.githubusercontent.com/OpeningDesign/CTR/dd57e5977800a5921daa7cb261002fef64e2cecb/Transfer/20200511%20-%20to%20owner%20-%20revised%20renderings/Marketing/3.png)
+![](https://raw.githubusercontent.com/OpeningDesign/CTR/dd57e5977800a5921daa7cb261002fef64e2cecb/Transfer/20200511%20-%20to%20owner%20-%20revised%20renderings/Marketing/4.png)
+![](https://raw.githubusercontent.com/OpeningDesign/CTR/dd57e5977800a5921daa7cb261002fef64e2cecb/Transfer/20200511%20-%20to%20owner%20-%20revised%20renderings/Marketing/5.png)
+![](https://raw.githubusercontent.com/OpeningDesign/CTR/dd57e5977800a5921daa7cb261002fef64e2cecb/Transfer/20200511%20-%20to%20owner%20-%20revised%20renderings/Marketing/6.jpg)
+
+
 
